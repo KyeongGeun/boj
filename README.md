@@ -10,3 +10,11 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> | 01/28 |	<a href="https://www.acmicpc.net/problem/7568" target='_blank'>7568</a> | 덩치 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/1018" target='_blank'>1018</a> | 체스판 다시 칠하기 |  |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/1436" target='_blank'>1436</a> | 영화감독 숌 |  |
+---
+### 정렬 
+| 난이도 | 날짜 | 번호 | 이름 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/2750" target='_blank'>2750</a> | 수 정렬하기 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/2751" target='_blank'>2751</a> | 수 정렬하기2 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/10989" target='_blank'>10989</a> | 수 정렬하기3 |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/2108" target='_blank'>2108</a> | 통계학 |  |
