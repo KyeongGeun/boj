@@ -7,24 +7,24 @@
 ### 브루트 포스 
 | 난이도 | 날짜 | 번호 | 이름 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="20"></img> | 01/27 | <a href="https://www.acmicpc.net/problem/2798" target='_blank'>2798</a> | 블랙잭 | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="20"></img> | 01/27 |	<a href="https://www.acmicpc.net/problem/2231" target='_blank'>2231</a> | 분해합 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> | 01/28 |	<a href="https://www.acmicpc.net/problem/7568" target='_blank'>7568</a> | 덩치 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/1018" target='_blank'>1018</a> | 체스판 다시 칠하기 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/1436" target='_blank'>1436</a> | 영화감독 숌 |  |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="20"></img> | 01/27 | [2798](https://www.acmicpc.net/problem/2798") | 블랙잭 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="20"></img> | 01/27 | [2231](https://www.acmicpc.net/problem/2231") | 분해합 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> | 01/28 | [7568](https://www.acmicpc.net/problem/7568") | 덩치 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	[1018](https://www.acmicpc.net/problem/1018") | 체스판 다시 칠하기 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	[1436](https://www.acmicpc.net/problem/1436") | 영화감독 숌 |  |
 
 ---
 
 ### 정렬 
 | 난이도 | 날짜 | 번호 | 이름 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/2750" target='_blank'>2750</a> | 수 정렬하기 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/2751" target='_blank'>2751</a> | 수 정렬하기 2 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/10989" target='_blank'>10989</a> | 수 정렬하기 3 |  |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/2108" target='_blank'>2108</a> | 통계학 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/1427" target='_blank'>1427</a> | 소트인사이드 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/11650" target='_blank'>11650</a> | 좌표 정렬하기 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/11651" target='_blank'>11651</a> | 좌표 정렬하기 2 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/1181" target='_blank'>1181</a> | 단어 정렬 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/10814" target='_blank'>10814</a> | 나이순 정렬 |  |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="20"></img> |  |	<a href="https://www.acmicpc.net/problem/18870" target='_blank'>18870</a> | 좌표 압축 |  |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="20"></img> |  |	[2750](https://www.acmicpc.net/problem/2750") | 수 정렬하기 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	[2751](https://www.acmicpc.net/problem/2751") | 수 정렬하기 2 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	[10989](https://www.acmicpc.net/problem/10989") | 수 정렬하기 3 |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="20"></img> |  |	[2108](https://www.acmicpc.net/problem/2108") | 통계학 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	[1427](https://www.acmicpc.net/problem/1427") | 소트인사이드 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	[11650](https://www.acmicpc.net/problem/11650") | 좌표 정렬하기 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	[11651](https://www.acmicpc.net/problem/11651") | 좌표 정렬하기 2 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	[1181](https://www.acmicpc.net/problem/1181") | 단어 정렬 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	[10814](https://www.acmicpc.net/problem/10814") | 나이순 정렬 |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="20"></img> |  |	[18870](https://www.acmicpc.net/problem/18870") | 좌표 압축 |  |
