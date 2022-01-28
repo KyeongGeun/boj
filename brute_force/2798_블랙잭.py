@@ -10,5 +10,5 @@ for i in range(n-2):
         for k in range(j+1, n):
             sum = arr[i]+arr[j]+arr[k]
             if max < sum <= m:
-                max = sum
+                max = sum 
 print(max)
