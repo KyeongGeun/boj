@@ -1,5 +1,5 @@
 import sys
-input = sys.stdin.readline
+input = sys.stdin.readlinez
 arr = []
 for _ in range(int(input())):
     arr.append(int(input()))
