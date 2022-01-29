@@ -24,7 +24,7 @@
 | <img src="https://static.solved.ac/tier_small/5.svg" width="15px" height="20px"></img> | 01/29 | [2750][2750] | 수 정렬하기 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | 01/29 | [2751][2751] | 수 정렬하기 2 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | 01/29 | [10989][10989] | 수 정렬하기 3 | ✔ |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="15px" height="20px"></img> |  | [2108][2108] | 통계학 |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="15px" height="20px"></img> | 01/29 | [2108][2108] | 통계학 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [1427][1427] | 소트인사이드 |  |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [11650][11650] | 좌표 정렬하기 |  |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [11651][11651] | 좌표 정렬하기 2 |  |
