@@ -10,7 +10,7 @@
 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="20"></img> | 01/27 | [2798](https://www.acmicpc.net/problem/2798) | 블랙잭 | ✔ |
 | <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="20"></img> | 01/27 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> | 01/28 | [7568](https://www.acmicpc.net/problem/7568) | 덩치 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	[1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> | 01/29 |	[1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  |	[1436](https://www.acmicpc.net/problem/1436) | 영화감독 숌 |  |
 
 ---
