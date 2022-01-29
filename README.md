@@ -9,11 +9,11 @@
 
 | 난이도 | 날짜 | 번호 | 이름 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="20"></img> | 01/27 | [2798][2798] | 블랙잭 | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="20"></img> | 01/27 | [2231][2231] | 분해합 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> | 01/28 | [7568][7568] | 덩치 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> | 01/29 | [1018][1018] | 체스판 다시 칠하기 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  | [1436][1436] | 영화감독 숌 |  |
+| ![title](/img/myImg.png){: width="20px" height="20px"}<img src="https://static.solved.ac/tier_small/4.svg" width="15px" height="20px"></img> | 01/27 | [2798][2798] | 블랙잭 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="15px" height="20px"></img> | 01/27 | [2231][2231] | 분해합 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | 01/28 | [7568][7568] | 덩치 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | 01/29 | [1018][1018] | 체스판 다시 칠하기 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [1436][1436] | 영화감독 숌 |  |
 
 ---
 
@@ -21,16 +21,18 @@
 
 | 난이도 | 날짜 | 번호 | 이름 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="20"></img> |  | [2750][2750] | 수 정렬하기 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  | [2751][2751] | 수 정렬하기 2 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  | [10989][10989] | 수 정렬하기 3 |  |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="20"></img> |  | [2108][2108] | 통계학 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  | [1427][1427] | 소트인사이드 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  | [11650][11650] | 좌표 정렬하기 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  | [11651][11651] | 좌표 정렬하기 2 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  | [1181][1181] | 단어 정렬 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="20"></img> |  | [10814][10814] | 나이순 정렬 |  |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="20"></img> |  | [18870][18870] | 좌표 압축 |  |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="15px" height="20px"></img> |  | [2750][2750] | 수 정렬하기 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [2751][2751] | 수 정렬하기 2 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [10989][10989] | 수 정렬하기 3 |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="15px" height="20px"></img> |  | [2108][2108] | 통계학 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [1427][1427] | 소트인사이드 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [11650][11650] | 좌표 정렬하기 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [11651][11651] | 좌표 정렬하기 2 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [1181][1181] | 단어 정렬 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [10814][10814] | 나이순 정렬 |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> |  | [18870][18870] | 좌표 압축 |  |
+
+[4.svg]:
 
 [2798]: https://www.acmicpc.net/problem/2798
 [2231]: https://www.acmicpc.net/problem/2231
