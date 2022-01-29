@@ -32,8 +32,6 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [10814][10814] | 나이순 정렬 |  |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> |  | [18870][18870] | 좌표 압축 |  |
 
-[4.svg]:
-
 [2798]: https://www.acmicpc.net/problem/2798
 [2231]: https://www.acmicpc.net/problem/2231
 [7568]: https://www.acmicpc.net/problem/7568
