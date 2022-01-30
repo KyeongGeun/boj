@@ -1,0 +1,1 @@
+print(*sorted(input(), reverse=1), sep='')
