@@ -32,6 +32,21 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | 01/30 | [10814][10814] | 나이순 정렬 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> |  | [18870][18870] | 좌표 압축 |  |
 
+---
+
+### 백트래킹
+
+| 난이도 | 날짜 | 번호 | 이름 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> |  | [15649][15649] | N과 M (1) |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> |  | [15650][15650] | N과 M (2) |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> |  | [15651][15651] | N과 M (3) |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> |  | [15652][15652] | N과 M (4) |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="15px" height="20px"></img> |  | [9663][9663] | N-Queen |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="15px" height="20px"></img> |  | [2580][2580] | 스도쿠 |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="15px" height="20px"></img> |  | [14888][14888] | 연산자 끼워넣기 |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> |  | [14889][14889] | 스타트와 링크 |  |
+
 [2798]: https://www.acmicpc.net/problem/2798
 [2231]: https://www.acmicpc.net/problem/2231
 [7568]: https://www.acmicpc.net/problem/7568
@@ -48,3 +63,12 @@
 [1181]: https://www.acmicpc.net/problem/1181
 [10814]: https://www.acmicpc.net/problem/10814
 [18870]: https://www.acmicpc.net/problem/18870
+
+[15649]: https://www.acmicpc.net/problem/15649
+[15650]: https://www.acmicpc.net/problem/15650
+[15651]: https://www.acmicpc.net/problem/15651
+[15652]: https://www.acmicpc.net/problem/15652
+[9663]: https://www.acmicpc.net/problem/9663
+[2580]: https://www.acmicpc.net/problem/2580
+[14888]: https://www.acmicpc.net/problem/14888
+[14889]: https://www.acmicpc.net/problem/14889
