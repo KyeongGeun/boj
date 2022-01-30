@@ -9,11 +9,11 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="15px" height="20px"></img> | [2798][2798] | 블랙잭 | 01/27 | ✔ |
-| <img src="https://static.solved.ac/tier_small/4.svg" width="15px" height="20px"></img> | [2231][2231] | 분해합 | 01/27 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [7568][7568] | 덩치 | 01/28 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [1018][1018] | 체스판 다시 칠하기 | 01/29 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [1436][1436] | 영화감독 숌 | 01/29 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2798][2798] | 블랙잭 | 01/27 | ✔ |
+| <img src="https://static.solved.ac/tier_small/4.svg" width="20px" height="25px"></img> | [2231][2231] | 분해합 | 01/27 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [7568][7568] | 덩치 | 01/28 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1018][1018] | 체스판 다시 칠하기 | 01/29 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1436][1436] | 영화감독 숌 | 01/29 | ✔ |
 
 ---
 
@@ -21,16 +21,16 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="15px" height="20px"></img> | [2750][2750] | 수 정렬하기 | 01/29 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [2751][2751] | 수 정렬하기 2 | 01/29 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [10989][10989] | 수 정렬하기 3 | 01/29 | ✔ |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="15px" height="20px"></img> | [2108][2108] | 통계학 | 01/29 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [1427][1427] | 소트인사이드 | 01/30 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [11650][11650] | 좌표 정렬하기 | 01/30 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [11651][11651] | 좌표 정렬하기 2 | 01/30 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [1181][1181] | 단어 정렬 | 01/30 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [10814][10814] | 나이순 정렬 | 01/30 | ✔ |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> | [18870][18870] | 좌표 압축 |  |  |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2750][2750] | 수 정렬하기 | 01/29 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2751][2751] | 수 정렬하기 2 | 01/29 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [10989][10989] | 수 정렬하기 3 | 01/29 | ✔ |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [2108][2108] | 통계학 | 01/29 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1427][1427] | 소트인사이드 | 01/30 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11650][11650] | 좌표 정렬하기 | 01/30 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11651][11651] | 좌표 정렬하기 2 | 01/30 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1181][1181] | 단어 정렬 | 01/30 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [10814][10814] | 나이순 정렬 | 01/30 | ✔ |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [18870][18870] | 좌표 압축 |  |  |
 
 ---
 
@@ -38,14 +38,14 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> | [15649][15649] | N과 M (1) |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> | [15650][15650] | N과 M (2) |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> | [15651][15651] | N과 M (3) |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> | [15652][15652] | N과 M (4) |  |  |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="15px" height="20px"></img> | [9663][9663] | N-Queen |  |  |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="15px" height="20px"></img> | [2580][2580] | 스도쿠 |  |  |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="15px" height="20px"></img> | [14888][14888] | 연산자 끼워넣기 |  |  |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> | [14889][14889] | 스타트와 링크 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15649][15649] | N과 M (1) |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15650][15650] | N과 M (2) |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15651][15651] | N과 M (3) |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15652][15652] | N과 M (4) |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [9663][9663] | N-Queen |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [2580][2580] | 스도쿠 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [14888][14888] | 연산자 끼워넣기 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [14889][14889] | 스타트와 링크 |  |  |
 
 ---
 
@@ -53,22 +53,22 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> | [1003][1003] | 피보나치 함수 |  |  |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> | [9184][9184] | 신나는 함수 실행 |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> | [1904][1904] | 01타일 |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> | [9461][9461] | 파도반 수열 |  |  |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="15px" height="20px"></img> | [1149][1149] | RGB거리 |  |  |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="15px" height="20px"></img> | [1932][1932] | 	정수 삼각형 |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> | [2579][2579] | 계단 오르기 |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="15px" height="20px"></img> | [1463][1463] | 1로 만들기 |  |  |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="15px" height="20px"></img> | [1463][1463] | 쉬운 계단 수 |  |  |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="15px" height="20px"></img> | [2156][2156] | 포도주 시식 |  |  |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> | [11053][11053] | 가장 긴 증가하는 부분 수열 |  |  |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="15px" height="20px"></img> | [11054][11054] | 가장 긴 바이토닉 부분 수열 |  |  |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="15px" height="20px"></img> | [2565][2565] | 전깃줄 |  |  |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="15px" height="20px"></img> | [9251][9251] | LCS |  |  |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> | [1912][1912] | 연속합 |  |  |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="15px" height="20px"></img> | [12865][12865] | 평범한 배낭 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1003][1003] | 피보나치 함수 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [9184][9184] | 신나는 함수 실행 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1904][1904] | 01타일 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [9461][9461] | 파도반 수열 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1149][1149] | RGB거리 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1932][1932] | 	정수 삼각형 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2579][2579] | 계단 오르기 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1463][1463] | 1로 만들기 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1463][1463] | 쉬운 계단 수 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2156][2156] | 포도주 시식 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [11053][11053] | 가장 긴 증가하는 부분 수열 |  |  |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [11054][11054] | 가장 긴 바이토닉 부분 수열 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2565][2565] | 전깃줄 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [9251][9251] | LCS |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1912][1912] | 연속합 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [12865][12865] | 평범한 배낭 |  |  |
 
 [2798]: https://www.acmicpc.net/problem/2798
 [2231]: https://www.acmicpc.net/problem/2231
