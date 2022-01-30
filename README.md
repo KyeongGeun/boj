@@ -32,7 +32,7 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11651][11651] | 좌표 정렬하기 2 | 01/30 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1181][1181] | 단어 정렬 | 01/30 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [10814][10814] | 나이순 정렬 | 01/30 | ✔ |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [18870][18870] | 좌표 압축 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [18870][18870] | 좌표 압축 | 01/30 | ✔ |
 
 ---
 
