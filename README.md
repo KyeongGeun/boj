@@ -12,8 +12,8 @@
 | <img src="https://static.solved.ac/tier_small/4.svg" width="15px" height="20px"></img> | [2798][2798] | 블랙잭 | 01/27 | ✔ |
 | <img src="https://static.solved.ac/tier_small/4.svg" width="15px" height="20px"></img> | [2231][2231] | 분해합 | 01/27 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [7568][7568] | 덩치 | 01/28 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [1018][1018] | 체스판 다시 칠하기 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [1436][1436] | 영화감독 숌 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [1018][1018] | 체스판 다시 칠하기 | 01/29 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [1436][1436] | 영화감독 숌 | 01/29 | ✔ |
 
 ---
 
@@ -21,7 +21,7 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/5.svg" width="15px" height="20px"></img> | [2750][2750] | 수 정렬하기 | ✔ |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="15px" height="20px"></img> | [2750][2750] | 수 정렬하기 | 01/29 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [2751][2751] | 수 정렬하기 2 | 01/29 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [10989][10989] | 수 정렬하기 3 | 01/29 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="15px" height="20px"></img> | [2108][2108] | 통계학 | 01/29 | ✔ |
@@ -30,7 +30,7 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [11651][11651] | 좌표 정렬하기 2 | 01/30 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [1181][1181] | 단어 정렬 | 01/30 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | [10814][10814] | 나이순 정렬 | 01/30 | ✔ |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> |  | [18870][18870] | 좌표 압축 |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> | [18870][18870] | 좌표 압축 |  |  |
 
 ---
 
