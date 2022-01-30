@@ -28,8 +28,8 @@
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | 01/30 | [1427][1427] | 소트인사이드 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | 01/30 | [11650][11650] | 좌표 정렬하기 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | 01/30 | [11651][11651] | 좌표 정렬하기 2 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [1181][1181] | 단어 정렬 |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> |  | [10814][10814] | 나이순 정렬 |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | 01/30 | [1181][1181] | 단어 정렬 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="15px" height="20px"></img> | 01/30 | [10814][10814] | 나이순 정렬 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="15px" height="20px"></img> |  | [18870][18870] | 좌표 압축 |  |
 
 [2798]: https://www.acmicpc.net/problem/2798
