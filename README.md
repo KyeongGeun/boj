@@ -1,3 +1,5 @@
+<div align="center">
+
 ## 백준(BOJ) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 [![Solved.ac
@@ -69,6 +71,8 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [9251][9251] | LCS |  |  |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1912][1912] | 연속합 |  |  |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [12865][12865] | 평범한 배낭 |  |  |
+
+</div>
 
 [2798]: https://www.acmicpc.net/problem/2798
 [2231]: https://www.acmicpc.net/problem/2231
