@@ -49,10 +49,10 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15649][15649] | N과 M (1) |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15650][15650] | N과 M (2) |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15651][15651] | N과 M (3) |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15652][15652] | N과 M (4) |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15649][15649] | N과 M (1) | 01/31 | ✔ |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15650][15650] | N과 M (2) | 01/31 | ✔ |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15651][15651] | N과 M (3) | 01/31 | ✔ |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15652][15652] | N과 M (4) | 01/31 | ✔ |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [9663][9663] | N-Queen |  |  |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [2580][2580] | 스도쿠 |  |  |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [14888][14888] | 연산자 끼워넣기 |  |  |
