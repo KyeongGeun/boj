@@ -1,15 +1,7 @@
 import sys
 input = sys.stdin.readline
-arr = []
-
-for i in range(9):
-    arr.append(input().split())
-
-li = []
-for i in range(9):
-    for j in range(9):
-        if arr[i][j] == '0':
-            li.append((i, j))
+arr = [input.split() for _ in range(9)]
+li = [(i, j) for i in range(9) for j in range(9) if arr[i][j] == '0']
 
 def det(x, y, a):
     for j in range(9):
@@ -31,11 +23,10 @@ def sudoku(N):
         print('\n'.join(map(' '.join, arr)))
         exit(0)
     for i in range(1, 10):
-        x = li[N][0]
-        y = li[N][1]
+        x, y = li[N][0], li[N][1]
         if det(x, y, i):
             arr[x][y] = str(i)
             sudoku(N+1)
             arr[x][y] = '0'
-            
+
 sudoku(0)
