@@ -53,8 +53,8 @@
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15650][15650] | N과 M (2) | 01/31 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15651][15651] | N과 M (3) | 01/31 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [15652][15652] | N과 M (4) | 01/31 | ✔ |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [9663][9663] | N-Queen |  |  |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [2580][2580] | 스도쿠 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [9663][9663] | N-Queen | 02/01 | ✔ |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [2580][2580] | 스도쿠 | 02/01 | ✔ |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [14888][14888] | 연산자 끼워넣기 |  |  |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [14889][14889] | 스타트와 링크 |  |  |
 
