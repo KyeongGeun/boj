@@ -65,8 +65,8 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1003][1003] | 피보나치 함수 | 02/02 | ✔ |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [9184][9184] | 신나는 함수 실행 |  |  |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1904][1904] | 01타일 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [9184][9184] | 신나는 함수 실행 | 02/02 | ✔ |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1904][1904] | 01타일 | 02/02 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [9461][9461] | 파도반 수열 |  |  |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1149][1149] | RGB거리 |  |  |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1932][1932] | 	정수 삼각형 |  |  |
