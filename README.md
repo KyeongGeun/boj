@@ -64,7 +64,7 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1003][1003] | 피보나치 함수 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1003][1003] | 피보나치 함수 | 02/02 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [9184][9184] | 신나는 함수 실행 |  |  |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1904][1904] | 01타일 |  |  |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [9461][9461] | 파도반 수열 |  |  |
