@@ -10,7 +10,7 @@
 | Contents |
 | :-: |
 | [브루트 포스](#브루트-포스) |
-| [정렬](#정렬 )|
+| [정렬](#정렬)|
 | [백트래킹](#백트래킹) |
 | [동적 계획법 1](#동적-계획법-1) |
 | [그리디 알고리즘](#그리디-알고리즘) |
@@ -69,8 +69,8 @@
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [9184][9184] | 신나는 함수 실행 | 02/02 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1904][1904] | 01타일 | 02/02 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [9461][9461] | 파도반 수열 | 02/03 | ✔ |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1149][1149] | RGB거리 |  |  |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1932][1932] | 	정수 삼각형 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1149][1149] | RGB거리 | 02/03 | ✔ |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1932][1932] | 정수 삼각형 |  |  |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2579][2579] | 계단 오르기 |  |  |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1463][1463] | 1로 만들기 |  |  |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1463][1463] | 쉬운 계단 수 |  |  |
