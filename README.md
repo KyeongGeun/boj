@@ -72,8 +72,8 @@
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1149][1149] | RGB거리 | 02/03 | ✔ |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1932][1932] | 정수 삼각형 | 02/04 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2579][2579] | 계단 오르기 | 02/04 | ✔ |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1463][1463] | 1로 만들기 |  |  |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1463][1463] | 쉬운 계단 수 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1463][1463] | 1로 만들기 | 02/05 | ✔ |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [10844][10844] | 쉬운 계단 수 |  |  |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2156][2156] | 포도주 시식 |  |  |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [11053][11053] | 가장 긴 증가하는 부분 수열 |  |  |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [11054][11054] | 가장 긴 바이토닉 부분 수열 |  |  |
