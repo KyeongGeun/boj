@@ -5,6 +5,10 @@ n = int(input())
 stairs = [int(input()) for _ in range(n)]
 dp = [0]*n
 
+if n <= 2:
+    print(sum(stairs))
+    exit()
+
 dp[0] = stairs[0]
 dp[1] = stairs[0] + stairs[1]
 dp[2] = max(stairs[0] + stairs[2], stairs[1] + stairs[2])
