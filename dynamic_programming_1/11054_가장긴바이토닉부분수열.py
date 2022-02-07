@@ -20,9 +20,8 @@ for i in range(-1, -n-1, -1):
 m = 1
 
 for i in range(n):
-  temp = dp1[i]
   for j in range(1, n-i-1):
       if li[i] != li[i+j]:
-        m = max(m, temp + dp2[n-i-1-j])
+        m = max(m, dp1[i] + dp2[n-i-1-j])
 
 print(m)
