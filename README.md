@@ -14,6 +14,7 @@
 | [백트래킹](#백트래킹) |
 | [동적 계획법 1](#동적-계획법-1) |
 | [그리디 알고리즘](#그리디-알고리즘) |
+| [정수론 및 조합론](#정수론-및-조합론) |
 
 ---
 
@@ -94,6 +95,25 @@
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1541][1541] | 잃어버린 괄호 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [13305][13305] | 주유소 |  |  |
 
+---
+
+### 정수론 및 조합론
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [5086][5086] | 배수와 약수 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1037][1037] | 약수 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2609][2609] | 최대공약수와 최소공배수 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1934][1934] | 최소공배수 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2981][2981] | 검문 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [3036][3036] | 링 |  |  |
+| <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [11050][11050] | 이항 계수 1 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11051][11051] | 이항 계수 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1010][1010] | 다리 놓기 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [9375][9375] | 패션왕 신해빈 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1676][1676] | 팩토리얼 0의 개수 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [2004][2004] | 조합 0의 개수 |  |  |
+
 </div>
 
 [2798]: https://www.acmicpc.net/problem/2798
@@ -144,3 +164,16 @@
 [11399]: https://www.acmicpc.net/problem/11399
 [1541]: https://www.acmicpc.net/problem/1541
 [13305]: https://www.acmicpc.net/problem/13305
+
+[5086]: https://www.acmicpc.net/problem/5086
+[1037]: https://www.acmicpc.net/problem/1037
+[2609]: https://www.acmicpc.net/problem/2609
+[1934]: https://www.acmicpc.net/problem/1934
+[2981]: https://www.acmicpc.net/problem/2981
+[3036]: https://www.acmicpc.net/problem/3036
+[11050]: https://www.acmicpc.net/problem/11050
+[11051]: https://www.acmicpc.net/problem/11051
+[1010]: https://www.acmicpc.net/problem/1010
+[9375]: https://www.acmicpc.net/problem/9375
+[1676]: https://www.acmicpc.net/problem/1676
+[2004]: https://www.acmicpc.net/problem/2004
