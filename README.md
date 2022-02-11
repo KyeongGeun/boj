@@ -80,7 +80,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2565][2565] | 전깃줄 | 02/08 | ✔ |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [9251][9251] | LCS | 02/09 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1912][1912] | 연속합 | 02/10 | ✔ |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [12865][12865] | 평범한 배낭 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [12865][12865] | 평범한 배낭 | 02/11 | ✔ |
 
 ---
 
