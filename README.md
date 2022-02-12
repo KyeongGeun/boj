@@ -103,8 +103,8 @@
 |:---:|:---:|:---:|:---:| :---: |
 | <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [5086][5086] | 배수와 약수 | 02/12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1037][1037] | 약수 | 02/12 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2609][2609] | 최대공약수와 최소공배수 |  |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1934][1934] | 최소공배수 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2609][2609] | 최대공약수와 최소공배수 | 02/12 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1934][1934] | 최소공배수 | 02/12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2981][2981] | 검문 |  |  |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [3036][3036] | 링 |  |  |
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [11050][11050] | 이항 계수 1 |  |  |
