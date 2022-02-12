@@ -101,8 +101,8 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [5086][5086] | 배수와 약수 |  |  |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1037][1037] | 약수 |  |  |
+| <img src="https://static.solved.ac/tier_small/3.svg" width="20px" height="25px"></img> | [5086][5086] | 배수와 약수 | 02/12 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1037][1037] | 약수 | 02/12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [2609][2609] | 최대공약수와 최소공배수 |  |  |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1934][1934] | 최소공배수 |  |  |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2981][2981] | 검문 |  |  |
