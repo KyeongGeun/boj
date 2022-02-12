@@ -91,8 +91,8 @@
 |:---:|:---:|:---:|:---:| :---: |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [11047][11047] | 동전 0 | 02/11 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1931][1931] | 회의실 배정 | 02/12 | ✔ |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11399][11399] | ATM |  |  |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1541][1541] | 잃어버린 괄호 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11399][11399] | ATM | 02/12 | ✔ |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1541][1541] | 잃어버린 괄호 | 02/12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [13305][13305] | 주유소 |  |  |
 
 ---
