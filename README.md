@@ -109,7 +109,7 @@
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [3036][3036] | 링 | 02/13 | ✔ |
 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [11050][11050] | 이항 계수 1 | 02/13 | ✔ |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11051][11051] | 이항 계수 2 | 02/13 | ✔ |
-| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1010][1010] | 다리 놓기 |  |  |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1010][1010] | 다리 놓기 | 02/13 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [9375][9375] | 패션왕 신해빈 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1676][1676] | 팩토리얼 0의 개수 |  |  |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [2004][2004] | 조합 0의 개수 |  |  |
