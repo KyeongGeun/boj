@@ -16,6 +16,7 @@
 | [그리디 알고리즘](#그리디-알고리즘) |
 | [정수론 및 조합론](#정수론-및-조합론) |
 | [스택]](#스택) |
+| [큐, 덱](#큐,-덱) |
 
 ---
 
@@ -128,6 +129,20 @@
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1874][1874] | 스택 수열 |  |  |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17298][17298] | 오큰수 |  |  |
 
+---
+
+### 큐, 덱
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [18258][18258] | 큐 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [2164][2164] | 카드2 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [11866][11866] | 요세푸스 문제 0 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1966][1966] | 프린터 큐 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10866][10866] | 덱 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1021][1021] | 회전하는 큐 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [5430][5430] | AC |  |  |
+
 </div>
 
 [2798]: https://www.acmicpc.net/problem/2798
@@ -198,3 +213,11 @@
 [4949]: https://www.acmicpc.net/problem/4949
 [1874]: https://www.acmicpc.net/problem/1874
 [17298]: https://www.acmicpc.net/problem/17298
+
+[18258]: https://www.acmicpc.net/problem/18258
+[2164]: https://www.acmicpc.net/problem/2164
+[11866]: https://www.acmicpc.net/problem/11866
+[1966]: https://www.acmicpc.net/problem/1966
+[10866]: https://www.acmicpc.net/problem/10866
+[1021]: https://www.acmicpc.net/problem/1021
+[5430]: https://www.acmicpc.net/problem/5430
