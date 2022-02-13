@@ -15,6 +15,7 @@
 | [동적 계획법 1](#동적-계획법-1) |
 | [그리디 알고리즘](#그리디-알고리즘) |
 | [정수론 및 조합론](#정수론-및-조합론) |
+| [스택]](#스택) |
 
 ---
 
@@ -114,6 +115,19 @@
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1676][1676] | 팩토리얼 0의 개수 |  |  |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [2004][2004] | 조합 0의 개수 |  |  |
 
+---
+
+### 스택
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10828][10828] | 스택 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10773][10773] | 제로 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [9012][9012] | 괄호 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [4949][4949] | 균형잡힌 세상 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1874][1874] | 스택 수열 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [17298][17298] | 오큰수 |  |  |
+
 </div>
 
 [2798]: https://www.acmicpc.net/problem/2798
@@ -177,3 +191,10 @@
 [9375]: https://www.acmicpc.net/problem/9375
 [1676]: https://www.acmicpc.net/problem/1676
 [2004]: https://www.acmicpc.net/problem/2004
+
+[10828]: https://www.acmicpc.net/problem/10828
+[10773]: https://www.acmicpc.net/problem/10773
+[9012]: https://www.acmicpc.net/problem/9012
+[4949]: https://www.acmicpc.net/problem/4949
+[1874]: https://www.acmicpc.net/problem/1874
+[17298]: https://www.acmicpc.net/problem/17298
