@@ -125,8 +125,8 @@
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10773][10773] | 제로 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [9012][9012] | 괄호 |  |  |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [4949][4949] | 균형잡힌 세상 |  |  |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1874][1874] | 스택 수열 |  |  |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [17298][17298] | 오큰수 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1874][1874] | 스택 수열 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17298][17298] | 오큰수 |  |  |
 
 </div>
 
