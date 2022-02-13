@@ -3,18 +3,17 @@ input = sys.stdin.readline
 
 for _ in range(int(input())):
     s = input().rstrip()
-    l, r = 0, 0
+    stack = 0
     for v in s:
         if v == '(':
-            l += 1
+            stack += 1
         else:
-            r += 1
-        if r > l:
-            print('NO')
-            break
+            stack -= 1
+            if stack < 0:
+                print('NO')
+                break
     else:
-        if l == r:
+        if stack == 0:
             print('YES')
         else:
             print('NO')
-
