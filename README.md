@@ -18,6 +18,7 @@
 |        [스택](#스택)        |
 |      [큐, 덱](#큐-덱)       |
 | [분할 정복](#분할-정복) |
+| [이분 탐색](#이분-탐색) |
 <!-- Contents -->
 
 ---
@@ -160,7 +161,21 @@
  | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [10830][10830] | 행렬 제곱 |  |  |
  | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [11444][11444] | 피보나치 수 6 |  |  |
  | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [6549][6549] | 히스토그램에서 가장 큰 직사각형 |  |  |
- <!-- ### -->
+
+---
+
+### 이분 탐색
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1920][1920] | 수 찾기 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10816][10816] | 숫자 카드 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1654][1654] | 랜선 자르기 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2805][2805] | 나무 자르기 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2110][2110] | 공유기 설치 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1300][1300] | K번째 수 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [12015][12015] | 가장 긴 증가하는 부분 수열 2 |  |  |
+<!-- ### -->
 
 </div>
 
@@ -250,3 +265,11 @@
 [10830]: https://www.acmicpc.net/problem/10830
 [11444]: https://www.acmicpc.net/problem/11444
 [6549]: https://www.acmicpc.net/problem/6549
+
+[1920]: https://www.acmicpc.net/problem/1920
+[10816]: https://www.acmicpc.net/problem/10816
+[1654]: https://www.acmicpc.net/problem/1654
+[2805]: https://www.acmicpc.net/problem/2805
+[2110]: https://www.acmicpc.net/problem/2110
+[1300]: https://www.acmicpc.net/problem/1300
+[12015]: https://www.acmicpc.net/problem/12015
