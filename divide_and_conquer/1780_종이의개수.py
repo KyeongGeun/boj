@@ -7,7 +7,7 @@ def slice(x, y, n, li):
         cnt[v] += 1
         return
 
-    s = str(v-1)
+    s = li[y][x]
     flag = False    
     
     for i in range(x, x + n):
@@ -30,6 +30,6 @@ n = int(input())
 li = [input().split() for _ in range(n)]
 
 cnt = [0, 0, 0]
-s = slice(0, 0, n, li)
+slice(0, 0, n, li)
 
 print(*cnt, sep='\n')
