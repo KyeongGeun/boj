@@ -158,7 +158,7 @@
  | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1629][1629] | 곱셈 | 02/18 | ✔ |
  | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [11401][11401] | 이항 계수 3 | 02/19 | ✔ |
  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2740][2740] | 행렬 곱셈 | 02/19 | ✔ |
- | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [10830][10830] | 행렬 제곱 |  |  |
+ | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [10830][10830] | 행렬 제곱 | 02/19 | ✔ |
  | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [11444][11444] | 피보나치 수 6 |  |  |
  | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [6549][6549] | 히스토그램에서 가장 큰 직사각형 |  |  |
 
