@@ -154,7 +154,7 @@
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2630][2630] | 색종이 만들기 | 02/18 | ✔ |
  | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1992][1992] | 쿼드트리 | 02/18 | ✔ |
- | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1780][1780] | 종이의 개수 |  |  |
+ | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1780][1780] | 종이의 개수 | 02/18 | ✔ |
  | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1629][1629] | 곱셈 |  |  |
  | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [11401][11401] | 이항 계수 3 |  |  |
  | <img src="https://static.solved.ac/tier_small/5.svg" width="20px" height="25px"></img> | [2740][2740] | 행렬 곱셈 |  |  |
