@@ -1,5 +1,6 @@
 # 페르마 소정리
 # a**(p-1) = 1 (mod p) (a: 정수, p: 소수, a%p != 0)
+# a**(p-2) = a**(-1) (mod p)
 
 import sys
 input = sys.stdin.readline
