@@ -19,6 +19,7 @@
 |      [큐, 덱](#큐-덱)       |
 | [분할 정복](#분할-정복) |
 | [이분 탐색](#이분-탐색) |
+| [우선순위 큐](#우선순위-큐) |
 <!-- Contents -->
 
 ---
@@ -175,6 +176,17 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2110][2110] | 공유기 설치 |  |  |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1300][1300] | K번째 수 |  |  |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [12015][12015] | 가장 긴 증가하는 부분 수열 2 |  |  |
+
+---
+
+### 우선순위 큐
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [11279][11279] | 최대 힙 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1927][1927] | 최소 힙 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11286][11286] | 절댓값 힙 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1655][1655] | 가운데를 말해요 |  |  |
 <!-- ### -->
 
 </div>
@@ -273,3 +285,8 @@
 [2110]: https://www.acmicpc.net/problem/2110
 [1300]: https://www.acmicpc.net/problem/1300
 [12015]: https://www.acmicpc.net/problem/12015
+
+[11279]: https://www.acmicpc.net/problem/11279
+[1927]: https://www.acmicpc.net/problem/1927
+[11286]: https://www.acmicpc.net/problem/11286
+[1655]: https://www.acmicpc.net/problem/1655
