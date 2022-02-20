@@ -174,7 +174,7 @@
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10816][10816] | 숫자 카드 2 | 02/20 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1654][1654] | 랜선 자르기 | 02/20 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2805][2805] | 나무 자르기 | 02/21 | ✔ |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2110][2110] | 공유기 설치 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2110][2110] | 공유기 설치 | 02/21 | ✔ |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1300][1300] | K번째 수 |  |  |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [12015][12015] | 가장 긴 증가하는 부분 수열 2 |  |  |
 
