@@ -170,7 +170,7 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1920][1920] | 수 찾기 | 02/20 | ✔ |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10816][10816] | 숫자 카드 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [10816][10816] | 숫자 카드 2 | 02/20 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [1654][1654] | 랜선 자르기 |  |  |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2805][2805] | 나무 자르기 |  |  |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2110][2110] | 공유기 설치 |  |  |
