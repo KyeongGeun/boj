@@ -186,7 +186,7 @@
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [11279][11279] | 최대 힙 | 02/23 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1927][1927] | 최소 힙 | 02/23 | ✔ |
-| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11286][11286] | 절댓값 힙 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11286][11286] | 절댓값 힙 | 02/24 | ✔ |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1655][1655] | 가운데를 말해요 |  |  |
 
 ---
