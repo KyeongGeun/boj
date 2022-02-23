@@ -21,6 +21,7 @@
 | [이분 탐색](#이분-탐색) |
 | [우선순위 큐](#우선순위-큐) |
 | [동적 계획법 2](#동적-계획법-2) |
+| [DFS와 BFS](#DFS와-BFS) |
 <!-- Contents -->
 
 ---
@@ -202,6 +203,24 @@
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [2629][2629] | 양팔저울 |  |  |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2293][2293] | 동전 1 |  |  |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [7579][7579] | 앱 |  |  |
+
+---
+
+### DFS와 BFS
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1260][1260] | DFS와 BFS |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2606][2606] | 바이러스 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2667][2667] | 단지번호붙이기 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1012][1012] | 유기농 배추 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2178][2178] | 미로 탐색 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [7576][7576] | 토마토 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [7569][7569] | 토마토 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1697][1697] | 숨바꼭질 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [2206][2206] | 벽 부수고 이동하기 |  |  |
+| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [7562][7562] | 나이트의 이동 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1707][1707] | 이분 그래프 |  |  |
 <!-- ### -->
 
 </div>
@@ -313,3 +332,15 @@
 [2629]: https://www.acmicpc.net/problem/2629
 [2293]: https://www.acmicpc.net/problem/2293
 [7579]: https://www.acmicpc.net/problem/7579
+
+[1260]: https://www.acmicpc.net/problem/1260
+[2606]: https://www.acmicpc.net/problem/2606
+[2667]: https://www.acmicpc.net/problem/2667
+[1012]: https://www.acmicpc.net/problem/1012
+[2178]: https://www.acmicpc.net/problem/2178
+[7576]: https://www.acmicpc.net/problem/7576
+[7569]: https://www.acmicpc.net/problem/7569
+[1697]: https://www.acmicpc.net/problem/1697
+[2206]: https://www.acmicpc.net/problem/2206
+[7562]: https://www.acmicpc.net/problem/7562
+[1707]: https://www.acmicpc.net/problem/1707
