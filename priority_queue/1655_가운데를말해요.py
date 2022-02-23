@@ -23,8 +23,6 @@ for _ in range(n-1):
         if len(left_hq) > len(right_hq) + 1:
             heapq.heappush(right_hq, -(heapq.heappop(left_hq)))
 
-    print(left_hq)
-    print(right_hq)
     ans.append(-left_hq[0])
 
 print(*ans, sep='\n')
