@@ -197,8 +197,8 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [11066][11066] | 파일 합치기 | 02/24 | ✔ |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [11049][11049] | 행렬 곱셈 순서 |  |  |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1520][1520] | 내리막 길 |  |  |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [11049][11049] | 행렬 곱셈 순서 | 02/25 | ✔ |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1520][1520] | 내리막 길 | 02/25 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [10942][10942] | 팰린드롬? |  |  |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [2629][2629] | 양팔저울 |  |  |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2293][2293] | 동전 1 |  |  |
