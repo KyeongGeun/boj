@@ -10,7 +10,7 @@ for _ in range(int(input())):
         for i in range(j-1, -1, -1):
             mini = sys.maxsize
             for k in range(j-i):
-                mini = min(mini, dp[i][i+k] + dp[i+k+1][j])           
+                mini = min(mini, dp[i][i+k] + dp[i+k+1][j])
             dp[i][j] = mini + sum(li[i:j+1])
  
     print(dp[0][-1])
