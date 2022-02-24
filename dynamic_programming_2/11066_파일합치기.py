@@ -1,4 +1,3 @@
-import math
 import sys
 input = sys.stdin.readline
 
@@ -9,7 +8,7 @@ for _ in range(int(input())):
 
     for j in range(1, k):
         for i in range(j-1, -1, -1):
-            mini = math.inf
+            mini = sys.maxsize
             for k in range(j-i):
                 mini = min(mini, dp[i][i+k] + dp[i+k+1][j])           
             dp[i][j] = mini + sum(li[i:j+1])
