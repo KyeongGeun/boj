@@ -202,7 +202,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1520][1520] | 내리막 길 | 02/25 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [10942][10942] | 팰린드롬? | 02/26 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [2629][2629] | 양팔저울 | 02/27 | ✔ |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2293][2293] | 동전 1 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2293][2293] | 동전 1 | 02/28 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [7579][7579] | 앱 |  |  |
 
 ---
