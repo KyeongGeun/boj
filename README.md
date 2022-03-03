@@ -212,7 +212,7 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1260][1260] | DFS와 BFS | 03/02 | ✔ |
-| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2606][2606] | 바이러스 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [2606][2606] | 바이러스 | 03/03 | ✔ |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2667][2667] | 단지번호붙이기 |  |  |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1012][1012] | 유기농 배추 |  |  |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [2178][2178] | 미로 탐색 |  |  |
