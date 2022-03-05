@@ -19,9 +19,6 @@ for _ in range(int(input())):
     edge[a].append(b)
     edge[b].append(a)
 
-for i in range(1, len(edge)):
-    edge[i].sort()
-
 log = set()
 
 d = dfs(1)
