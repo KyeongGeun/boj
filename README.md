@@ -230,7 +230,7 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [1753][1753] | 최단경로 | 03/13 | ✔ |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1504][1504] | 특정한 최단 경로 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1504][1504] | 특정한 최단 경로 | 03/14 | ✔ |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [9370][9370] | 미확인 도착지 |  |  |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [11657][11657] | 타임머신 |  |  |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [11404][11404] | 플로이드 |  |  |
