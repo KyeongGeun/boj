@@ -13,22 +13,24 @@ for _ in range(e):
 
 a, b = map(int, input().split())
 
-def dijkstra(start):
-    minDis = [sys.maxsize] * (n + 1)
-    minDis[start] = 0
-
-    hq = [(start, 0)]
-
+def dijkstra(num):
+    min_d = [sys.maxsize] * (n + 1)
+    min_d[num] = 0
+    hq = [(0, num)]
+    
     while hq:
-        curPos, curDis = heapq.heappop(hq)
+        cur_d, cur_x = heapq.heappop(hq)
 
-        for newPos, w in graph[curPos]:
-            newDis = curDis + w
-            if minDis[newPos] > newDis:
-                minDis[newPos] = newDis
-                heapq.heappush(hq, (newPos, newDis))
+        if cur_d > min_d[cur_x]:
+            continue
+    
+        for new_x, d in graph[cur_x]:
+            new_d = cur_d + d
+            if min_d[new_x] > new_d:
+                min_d[new_x] = new_d
+                heapq.heappush(hq, (new_d, new_x))
 
-    return minDis
+    return min_d
 
 one = dijkstra(1)
 A = dijkstra(a)
