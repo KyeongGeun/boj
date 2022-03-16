@@ -100,7 +100,7 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [11047][11047] | 동전 0 | 02/11 | ✔ |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11047][11047] | 동전 0 | 02/11 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1931][1931] | 회의실 배정 | 02/12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11399][11399] | ATM | 02/12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1541][1541] | 잃어버린 괄호 | 02/12 | ✔ |
@@ -236,7 +236,7 @@
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [9370][9370] | 미확인 도착지 | 03/15 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [11657][11657] | 타임머신 | 03/16 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [11404][11404] | 플로이드 |  |  |
-| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [10217][10217] | KCM Travel |  |  |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [10217][10217] | KCM Travel |  |  |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1956][1956] | 운동 |  |  |
 <!-- ### -->
 
