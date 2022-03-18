@@ -261,15 +261,15 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="10" width="20px" height="25px"></img> | [12852][12852] | 1로 만들기 2 |  |  |
-| <img src="12" width="20px" height="25px"></img> | [14002][14002] | 가장 긴 증가하는 부분 수열 4 |  |  |
-| <img src="16" width="20px" height="25px"></img> | [14003][14003] | 가장 긴 증가하는 부분 수열 5 |  |  |
-| <img src="12" width="20px" height="25px"></img> | [9252][9252] | LCS 2 |  |  |
-| <img src="16" width="20px" height="25px"></img> | [2618][2618] | 경찰차 |  |  |
-| <img src="12" width="20px" height="25px"></img> | [13913][13913] | 숨바꼭질 4 |  |  |
-| <img src="12" width="20px" height="25px"></img> | [9019][9019] | DSLR |  |  |
-| <img src="13" width="20px" height="25px"></img> | [11779][11779] | 최소비용 구하기 2 |  |  |
-| <img src="14" width="20px" height="25px"></img> | [11780][11780] | 플로이드 2 |  |  |
+ | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [12852][12852] | 1로 만들기 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14002][14002] | 가장 긴 증가하는 부분 수열 4 |  |  |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [14003][14003] | 가장 긴 증가하는 부분 수열 5 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [9252][9252] | LCS 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [2618][2618] | 경찰차 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [13913][13913] | 숨바꼭질 4 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [9019][9019] | DSLR |  |  |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [11779][11779] | 최소비용 구하기 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [11780][11780] | 플로이드 2 |  |  |
 <!-- ### -->
 
 </div>
