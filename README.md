@@ -28,6 +28,7 @@
 | [DFS와 BFS](#DFS와-BFS) |
 | [최단 경로](#최단-경로) |
 | [투 포인터](#투-포인터) |
+| [동적 계획법과 최단거리 역추적](#동적-계획법과-최단거리-역추적) |
 <!-- Contents -->
 
 ---
@@ -253,6 +254,22 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1806][1806] | 부분합 |  |  |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [1644][1644] | 소수의 연속합 |  |  |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [1450][1450] | 냅색문제 |  |  |
+
+---
+
+### 동적 계획법과 최단거리 역추적
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="10" width="20px" height="25px"></img> | [12852][12852] | 1로 만들기 2 |  |  |
+| <img src="12" width="20px" height="25px"></img> | [14002][14002] | 가장 긴 증가하는 부분 수열 4 |  |  |
+| <img src="16" width="20px" height="25px"></img> | [14003][14003] | 가장 긴 증가하는 부분 수열 5 |  |  |
+| <img src="12" width="20px" height="25px"></img> | [9252][9252] | LCS 2 |  |  |
+| <img src="16" width="20px" height="25px"></img> | [2618][2618] | 경찰차 |  |  |
+| <img src="12" width="20px" height="25px"></img> | [13913][13913] | 숨바꼭질 4 |  |  |
+| <img src="12" width="20px" height="25px"></img> | [9019][9019] | DSLR |  |  |
+| <img src="13" width="20px" height="25px"></img> | [11779][11779] | 최소비용 구하기 2 |  |  |
+| <img src="14" width="20px" height="25px"></img> | [11780][11780] | 플로이드 2 |  |  |
 <!-- ### -->
 
 </div>
@@ -390,3 +407,13 @@
 [1806]: https://www.acmicpc.net/problem/1806
 [1644]: https://www.acmicpc.net/problem/1644
 [1450]: https://www.acmicpc.net/problem/1450
+
+[12852]: https://www.acmicpc.net/problem/12852
+[14002]: https://www.acmicpc.net/problem/14002
+[14003]: https://www.acmicpc.net/problem/14003
+[9252]: https://www.acmicpc.net/problem/9252
+[2618]: https://www.acmicpc.net/problem/2618
+[13913]: https://www.acmicpc.net/problem/13913
+[9019]: https://www.acmicpc.net/problem/9019
+[11779]: https://www.acmicpc.net/problem/11779
+[11780]: https://www.acmicpc.net/problem/11780
