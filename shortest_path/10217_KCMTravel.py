@@ -9,6 +9,9 @@ def dijk():
 
     while hq:
         cur_d, cur_c, cur_x = heapq.heappop(hq)
+        
+        if cur_x == n - 1:
+            return
 
         if dp[cur_x][cur_c] < cur_d:
             continue
