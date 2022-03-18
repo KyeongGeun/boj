@@ -241,7 +241,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [11657][11657] | 타임머신 | 03/16 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [11404][11404] | 플로이드 | 03/17 | ✔ |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [10217][10217] | KCM Travel | 03/18 | ✔ |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1956][1956] | 운동 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1956][1956] | 운동 | 03/19 | ✔ |
 
 ---
 
