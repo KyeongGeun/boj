@@ -25,8 +25,6 @@ for i in range(1, v):
     for j in range(i):
         mini = min(mini, w[i][j] + w[j][i])
 
-print(*w, sep='\n')
-
 if mini == float('inf'):
     print(-1)
 else:
