@@ -253,7 +253,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2470][2470] | 두 용액 | 03/21 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1806][1806] | 부분합 | 03/22 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [1644][1644] | 소수의 연속합 | 03/23 | ✔ |
-| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [1450][1450] | 냅색문제 |  |  |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [1450][1450] | 냅색문제 | 03/24 | ✔ |
 
 ---
 
