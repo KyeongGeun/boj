@@ -29,6 +29,7 @@
 | [최단 경로](#최단-경로) |
 | [투 포인터](#투-포인터) |
 | [동적 계획법과 최단거리 역추적](#동적-계획법과-최단거리-역추적) |
+| [트리](#트리) |
 <!-- Contents -->
 
 ---
@@ -270,6 +271,20 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [9019][9019] | DSLR |  |  |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [11779][11779] | 최소비용 구하기 2 |  |  |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [11780][11780] | 플로이드 2 |  |  |
+
+---
+
+### 트리
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [11725][11725] | 트리의 부모 찾기 |  |  |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [1167][1167] | 트리의 지름 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1967][1967] | 트리의 지름 |  |  |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1991][1991] | 트리 순회 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [2263][2263] | 트리의 순회 |  |  |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [5639][5639] | 이진 검색 트리 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [4803][4803] | 트리 |  |  |
 <!-- ### -->
 
 </div>
@@ -417,3 +432,11 @@
 [9019]: https://www.acmicpc.net/problem/9019
 [11779]: https://www.acmicpc.net/problem/11779
 [11780]: https://www.acmicpc.net/problem/11780
+
+[11725]: https://www.acmicpc.net/problem/11725
+[1167]: https://www.acmicpc.net/problem/1167
+[1967]: https://www.acmicpc.net/problem/1967
+[1991]: https://www.acmicpc.net/problem/1991
+[2263]: https://www.acmicpc.net/problem/2263
+[5639]: https://www.acmicpc.net/problem/5639
+[4803]: https://www.acmicpc.net/problem/4803
