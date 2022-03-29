@@ -266,7 +266,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14002][14002] | 가장 긴 증가하는 부분 수열 4 | 03/26 | ✔ |
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [14003][14003] | 가장 긴 증가하는 부분 수열 5 | 03/27 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [9252][9252] | LCS 2 | 03/28 | ✔ |
-| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [2618][2618] | 경찰차 |  |  |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [2618][2618] | 경찰차 | 03/29 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [13913][13913] | 숨바꼭질 4 |  |  |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [9019][9019] | DSLR |  |  |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [11779][11779] | 최소비용 구하기 2 |  |  |
