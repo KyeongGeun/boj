@@ -280,7 +280,7 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [11725][11725] | 트리의 부모 찾기 |  |  |
+ | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [11725][11725] | 트리의 부모 찾기 | 04/02 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [1167][1167] | 트리의 지름 |  |  |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1967][1967] | 트리의 지름 |  |  |
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1991][1991] | 트리 순회 |  |  |
