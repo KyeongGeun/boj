@@ -272,7 +272,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [13913][13913] | 숨바꼭질 4 | 03/30 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [9019][9019] | DSLR | 03/31 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [11779][11779] | 최소비용 구하기 2 | 04/01 | ✔ |
-| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [11780][11780] | 플로이드 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [11780][11780] | 플로이드 2 | 04/02 | ✔ |
 
 ---
 
