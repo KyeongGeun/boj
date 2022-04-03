@@ -27,4 +27,4 @@ for _ in range(v):
             break
         graph[li[0] - 1].append((li[i] - 1, li[i + 1]))
 
-print(dfs(dfs(1)[0])[1])
+print(dfs(dfs(0)[0])[1])
