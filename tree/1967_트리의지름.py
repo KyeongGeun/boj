@@ -25,4 +25,4 @@ for _ in range(n - 1):
     graph[a - 1].append((b - 1, c))
     graph[b - 1].append((a - 1, c))
 
-print(dfs(dfs(1)[0])[1])
+print(dfs(dfs(0)[0])[1])
