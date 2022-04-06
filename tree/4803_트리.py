@@ -28,6 +28,8 @@ while True:
 
     tree = 0
     for i in range(n):
+        if visited[i] == True:
+            continue
         if dfs(i, -1):
             tree += 1
 
