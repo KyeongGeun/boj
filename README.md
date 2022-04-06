@@ -286,7 +286,7 @@
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1991][1991] | 트리 순회 | 04/04 | ✔ |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [2263][2263] | 트리의 순회 | 04/05 | ✔ |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [5639][5639] | 이진 검색 트리 | 04/05 | ✔ |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [4803][4803] | 트리 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [4803][4803] | 트리 | 04/06 | ✔ |
 
 ---
 
