@@ -1,6 +1,6 @@
 import sys
 input = sys.stdin.readline
-arr = [input.split() for _ in range(9)]
+arr = [input().split() for _ in range(9)]
 li = [(i, j) for i in range(9) for j in range(9) if arr[i][j] == '0']
 
 def det(x, y, a):
