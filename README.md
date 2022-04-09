@@ -298,7 +298,7 @@
  | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1717][1717] | 집합의 표현 | 04/07 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1976][1976] | 여행 가자 | 04/08 | ✔ |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [4195][4195] | 친구 네트워크 | 04/09 | ✔ |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [20040][20040] | 사이클 게임 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [20040][20040] | 사이클 게임 | 04/10 | ✔ |
 
 ---
 
