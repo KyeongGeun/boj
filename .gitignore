@@ -1,6 +1,4 @@
-test.py
-test2.py
-test.java
-test2.java
-test.txt
+test*.py
+test*.java
+test*.txt
 *.prob
