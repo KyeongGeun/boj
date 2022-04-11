@@ -307,7 +307,7 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [9372][9372] | 상근이의 여행 | 04/11 | ✔ |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1197][1197] | 최소 스패닝 트리 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1197][1197] | 최소 스패닝 트리 | 04/12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [4386][4386] | 별자리 만들기 |  |  |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [1774][1774] | 우주신과의 교감 |  |  |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2887][2887] | 행성 터널 |  |  |
