@@ -311,7 +311,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1197][1197] | 최소 스패닝 트리 | 04/12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [4386][4386] | 별자리 만들기 | 04/13 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [1774][1774] | 우주신과의 교감 | 04/14 | ✔ |
-| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2887][2887] | 행성 터널 |  |  |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2887][2887] | 행성 터널 | 04/15 | ✔ |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [17472][17472] | 다리 만들기 2 |  |  |
 
 ---
