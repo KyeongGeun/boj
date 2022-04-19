@@ -323,7 +323,7 @@
  | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [15681][15681] | 트리와 쿼리 | 04/17 | ✔ |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2213][2213] | 트리의 독립집합 | 04/18 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [2533][2533] | 사회망 서비스(SNS) | 04/19 | ✔ |
-| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1949][1949] | 우수 마을 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1949][1949] | 우수 마을 | 04/20 | ✔ |
 
 ---
 
