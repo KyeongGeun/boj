@@ -331,7 +331,7 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2166][2166] | 다각형의 면적 |  |  |
+ | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2166][2166] | 다각형의 면적 | 04/21 | ✔ |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [11758][11758] | CCW |  |  |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [17386][17386] | 선분 교차 1 |  |  |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [17387][17387] | 선분 교차 2 |  |  |
