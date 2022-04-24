@@ -334,7 +334,7 @@
  | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2166][2166] | 다각형의 면적 | 04/21 | ✔ |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [11758][11758] | CCW | 04/22 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [17386][17386] | 선분 교차 1 | 04/23 | ✔ |
-| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [17387][17387] | 선분 교차 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [17387][17387] | 선분 교차 2 | 04/24 | ✔ |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [20149][20149] | 선분 교차 3 |  |  |
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [2162][2162] | 선분 그룹 |  |  |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [7869][7869] | 두 원 |  |  |
