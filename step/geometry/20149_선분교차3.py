@@ -17,22 +17,23 @@ def iscross(l1, l2):
 
     v3 = v1[0] * v2[1] - v1[1] * v2[0]
 
-    if -err <= v3 <= err:
-        if in_range(l1[0], l1[1]) or in_range(l1[2], l1[3]) or in_range(l2[0], l2[1]) or in_range(l2[2], l2[3]):
-            if l2[2] - err <= l1[0] <= l2[2] + err and l2[3] - err <= l1[1] <= l2[3] + err:
-                answer.extend([l1[0], l1[1]])
-            elif l2[0] - err <= l1[2] <= l2[0] + err and l2[1] - err <= l1[3] <= l2[1] + err:
-                answer.extend([l1[2], l1[3]])
-            return True
-        else:
-            return False
-
     # y = mx + c
     m1 = v1[1] / v1[0] if v1[0] != 0 else float('inf')
     m2 = v2[1] / v2[0] if v2[0] != 0 else float('inf')
 
     c1 = l1[1] - m1 * l1[0]
     c2 = l2[1] - m2 * l2[0]
+
+    if -err <= v3 <= err:
+        if in_range(l1[0], l1[1]) or in_range(l1[2], l1[3]) or in_range(l2[0], l2[1]) or in_range(l2[2], l2[3]):
+            if l2[2] - err <= l1[0] <= l2[2] + err and l2[3] - err <= l1[1] <= l2[3] + err:
+                answer.extend([l1[0], l1[1]])
+            elif l2[0] - err <= l1[2] <= l2[0] + err and l2[1] - err <= l1[3] <= l2[1] + err:
+                answer.extend([l1[2], l1[3]])
+
+            if c1 == c2 or m1 == float('inf'):
+                return True
+        return False
 
     # m1x + c1 = m2x + c2
     # (m1 - m2)x = c2 - c1
