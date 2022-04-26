@@ -34,6 +34,7 @@
 | [최소 신장 트리](#최소-신장-트리) |
 | [트리에서의 동적 계획법](#트리에서의-동적-계획법) |
 | [기하](#기하) |
+| [동적 계획법 3](#동적-계획법-3) |
 <!-- Contents -->
 
 ---
@@ -110,7 +111,7 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11047][11047] | 동전 0 | 02/11 | ✔ |
-| <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1931][1931] | 회의실 배정 | 02/12 | ✔ |
+| <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [1931][1931] | 회의실 배정 | 02/12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [11399][11399] | ATM | 02/12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [1541][1541] | 잃어버린 괄호 | 02/12 | ✔ |
 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [13305][13305] | 주유소 | 02/12 | ✔ |
@@ -339,6 +340,19 @@
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [2162][2162] | 선분 그룹 | 04/26 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [7869][7869] | 두 원 |  |  |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1069][1069] | 집으로 |  |  |
+
+---
+
+### 동적 계획법 3
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11723][11723] | 집합 |  |  |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [1311][1311] | 할 일 정하기 1 |  |  |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2098][2098] | 외판원 순회 |  |  |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [1086][1086] | 박성원 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17404][17404] | RGB거리 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [2482][2482] | 색상환 |  |  |
 <!-- ### -->
 
 </div>
@@ -520,3 +534,10 @@
 [2162]: https://www.acmicpc.net/problem/2162
 [7869]: https://www.acmicpc.net/problem/7869
 [1069]: https://www.acmicpc.net/problem/1069
+
+[11723]: https://www.acmicpc.net/problem/11723
+[1311]: https://www.acmicpc.net/problem/1311
+[2098]: https://www.acmicpc.net/problem/2098
+[1086]: https://www.acmicpc.net/problem/1086
+[17404]: https://www.acmicpc.net/problem/17404
+[2482]: https://www.acmicpc.net/problem/2482
