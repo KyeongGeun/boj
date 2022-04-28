@@ -339,7 +339,7 @@
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [20149][20149] | 선분 교차 3 | 04/25 | ✔ |
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [2162][2162] | 선분 그룹 | 04/26 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [7869][7869] | 두 원 | 04/27 | ✔ |
-| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1069][1069] | 집으로 |  |  |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [1069][1069] | 집으로 | 04/28 | ✔ |
 
 ---
 
