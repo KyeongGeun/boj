@@ -348,7 +348,7 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [11723][11723] | 집합 | 04/28 | ✔ |
-| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [1311][1311] | 할 일 정하기 1 |  |  |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [1311][1311] | 할 일 정하기 1 | 04/29 | ✔ |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2098][2098] | 외판원 순회 |  |  |
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [1086][1086] | 박성원 |  |  |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17404][17404] | RGB거리 2 |  |  |
