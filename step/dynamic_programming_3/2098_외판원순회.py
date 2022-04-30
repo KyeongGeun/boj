@@ -5,9 +5,9 @@ n = int(input())
 w = [list(map(int, input().split())) for _ in range(n)]
 
 
-def func(N, i, bit, start):
+def func(N, i, bit):
     if N >= n - 1:
-        return w[i][start] if w[i][start] != 0 else float('inf')
+        return w[i][0] if w[i][0] != 0 else float('inf')
 
     mini = float('inf')
 
@@ -16,7 +16,7 @@ def func(N, i, bit, start):
 
     for j in range(n):
         if w[i][j] != 0 and not bit & (1 << j):
-            mini = min(mini, w[i][j] + func(N + 1, j, bit | (1 << j), start))
+            mini = min(mini, w[i][j] + func(N + 1, j, bit | (1 << j)))
 
     memo[i][bit] = mini
     return mini
@@ -24,4 +24,4 @@ def func(N, i, bit, start):
 
 memo = [[-1 for _ in range(1 << n)] for _ in range(n)]
 
-print(func(0, 0, 1, 0))
+print(func(0, 0, 1))
