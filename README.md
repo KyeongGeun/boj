@@ -352,7 +352,7 @@
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2098][2098] | 외판원 순회 | 04/30 | ✔ |
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [1086][1086] | 박성원 | 05/01 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17404][17404] | RGB거리 2 | 05/01 | ✔ |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [2482][2482] | 색상환 |  |  |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [2482][2482] | 색상환 | 05/02 | ✔ |
 <!-- ### -->
 
 </div>
