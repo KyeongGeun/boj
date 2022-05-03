@@ -35,6 +35,7 @@
 | [트리에서의 동적 계획법](#트리에서의-동적-계획법) |
 | [기하](#기하) |
 | [동적 계획법 3](#동적-계획법-3) |
+| [문자열 알고리즘 1](#문자열-알고리즘-1) |
 <!-- Contents -->
 
 ---
@@ -353,6 +354,20 @@
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [1086][1086] | 박성원 | 05/01 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17404][17404] | RGB거리 2 | 05/01 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [2482][2482] | 색상환 | 05/02 | ✔ |
+
+---
+
+### 문자열 알고리즘 1
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [1786][1786] | 찾기 | 05/03 | ✔ |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [4354][4354] | 문자열 제곱 |  |  |
+| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [1305][1305] | 광고 |  |  |
+| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [10266][10266] | 시계 사진들 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [14725][14725] | 개미굴 |  |  |
+| <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [14425][14425] | 문자열 집합 |  |  |
+| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [5670][5670] | 휴대폰 자판 |  |  |
 <!-- ### -->
 
 </div>
@@ -541,3 +556,11 @@
 [1086]: https://www.acmicpc.net/problem/1086
 [17404]: https://www.acmicpc.net/problem/17404
 [2482]: https://www.acmicpc.net/problem/2482
+
+[1786]: https://www.acmicpc.net/problem/1786
+[4354]: https://www.acmicpc.net/problem/4354
+[1305]: https://www.acmicpc.net/problem/1305
+[10266]: https://www.acmicpc.net/problem/10266
+[14725]: https://www.acmicpc.net/problem/14725
+[14425]: https://www.acmicpc.net/problem/14425
+[5670]: https://www.acmicpc.net/problem/5670
