@@ -364,7 +364,7 @@
  | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [1786][1786] | 찾기 | 05/03 | ✔ |
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [4354][4354] | 문자열 제곱 | 05/04 | ✔ |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [1305][1305] | 광고 | 05/05 | ✔ |
-| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [10266][10266] | 시계 사진들 |  |  |
+| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [10266][10266] | 시계 사진들 | 05/06 | ✔ |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [14725][14725] | 개미굴 |  |  |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [14425][14425] | 문자열 집합 |  |  |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [5670][5670] | 휴대폰 자판 |  |  |
