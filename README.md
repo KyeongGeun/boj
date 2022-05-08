@@ -514,7 +514,7 @@
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
- | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [2252][2252] | 줄 세우기 |  |  |
+ | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [2252][2252] | 줄 세우기 | 05/09 | ✔ |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [3665][3665] | 최종 순위 |  |  |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1766][1766] | 문제집 |  |  |
 
