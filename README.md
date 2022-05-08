@@ -36,6 +36,7 @@
 | [기하](#기하) |
 | [동적 계획법 3](#동적-계획법-3) |
 | [문자열 알고리즘 1](#문자열-알고리즘-1) |
+| [위상 정렬](#위상-정렬) |
 <!-- Contents -->
 
 ---
@@ -367,7 +368,17 @@
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [10266][10266] | 시계 사진들 | 05/06 | ✔ |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [14725][14725] | 개미굴 | 05/07 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [14425][14425] | 문자열 집합 | 05/07 | ✔ |
-| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [5670][5670] | 휴대폰 자판 |  |  |
+| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [5670][5670] | 휴대폰 자판 | 05/08 | ✔ |
+
+---
+
+### 위상 정렬
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [2252][2252] | 줄 세우기 |  |  |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [3665][3665] | 최종 순위 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1766][1766] | 문제집 |  |  |
 <!-- ### -->
 
 </div>
@@ -564,3 +575,7 @@
 [14725]: https://www.acmicpc.net/problem/14725
 [14425]: https://www.acmicpc.net/problem/14425
 [5670]: https://www.acmicpc.net/problem/5670
+
+[2252]: https://www.acmicpc.net/problem/2252
+[3665]: https://www.acmicpc.net/problem/3665
+[1766]: https://www.acmicpc.net/problem/1766
