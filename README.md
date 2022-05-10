@@ -516,7 +516,7 @@
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [2252][2252] | 줄 세우기 | 05/09 | ✔ |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [3665][3665] | 최종 순위 | 05/10 | ✔ |
-| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1766][1766] | 문제집 |  |  |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [1766][1766] | 문제집 | 05/11 | ✔ |
 
 <div align=right>
 
