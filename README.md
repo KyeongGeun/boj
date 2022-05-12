@@ -37,6 +37,7 @@
 | [동적 계획법 3](#동적-계획법-3) |
 | [문자열 알고리즘 1](#문자열-알고리즘-1) |
 | [위상 정렬](#위상-정렬) |
+| [최소 공통 조상](#최소-공통-조상) |
 <!-- Contents -->
 
 ---
@@ -523,6 +524,24 @@
 [TOP](#백준boj-)
 
 </div>
+
+---
+
+### 최소 공통 조상
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [3584][3584] | 가장 가까운 공통 조상 | 05/12 | ✔ |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [17435][17435] | 합성함수와 쿼리 |  |  |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [11438][11438] | LCA 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [3176][3176] | 도로 네트워크 |  |  |
+| <img src="https://static.solved.ac/tier_small/18.svg" width="20px" height="25px"></img> | [13511][13511] | 트리와 쿼리 2 |  |  |
+
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
 <!-- ### -->
 
 </div>
@@ -723,3 +742,9 @@
 [2252]: https://www.acmicpc.net/problem/2252
 [3665]: https://www.acmicpc.net/problem/3665
 [1766]: https://www.acmicpc.net/problem/1766
+
+[3584]: https://www.acmicpc.net/problem/3584
+[17435]: https://www.acmicpc.net/problem/17435
+[11438]: https://www.acmicpc.net/problem/11438
+[3176]: https://www.acmicpc.net/problem/3176
+[13511]: https://www.acmicpc.net/problem/13511
