@@ -536,7 +536,7 @@
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [17435][17435] | 합성함수와 쿼리 | 05/13 | ✔ |
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [11438][11438] | LCA 2 | 05/14 | ✔ |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [3176][3176] | 도로 네트워크 | 05/15 | ✔ |
-| <img src="https://static.solved.ac/tier_small/18.svg" width="20px" height="25px"></img> | [13511][13511] | 트리와 쿼리 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/18.svg" width="20px" height="25px"></img> | [13511][13511] | 트리와 쿼리 2 | 05/16 | ✔ |
 
 <div align=right>
 
