@@ -551,7 +551,7 @@
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [2150][2150] | Strongly Connected Component | 05/17 | ✔ |
-| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [4196][4196] | 도미노 |  |  |
+| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [4196][4196] | 도미노 | 05/18 | ✔ |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [3977][3977] | 축구 전술 |  |  |
 | <img src="https://static.solved.ac/tier_small/19.svg" width="20px" height="25px"></img> | [4013][4013] | ATM |  |  |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [11280][11280] | 2-SAT - 3 |  |  |
