@@ -557,7 +557,7 @@
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [11280][11280] | 2-SAT - 3 | 05/21 | ✔ |
 | <img src="https://static.solved.ac/tier_small/18.svg" width="20px" height="25px"></img> | [11281][11281] | 2-SAT - 4 | 05/22 | ✔ |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [3648][3648] | 아이돌 | 05/23 | ✔ |
-| <img src="https://static.solved.ac/tier_small/18.svg" width="20px" height="25px"></img> | [16367][16367] | TV Show Game |  |  |
+| <img src="https://static.solved.ac/tier_small/18.svg" width="20px" height="25px"></img> | [16367][16367] | TV Show Game | 05/24 | ✔ |
 
 <div align=right>
 
