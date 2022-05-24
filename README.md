@@ -5,7 +5,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkg0510)](https://solved.ac/profile/kkg0510)
  
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=kkg0510&theme=warm)](https://solved.ac/profile/kkg0510)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=kkg0510&theme=cold)](https://solved.ac/profile/kkg0510)
 
 ---
 
