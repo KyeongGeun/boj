@@ -39,6 +39,7 @@
 | [위상 정렬](#위상-정렬) |
 | [최소 공통 조상](#최소-공통-조상) |
 | [강한 연결 요소](#강한-연결-요소) |
+| [세그먼트 트리](#세그먼트-트리) |
 <!-- Contents -->
 
 ---
@@ -564,6 +565,27 @@
 [TOP](#백준boj-)
 
 </div>
+
+---
+
+### 세그먼트 트리
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+ | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2042][2042] | 구간 합 구하기 | 05/25 | ✔ |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [11505][11505] | 구간 곱 구하기 |  |  |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2357][2357] | 최솟값과 최댓값 |  |  |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [1517][1517] | 버블 소트 |  |  |
+| <img src="https://static.solved.ac/tier_small/18.svg" width="20px" height="25px"></img> | [9345][9345] | 디지털 비디오 디스크(DVDs) |  |  |
+| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [16975][16975] | 수열과 쿼리 21 |  |  |
+| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [12899][12899] | 데이터 구조 |  |  |
+| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [1168][1168] | 요세푸스 문제 2 |  |  |
+
+<div align=right>
+
+[TOP](#백준boj-)
+
+</div>
 <!-- ### -->
 
 </div>
@@ -779,3 +801,12 @@
 [11281]: https://www.acmicpc.net/problem/11281
 [3648]: https://www.acmicpc.net/problem/3648
 [16367]: https://www.acmicpc.net/problem/16367
+
+[2042]: https://www.acmicpc.net/problem/2042
+[11505]: https://www.acmicpc.net/problem/11505
+[2357]: https://www.acmicpc.net/problem/2357
+[1517]: https://www.acmicpc.net/problem/1517
+[9345]: https://www.acmicpc.net/problem/9345
+[16975]: https://www.acmicpc.net/problem/16975
+[12899]: https://www.acmicpc.net/problem/12899
+[1168]: https://www.acmicpc.net/problem/1168
