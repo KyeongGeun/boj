@@ -574,7 +574,7 @@
 |:---:|:---:|:---:|:---:| :---: |
  | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2042][2042] | 구간 합 구하기 | 05/25 | ✔ |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [11505][11505] | 구간 곱 구하기 | 05/26 | ✔ |
-| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2357][2357] | 최솟값과 최댓값 |  |  |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2357][2357] | 최솟값과 최댓값 | 05/27 | ✔ |
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [1517][1517] | 버블 소트 |  |  |
 | <img src="https://static.solved.ac/tier_small/18.svg" width="20px" height="25px"></img> | [9345][9345] | 디지털 비디오 디스크(DVDs) |  |  |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [16975][16975] | 수열과 쿼리 21 |  |  |
