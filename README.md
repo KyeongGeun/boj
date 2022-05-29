@@ -576,7 +576,7 @@
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [11505][11505] | 구간 곱 구하기 | 05/26 | ✔ |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [2357][2357] | 최솟값과 최댓값 | 05/27 | ✔ |
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [1517][1517] | 버블 소트 | 05/28 | ✔ |
-| <img src="https://static.solved.ac/tier_small/18.svg" width="20px" height="25px"></img> | [9345][9345] | 디지털 비디오 디스크(DVDs) |  |  |
+| <img src="https://static.solved.ac/tier_small/18.svg" width="20px" height="25px"></img> | [9345][9345] | 디지털 비디오 디스크(DVDs) | 05/29 | ✔ |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [16975][16975] | 수열과 쿼리 21 |  |  |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [12899][12899] | 데이터 구조 |  |  |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [1168][1168] | 요세푸스 문제 2 |  |  |
