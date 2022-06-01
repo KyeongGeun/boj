@@ -579,7 +579,7 @@
 | <img src="https://static.solved.ac/tier_small/18.svg" width="20px" height="25px"></img> | [9345][9345] | 디지털 비디오 디스크(DVDs) | 05/29 | ✔ |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [16975][16975] | 수열과 쿼리 21 | 05/30 | ✔ |
 | <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [12899][12899] | 데이터 구조 | 05/31 | ✔ |
-| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [1168][1168] | 요세푸스 문제 2 |  |  |
+| <img src="https://static.solved.ac/tier_small/17.svg" width="20px" height="25px"></img> | [1168][1168] | 요세푸스 문제 2 | 06/01 | ✔ |
 
 <div align=right>
 
