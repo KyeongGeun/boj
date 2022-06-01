@@ -167,7 +167,7 @@
 | <img src="https://static.solved.ac/tier_small/10.svg" width="20px" height="25px"></img> | [11051][11051] | 이항 계수 2 | 02/13 | ✔ |
 | <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1010][1010] | 다리 놓기 | 02/13 | ✔ |
 | <img src="https://static.solved.ac/tier_small/8.svg" width="20px" height="25px"></img> | [9375][9375] | 패션왕 신해빈 | 02/13 | ✔ |
-| <img src="https://static.solved.ac/tier_small/7.svg" width="20px" height="25px"></img> | [1676][1676] | 팩토리얼 0의 개수 | 02/13 | ✔ |
+| <img src="https://static.solved.ac/tier_small/6.svg" width="20px" height="25px"></img> | [1676][1676] | 팩토리얼 0의 개수 | 02/13 | ✔ |
 | <img src="https://static.solved.ac/tier_small/9.svg" width="20px" height="25px"></img> | [2004][2004] | 조합 0의 개수 | 02/13 | ✔ |
 
 <div align=right>
@@ -368,7 +368,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [9252][9252] | LCS 2 | 03/28 | ✔ |
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [2618][2618] | 경찰차 | 03/29 | ✔ |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [13913][13913] | 숨바꼭질 4 | 03/30 | ✔ |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [9019][9019] | DSLR | 03/31 | ✔ |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [9019][9019] | DSLR | 03/31 | ✔ |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [11779][11779] | 최소비용 구하기 2 | 04/01 | ✔ |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [11780][11780] | 플로이드 2 | 04/02 | ✔ |
 
