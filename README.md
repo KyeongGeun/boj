@@ -18,7 +18,6 @@
 
 <div align="center">
 
-
 |        Contents         |
 |:-----------------------:|
 |    [브루트 포스](#브루트-포스)    |
@@ -828,10 +827,14 @@
 
 <br>
 
+<div align="center">
+
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14503][14503] | 로봇 청소기 | 06/02 | ✔ |
 
 [14503]: https://www.acmicpc.net/problem/14503
+
+</div>
 
 </details>
