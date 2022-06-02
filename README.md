@@ -1,9 +1,13 @@
+<div align="center">
+
 ## 백준(BOJ) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkg0510)](https://solved.ac/profile/kkg0510)
  
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=kkg0510&theme=cold)](https://solved.ac/profile/kkg0510)
+
+</div>
 
 ---
 
