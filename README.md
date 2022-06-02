@@ -10,6 +10,8 @@
 <details markdown="1">
 <summary><strong>백준 단계별로 풀어보기 ( 2022/01/27 ~ 2022/06/01 )</strong></summary>
 
+<div align="center">
+
 
 |        Contents         |
 |:-----------------------:|
@@ -810,6 +812,8 @@
 [16975]: https://www.acmicpc.net/problem/16975
 [12899]: https://www.acmicpc.net/problem/12899
 [1168]: https://www.acmicpc.net/problem/1168
+
+</div>
 
 </details>
 
