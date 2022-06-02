@@ -1,5 +1,3 @@
-<div align="center">
-
 ## 백준(BOJ) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 [![Solved.ac
@@ -9,7 +7,9 @@
 
 ---
 
-## 백준 / [단계별로 풀어보기](https://www.acmicpc.net/step) / 2022
+<details markdown="1">
+<summary><strong>백준 단계별로 풀어보기 ( 2022/01/27 ~ 2022/06/01 )</strong></summary>
+
 
 |        Contents         |
 |:-----------------------:|
@@ -588,7 +588,7 @@
 </div>
 <!-- ### -->
 
-</div>
+
 
 [2798]: https://www.acmicpc.net/problem/2798
 [2231]: https://www.acmicpc.net/problem/2231
@@ -810,3 +810,16 @@
 [16975]: https://www.acmicpc.net/problem/16975
 [12899]: https://www.acmicpc.net/problem/12899
 [1168]: https://www.acmicpc.net/problem/1168
+
+</details>
+
+<details markdown="1">
+<summary><strong>2022/06/02 ~</strong></summary>
+
+| 난이도 | 번호 | 이름 | 날짜 | 체크 |
+|:---:|:---:|:---:|:---:| :---: |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14503][14503] | 로봇 청소기 | 06/02 | ✔ |
+
+[14503]: https://www.acmicpc.net/problem/14503
+
+</details>
