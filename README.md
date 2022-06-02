@@ -14,6 +14,8 @@
 <details markdown="1">
 <summary><strong>백준 단계별로 풀어보기 ( 2022/01/27 ~ 2022/06/01 )</strong></summary>
 
+<br>
+
 <div align="center">
 
 
@@ -823,6 +825,8 @@
 
 <details markdown="1">
 <summary><strong>2022/06/02 ~</strong></summary>
+
+<br>
 
 | 난이도 | 번호 | 이름 | 날짜 | 체크 |
 |:---:|:---:|:---:|:---:| :---: |
