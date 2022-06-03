@@ -12,7 +12,7 @@
 ---
 
 <details markdown="1">
-<summary><strong>백준 단계별로 풀어보기 ( 2022/01/27 ~ 2022/06/01 )</strong></summary>
+<summary><strong>백준 단계별로 풀어보기<br>2022/01/27 ~ 2022/06/01</strong></summary>
 
 <br>
 
@@ -794,6 +794,8 @@
 </div>
 
 </details>
+
+<br>
 
 <details markdown="1">
 <summary><strong>2022/06/02 ~</strong></summary>
