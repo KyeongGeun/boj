@@ -805,8 +805,10 @@
 |                                         난이도                                          |      번호      |    이름     | 날짜  | 체크 |
 | :-------------------------------------------------------------------------------------: | :------------: | :---------: | :---: | :--: |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14503][14503] | 로봇 청소기 | 06/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2550][2550]  |    전구     | 06/03 |  ✔   |
 
 [14503]: https://www.acmicpc.net/problem/14503
+[2550]: https://www.acmicpc.net/problem/2550
 
 </div>
 
