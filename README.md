@@ -811,12 +811,14 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1107][1107]  |   리모컨    | 브루트포스 | 06/04 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [2133][2133]  | 타일 채우기 |     DP     | 06/05 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [7868][7868]  |  해밍 수열  | 브루트포스 | 06/06 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1041][1041]  |   주사위    |   그리디   | 06/07 |  ✔   |
 
 [14503]: https://www.acmicpc.net/problem/14503
 [2550]: https://www.acmicpc.net/problem/2550
 [1107]: https://www.acmicpc.net/problem/1107
 [2133]: https://www.acmicpc.net/problem/2133
 [7868]: https://www.acmicpc.net/problem/7868
+[1041]: https://www.acmicpc.net/problem/1041
 
 </div>
 
