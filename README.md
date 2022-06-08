@@ -797,7 +797,7 @@
 
 <br>
 
-<details markdown="1">
+<details open markdown="1">
 <summary><strong>2022/06/02 ~</strong></summary>
 
 <br>
