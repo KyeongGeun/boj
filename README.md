@@ -804,14 +804,15 @@
 
 <div align="center">
 
-|                                         난이도                                          |      번호      |    이름     |    분류    | 날짜  | 체크 |
-| :-------------------------------------------------------------------------------------: | :------------: | :---------: | :--------: | :---: | :--: |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14503][14503] | 로봇 청소기 |    구현    | 06/02 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2550][2550]  |    전구     |     DP     | 06/03 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1107][1107]  |   리모컨    | 브루트포스 | 06/04 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [2133][2133]  | 타일 채우기 |     DP     | 06/05 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [7868][7868]  |  해밍 수열  | 브루트포스 | 06/06 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1041][1041]  |   주사위    |   그리디   | 06/07 |  ✔   |
+|                                         난이도                                          |      번호      |        이름        |    분류    | 날짜  | 체크 |
+| :-------------------------------------------------------------------------------------: | :------------: | :----------------: | :--------: | :---: | :--: |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14503][14503] |    로봇 청소기     |    구현    | 06/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2550][2550]  |        전구        |     DP     | 06/03 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1107][1107]  |       리모컨       | 브루트포스 | 06/04 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [2133][2133]  |    타일 채우기     |     DP     | 06/05 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [7868][7868]  |     해밍 수열      | 브루트포스 | 06/06 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1041][1041]  |       주사위       |   그리디   | 06/07 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16954][16954] | 움직이는 미로 탈출 |    BFS     | 06/08 |  ✔   |
 
 [14503]: https://www.acmicpc.net/problem/14503
 [2550]: https://www.acmicpc.net/problem/2550
@@ -819,6 +820,7 @@
 [2133]: https://www.acmicpc.net/problem/2133
 [7868]: https://www.acmicpc.net/problem/7868
 [1041]: https://www.acmicpc.net/problem/1041
+[16954]: https://www.acmicpc.net/problem/16954
 
 </div>
 
