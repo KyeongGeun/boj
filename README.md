@@ -814,6 +814,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1041][1041]  |       주사위       |   그리디   | 06/07 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16954][16954] | 움직이는 미로 탈출 |    BFS     | 06/08 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [12869][12869] |     뮤탈리스크     |     DP     | 06/09 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [3055][3055]  |        탈출        |    BFS     | 06/10 |  ✔   |
 
 [14503]: https://www.acmicpc.net/problem/14503
 [2550]: https://www.acmicpc.net/problem/2550
@@ -823,6 +824,7 @@
 [1041]: https://www.acmicpc.net/problem/1041
 [16954]: https://www.acmicpc.net/problem/16954
 [12869]: https://www.acmicpc.net/problem/12869
+[3055]: https://www.acmicpc.net/problem/3055
 
 </div>
 
