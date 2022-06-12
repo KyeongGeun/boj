@@ -816,6 +816,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [12869][12869] |     뮤탈리스크     |     DP     | 06/09 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [3055][3055]  |        탈출        |    BFS     | 06/10 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16929][16929] |      Two Dots      |    DFS     | 06/11 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2230][2230]  |     수 고르기      | 투 포인터  | 06/12 |  ✔   |
 
 [14503]: https://www.acmicpc.net/problem/14503
 [2550]: https://www.acmicpc.net/problem/2550
@@ -827,6 +828,7 @@
 [12869]: https://www.acmicpc.net/problem/12869
 [3055]: https://www.acmicpc.net/problem/3055
 [16929]: https://www.acmicpc.net/problem/16929
+[2230]: https://www.acmicpc.net/problem/2230
 
 </div>
 
