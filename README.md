@@ -819,6 +819,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2230][2230]  |     수 고르기      | 투 포인터  | 06/12 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [3661][3661]  |     생일 선물      |   그리디   | 06/13 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14852][14852] |   타일 채우기 3    |     DP     | 06/14 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1354][1354]  |    무한 수열 2     |     DP     | 06/15 |  ✔   |
 
 [14503]: https://www.acmicpc.net/problem/14503
 [2550]: https://www.acmicpc.net/problem/2550
@@ -833,6 +834,7 @@
 [2230]: https://www.acmicpc.net/problem/2230
 [3661]: https://www.acmicpc.net/problem/3661
 [14852]: https://www.acmicpc.net/problem/14852
+[1354]: https://www.acmicpc.net/problem/1354
 
 </div>
 
