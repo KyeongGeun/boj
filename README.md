@@ -822,6 +822,9 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1354][1354]  |    무한 수열 2     |     DP     | 06/15 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1759][1759]  |    암호 만들기     | 브루트포스 | 06/16 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [10993][10993] |    별 찍기 - 18    |    재귀    | 06/17 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1261][1261]  |      알고스팟      | 다익스트라 | 06/18 |  ✔   |
+
+<!-- new -->
 
 [14503]: https://www.acmicpc.net/problem/14503
 [2550]: https://www.acmicpc.net/problem/2550
@@ -839,6 +842,9 @@
 [1354]: https://www.acmicpc.net/problem/1354
 [1759]: https://www.acmicpc.net/problem/1759
 [10993]: https://www.acmicpc.net/problem/10993
+[1261]: https://www.acmicpc.net/problem/1261
+
+<!-- new-link -->
 
 </div>
 
