@@ -823,6 +823,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1759][1759]  |    암호 만들기     | 브루트포스 | 06/16 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [10993][10993] |    별 찍기 - 18    |    재귀    | 06/17 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1261][1261]  |      알고스팟      | 다익스트라 | 06/18 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [23843][23843] |       콘센트       |   그리디   | 06/19 |  ✔   |
 
 <!-- new -->
 
@@ -843,6 +844,7 @@
 [1759]: https://www.acmicpc.net/problem/1759
 [10993]: https://www.acmicpc.net/problem/10993
 [1261]: https://www.acmicpc.net/problem/1261
+[23843]: https://www.acmicpc.net/problem/23843
 
 <!-- new-link -->
 
