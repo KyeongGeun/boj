@@ -825,6 +825,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1261][1261]  |      알고스팟      | 다익스트라 | 06/18 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [23843][23843] |       콘센트       |   그리디   | 06/19 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2812][2812]  |    크게 만들기     |   그리디   | 06/20 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [5014][5014]  |     스타트링크     |    BFS     | 06/21 |  ✔   |
 
 <!-- new -->
 
@@ -847,6 +848,7 @@
 [1261]: https://www.acmicpc.net/problem/1261
 [23843]: https://www.acmicpc.net/problem/23843
 [2812]: https://www.acmicpc.net/problem/2812
+[5014]: https://www.acmicpc.net/problem/5014
 
 <!-- new-link -->
 
