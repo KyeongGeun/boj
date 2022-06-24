@@ -828,6 +828,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [5014][5014]  |     스타트링크     |    BFS     | 06/21 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> |  [1365][1365]  |    꼬인 전깃줄     | 이분 탐색  | 06/22 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [23296][23296] |  엘리베이터 조작   | 위상 정렬  | 06/23 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [14262][14262] |    그림 그리기     |    구현    | 06/24 |  ✔   |
 
 <!-- new -->
 
@@ -853,6 +854,7 @@
 [5014]: https://www.acmicpc.net/problem/5014
 [1365]: https://www.acmicpc.net/problem/1365
 [23296]: https://www.acmicpc.net/problem/23296
+[14262]: https://www.acmicpc.net/problem/14262
 
 <!-- new-link -->
 
