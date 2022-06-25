@@ -9,10 +9,8 @@ def dfs(num, cnt):
     for v in graph[num]:
         if not visited[v]:
             visited[v] = True
-            if dfs(v, cnt + 1):
-                return True
+            dfs(v, cnt + 1)
             visited[v] = False
-    return False
 
 
 n, m = map(int, input().split())
@@ -27,9 +25,7 @@ visited = [False] * n
 
 for i in range(n):
     visited[i] = True
-    if dfs(i, 0):
-        print(1)
-        break
+    dfs(i, 0)
     visited[i] = False
-else:
-    print(0)
+
+print(0)
