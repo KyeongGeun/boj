@@ -804,32 +804,33 @@
 
 <div align="center">
 
-|                                         난이도                                          |      번호      |        이름        |    분류    | 날짜  | 체크 |
-| :-------------------------------------------------------------------------------------: | :------------: | :----------------: | :--------: | :---: | :--: |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14503][14503] |    로봇 청소기     |    구현    | 06/02 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2550][2550]  |        전구        |     DP     | 06/03 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1107][1107]  |       리모컨       | 브루트포스 | 06/04 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [2133][2133]  |    타일 채우기     |     DP     | 06/05 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [7868][7868]  |     해밍 수열      | 브루트포스 | 06/06 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1041][1041]  |       주사위       |   그리디   | 06/07 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16954][16954] | 움직이는 미로 탈출 |    BFS     | 06/08 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [12869][12869] |     뮤탈리스크     |     DP     | 06/09 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [3055][3055]  |        탈출        |    BFS     | 06/10 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16929][16929] |      Two Dots      |    DFS     | 06/11 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2230][2230]  |     수 고르기      | 투 포인터  | 06/12 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [3661][3661]  |     생일 선물      |   그리디   | 06/13 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14852][14852] |   타일 채우기 3    |     DP     | 06/14 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1354][1354]  |    무한 수열 2     |     DP     | 06/15 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1759][1759]  |    암호 만들기     | 브루트포스 | 06/16 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [10993][10993] |    별 찍기 - 18    |    재귀    | 06/17 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1261][1261]  |      알고스팟      | 다익스트라 | 06/18 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [23843][23843] |       콘센트       |   그리디   | 06/19 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2812][2812]  |    크게 만들기     |   그리디   | 06/20 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [5014][5014]  |     스타트링크     |    BFS     | 06/21 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> |  [1365][1365]  |    꼬인 전깃줄     | 이분 탐색  | 06/22 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [23296][23296] |  엘리베이터 조작   | 위상 정렬  | 06/23 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [14262][14262] |    그림 그리기     |    구현    | 06/24 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [13023][13023] |       ABCDE        |    DFS     | 06/25 |  ✔   |
+|                                         난이도                                          |      번호      |        이름        |       분류       | 날짜  | 체크 |
+| :-------------------------------------------------------------------------------------: | :------------: | :----------------: | :--------------: | :---: | :--: |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14503][14503] |    로봇 청소기     |       구현       | 06/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2550][2550]  |        전구        |        DP        | 06/03 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1107][1107]  |       리모컨       |    브루트포스    | 06/04 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [2133][2133]  |    타일 채우기     |        DP        | 06/05 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [7868][7868]  |     해밍 수열      |    브루트포스    | 06/06 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1041][1041]  |       주사위       |      그리디      | 06/07 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16954][16954] | 움직이는 미로 탈출 |       BFS        | 06/08 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [12869][12869] |     뮤탈리스크     |        DP        | 06/09 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [3055][3055]  |        탈출        |       BFS        | 06/10 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16929][16929] |      Two Dots      |       DFS        | 06/11 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2230][2230]  |     수 고르기      |    투 포인터     | 06/12 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [3661][3661]  |     생일 선물      |      그리디      | 06/13 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14852][14852] |   타일 채우기 3    |        DP        | 06/14 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1354][1354]  |    무한 수열 2     |        DP        | 06/15 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1759][1759]  |    암호 만들기     |    브루트포스    | 06/16 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [10993][10993] |    별 찍기 - 18    |       재귀       | 06/17 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1261][1261]  |      알고스팟      |    다익스트라    | 06/18 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [23843][23843] |       콘센트       |      그리디      | 06/19 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2812][2812]  |    크게 만들기     |      그리디      | 06/20 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [5014][5014]  |     스타트링크     |       BFS        | 06/21 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> |  [1365][1365]  |    꼬인 전깃줄     |    이분 탐색     | 06/22 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [23296][23296] |  엘리베이터 조작   |    위상 정렬     | 06/23 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [14262][14262] |    그림 그리기     |       구현       | 06/24 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [13023][13023] |       ABCDE        |       DFS        | 06/25 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [21924][21924] |     도시 건설      | 최소 스패닝 트리 | 06/26 |  ✔   |
 
 <!-- new -->
 
@@ -857,6 +858,7 @@
 [23296]: https://www.acmicpc.net/problem/23296
 [14262]: https://www.acmicpc.net/problem/14262
 [13023]: https://www.acmicpc.net/problem/13023
+[21924]: https://www.acmicpc.net/problem/21924
 
 <!-- new-link -->
 
