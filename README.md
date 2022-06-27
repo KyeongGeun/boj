@@ -831,6 +831,7 @@
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [14262][14262] |    그림 그리기     |       구현       | 06/24 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [13023][13023] |       ABCDE        |       DFS        | 06/25 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [21924][21924] |     도시 건설      | 최소 스패닝 트리 | 06/26 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1240][1240]  |  노드사이의 거리   |       BFS        | 06/27 |  ✔   |
 
 <!-- new -->
 
@@ -859,6 +860,7 @@
 [14262]: https://www.acmicpc.net/problem/14262
 [13023]: https://www.acmicpc.net/problem/13023
 [21924]: https://www.acmicpc.net/problem/21924
+[1240]: https://www.acmicpc.net/problem/1240
 
 <!-- new-link -->
 
