@@ -834,6 +834,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1240][1240]  |  노드사이의 거리   |       BFS        | 06/27 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [10422][10422] |        괄호        |      조합론      | 06/28 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [24463][24463] |        미로        |       DFS        | 06/29 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [22867][22867] |        종점        |      스위핑      | 06/30 |  ✔   |
 
 <!-- new -->
 
@@ -865,6 +866,7 @@
 [1240]: https://www.acmicpc.net/problem/1240
 [10422]: https://www.acmicpc.net/problem/10422
 [24463]: https://www.acmicpc.net/problem/24463
+[22867]: https://www.acmicpc.net/problem/22867
 
 <!-- new-link -->
 
