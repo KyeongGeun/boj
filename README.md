@@ -833,6 +833,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [21924][21924] |     도시 건설      | 최소 스패닝 트리 | 06/26 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1240][1240]  |  노드사이의 거리   |       BFS        | 06/27 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [10422][10422] |        괄호        |      조합론      | 06/28 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [24463][24463] |        미로        |       DFS        | 06/29 |  ✔   |
 
 <!-- new -->
 
@@ -863,6 +864,7 @@
 [21924]: https://www.acmicpc.net/problem/21924
 [1240]: https://www.acmicpc.net/problem/1240
 [10422]: https://www.acmicpc.net/problem/10422
+[24463]: https://www.acmicpc.net/problem/24463
 
 <!-- new-link -->
 
