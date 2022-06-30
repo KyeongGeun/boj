@@ -797,7 +797,7 @@
 
 <br>
 
-<details open markdown="1">
+<details markdown="1">
 <summary><strong>2022/06/02 ~</strong></summary>
 
 <br>
@@ -836,8 +836,6 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [24463][24463] |        미로        |       DFS        | 06/29 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [22867][22867] |        종점        |      스위핑      | 06/30 |  ✔   |
 
-<!-- new -->
-
 [14503]: https://www.acmicpc.net/problem/14503
 [2550]: https://www.acmicpc.net/problem/2550
 [1107]: https://www.acmicpc.net/problem/1107
@@ -867,6 +865,27 @@
 [10422]: https://www.acmicpc.net/problem/10422
 [24463]: https://www.acmicpc.net/problem/24463
 [22867]: https://www.acmicpc.net/problem/22867
+
+</div>
+
+</details>
+
+<br>
+
+<details open markdown="1">
+<summary><strong>2022/07/01 ~</strong></summary>
+
+<br>
+
+<div align="center">
+
+|                                         난이도                                          |     번호     |  이름   | 분류   | 날짜  | 체크 |
+| :-------------------------------------------------------------------------------------: | :----------: | :-----: | ------ | ----- | ---- |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2170][2170] | 선 긋기 | 스위핑 | 07/01 | ✔    |
+
+<!-- new -->
+
+[2170]: https://www.acmicpc.net/problem/2170
 
 <!-- new-link -->
 
