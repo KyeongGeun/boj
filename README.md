@@ -798,7 +798,7 @@
 <br>
 
 <details markdown="1">
-<summary><strong>2022/06/02 ~</strong></summary>
+<summary><strong>2022/06/02 ~ 2022/06/30</strong></summary>
 
 <br>
 
@@ -879,13 +879,15 @@
 
 <div align="center">
 
-|                                         난이도                                          |     번호     |  이름   | 분류   | 날짜  | 체크 |
-| :-------------------------------------------------------------------------------------: | :----------: | :-----: | ------ | ----- | ---- |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2170][2170] | 선 긋기 | 스위핑 | 07/01 | ✔    |
+|                                         난이도                                          |     번호     |  이름   | 분류       | 날짜  | 체크 |
+| :-------------------------------------------------------------------------------------: | :----------: | :-----: | ---------- | ----- | ---- |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [2170][2170] | 선 긋기 | 스위핑     | 07/01 | ✔    |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [9997][9997] |  폰트   | 비트마스크 | 07/02 | ✔    |
 
 <!-- new -->
 
 [2170]: https://www.acmicpc.net/problem/2170
+[9997]: https://www.acmicpc.net/problem/9997
 
 <!-- new-link -->
 
