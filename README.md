@@ -884,12 +884,14 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2170][2170]  |    선 긋기    |   스위핑   | 07/01 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [9997][9997]  |     폰트      | 비트마스크 | 07/02 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [15831][15831] | 준표의 조약돌 | 투 포인터  | 07/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1501][1501]  |   영어 읽기   |    해시    | 07/03 |  ✔   |
 
 <!-- new -->
 
 [2170]: https://www.acmicpc.net/problem/2170
 [9997]: https://www.acmicpc.net/problem/9997
 [15831]: https://www.acmicpc.net/problem/15831
+[1501]: https://www.acmicpc.net/problem/1501
 
 <!-- new-link -->
 
