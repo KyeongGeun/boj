@@ -887,6 +887,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1501][1501]  |   영어 읽기   |     해시      | 07/03 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [24391][24391] | 귀찮은 해강이 | 유니온 파인드 | 07/04 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [15553][15553] |     난로      |    그리디     | 07/05 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2251][2251]  |     물통      |      BFS      | 07/06 |  ✔   |
 
 <!-- new -->
 
@@ -896,6 +897,7 @@
 [1501]: https://www.acmicpc.net/problem/1501
 [24391]: https://www.acmicpc.net/problem/24391
 [15553]: https://www.acmicpc.net/problem/15553
+[2251]: https://www.acmicpc.net/problem/2251
 
 <!-- new-link -->
 
