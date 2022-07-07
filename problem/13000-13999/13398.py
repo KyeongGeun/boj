@@ -12,4 +12,4 @@ for i in range(1, n):
     dp[i] = max(dp[i - 1] + li[i], li[i])
     dp2[i] = max(dp[i - 1], dp2[i - 1] + li[i], li[i])
 
-print(max(max(dp), max(dp2)))
+print(max(dp2))
