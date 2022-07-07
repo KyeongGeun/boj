@@ -888,6 +888,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [24391][24391] | 귀찮은 해강이 | 유니온 파인드 | 07/04 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [15553][15553] |     난로      |    그리디     | 07/05 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2251][2251]  |     물통      |      BFS      | 07/06 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [13398][13398] |   연속합 2    |      DP       | 07/07 |  ✔   |
 
 <!-- new -->
 
@@ -898,6 +899,7 @@
 [24391]: https://www.acmicpc.net/problem/24391
 [15553]: https://www.acmicpc.net/problem/15553
 [2251]: https://www.acmicpc.net/problem/2251
+[13398]: https://www.acmicpc.net/problem/13398
 
 <!-- new-link -->
 
