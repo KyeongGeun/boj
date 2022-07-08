@@ -794,10 +794,8 @@
 
 </details>
 
-<br>
-
 <details markdown="1">
-<summary><strong>2022/06/02 ~ 2022/06/30</strong></summary>
+<summary><strong>꾸준히 한 문제씩<br>2022/06/02 ~ 2022/06/30</strong></summary>
 
 <br>
 
@@ -869,10 +867,8 @@
 
 </details>
 
-<br>
-
 <details open markdown="1">
-<summary><strong>2022/07/01 ~</strong></summary>
+<summary><strong>꾸준히 한 문제씩<br>2022/07/01 ~</strong></summary>
 
 <br>
 
