@@ -885,6 +885,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2251][2251]  |     물통      |      BFS      | 07/06 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [13398][13398] |   연속합 2    |      DP       | 07/07 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2528][2528]  |    사다리     |     구현      | 07/08 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1516][1516]  |   게임 개발   |   위상 정렬   | 07/09 |  ✔   |
 
 <!-- new -->
 
@@ -897,6 +898,7 @@
 [2251]: https://www.acmicpc.net/problem/2251
 [13398]: https://www.acmicpc.net/problem/13398
 [2528]: https://www.acmicpc.net/problem/2528
+[1516]: https://www.acmicpc.net/problem/1516
 
 <!-- new-link -->
 
