@@ -886,6 +886,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [13398][13398] |   연속합 2    |      DP       | 07/07 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2528][2528]  |    사다리     |     구현      | 07/08 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1516][1516]  |   게임 개발   |   위상 정렬   | 07/09 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [6087][6087]  |  레이저 통신  |  다익스트라   | 07/10 |  ✔   |
 
 <!-- new -->
 
@@ -899,6 +900,7 @@
 [13398]: https://www.acmicpc.net/problem/13398
 [2528]: https://www.acmicpc.net/problem/2528
 [1516]: https://www.acmicpc.net/problem/1516
+[6087]: https://www.acmicpc.net/problem/6087
 
 <!-- new-link -->
 
