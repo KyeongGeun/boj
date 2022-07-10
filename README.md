@@ -17,21 +17,13 @@
 
 <div align="center">
 
-<table>
-<colgroup>
+<table style="table-layout: fixed;">
 
-<col width="33%"/>
-<col width="33%"/>
-<col width="33%"/>
-
-</colgroup>
-<th></th>
-<th>Contents</th>
-<th></th>
+<th colspan="3">Contents</th>
 <tr>
-<td align="center"><a href="#브루트-포스">브루트 포스</a></td>
-<td align="center"><a href="#정렬">정렬</a></td>
-<td align="center"><a href="#백트래킹">백트래킹</a></td>
+<td width="33%"  align="center"><a href="#브루트-포스">브루트 포스</a></td>
+<td width="33%" align="center"><a href="#정렬">정렬</a></td>
+<td width="33%" align="center"><a href="#백트래킹">백트래킹</a></td>
 </tr>
 <tr>
 <td align="center"><a href="#동적-계획법-1">동적 계획법 1</a></td>
