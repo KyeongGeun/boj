@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<table style="table-layout: fixed;">
+<table>
 
 <th colspan="3">Contents</th>
 <tr>
