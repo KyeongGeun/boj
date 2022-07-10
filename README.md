@@ -18,7 +18,13 @@
 <div align="center">
 
 <table>
+<colgroup>
 
+<col width="33%"/>
+<col width="33%"/>
+<col width="33%"/>
+
+</colgroup>
 <th></th>
 <th>Contents</th>
 <th></th>
