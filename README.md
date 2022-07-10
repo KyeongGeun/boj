@@ -17,17 +17,58 @@
 
 <div align="center">
 
-|                                                                 |                     Contents                      |                                           |
-| :-------------------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------: |
-|                   [브루트 포스](#브루트-포스)                   |       　　　　　　[정렬](#정렬)　　　　　　       | 　　　　　[백트래킹](#백트래킹)　　　　　 |
-|                 [동적 계획법 1](#동적-계획법-1)                 |        [그리디 알고리즘](#그리디-알고리즘)        |   [정수론 및 조합론](#정수론-및-조합론)   |
-|              　　　　　　[스택](#스택)　　　　　　              |                 [큐, 덱](#큐-덱)                  |          [분할 정복](#분할-정복)          |
-|                     [이분 탐색](#이분-탐색)                     |            [우선순위 큐](#우선순위-큐)            |      [동적 계획법 2](#동적-계획법-2)      |
-|                     [DFS와 BFS](#dfs와-bfs)                     |              [최단 경로](#최단-경로)              |          [투 포인터](#투-포인터)          |
-| [동적 계획법과 최단거리 역추적](#동적-계획법과-최단거리-역추적) |                   [트리](#트리)                   |      [유니온 파인드](#유니온-파인드)      |
-|                [최소 신장 트리](#최소-신장-트리)                | [트리에서의 동적 계획법](#트리에서의-동적-계획법) |               [기하](#기하)               |
-|                 [동적 계획법 3](#동적-계획법-3)                 |      [문자열 알고리즘 1](#문자열-알고리즘-1)      |          [위상 정렬](#위상-정렬)          |
-|                [최소 공통 조상](#최소-공통-조상)                |         [강한 연결 요소](#강한-연결-요소)         |      [세그먼트 트리](#세그먼트-트리)      |
+<table>
+
+<th></th>
+<th>Contents</th>
+<th></th>
+<tr>
+<td align="center"><a href="#브루트-포스">브루트 포스</a></td>
+<td align="center"><a href="#정렬">정렬</a></td>
+<td align="center"><a href="#백트래킹">백트래킹</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#동적-계획법-1">동적 계획법 1</a></td>
+<td align="center"><a href="#그리디-알고리즘">그리디 알고리즘</a></td>
+<td align="center"><a href="#정수론-및-조합론">정수론 및 조합론</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#스택">스택</a></td>
+<td align="center"><a href="#큐-덱">큐, 덱</a></td>
+<td align="center"><a href="#분할-정복">분할 정복</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#이분-탐색">이분 탐색</a></td>
+<td align="center"><a href="#우선순위-큐">우선순위 큐</a></td>
+<td align="center"><a href="#동적-계획법-2">동적 계획법 2</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#dfs와-bfs">DFS와 BFS</a></td>
+<td align="center"><a href="#최단-경로">최단 경로</a></td>
+<td align="center"><a href="#투-포인터">투 포인터</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#동적-계획법과-최단거리-역추적">동적 계획법과 최단거리 역추적</a></td>
+<td align="center"><a href="#트리">트리</a></td>
+<td align="center"><a href="#유니온-파인드">유니온 파인드</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#최소-신장-트리">최소 신장 트리</a></td>
+<td align="center"><a href="#트리에서의-동적-계획법">트리에서의 동적 계획법</a></td>
+<td align="center"><a href="#기하">기하</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#동적-계획법-3">동적 계획법 3</a></td>
+<td align="center"><a href="#문자열-알고리즘-1">문자열 알고리즘 1</a></td>
+<td align="center"><a href="#위상-정렬">위상 정렬</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#최소-공통-조상">최소 공통 조상</a></td>
+<td align="center"><a href="#강한-연결-요소">강한 연결 요소</a></td>
+<td align="center"><a href="#세그먼트-트리">세그먼트 트리</a></td>
+</tr>
+
+</table>
 
 <!-- Contents -->
 
