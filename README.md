@@ -895,19 +895,20 @@
 
 <div align="center">
 
-|                                         난이도                                          |      번호      |     이름      |     분류      | 날짜  | 체크 |
-| :-------------------------------------------------------------------------------------: | :------------: | :-----------: | :-----------: | :---: | :--: |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2170][2170]  |    선 긋기    |    스위핑     | 07/01 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [9997][9997]  |     폰트      |  비트마스크   | 07/02 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [15831][15831] | 준표의 조약돌 |   투 포인터   | 07/02 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1501][1501]  |   영어 읽기   |     해시      | 07/03 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [24391][24391] | 귀찮은 해강이 | 유니온 파인드 | 07/04 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [15553][15553] |     난로      |    그리디     | 07/05 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2251][2251]  |     물통      |      BFS      | 07/06 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [13398][13398] |   연속합 2    |      DP       | 07/07 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2528][2528]  |    사다리     |     구현      | 07/08 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1516][1516]  |   게임 개발   |   위상 정렬   | 07/09 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [6087][6087]  |  레이저 통신  |  다익스트라   | 07/10 |  ✔   |
+|                                         난이도                                          |      번호      |          이름           |     분류      | 날짜  | 체크 |
+| :-------------------------------------------------------------------------------------: | :------------: | :---------------------: | :-----------: | :---: | :--: |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2170][2170]  |         선 긋기         |    스위핑     | 07/01 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [9997][9997]  |          폰트           |  비트마스크   | 07/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [15831][15831] |      준표의 조약돌      |   투 포인터   | 07/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1501][1501]  |        영어 읽기        |     해시      | 07/03 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [24391][24391] |      귀찮은 해강이      | 유니온 파인드 | 07/04 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [15553][15553] |          난로           |    그리디     | 07/05 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2251][2251]  |          물통           |      BFS      | 07/06 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [13398][13398] |        연속합 2         |      DP       | 07/07 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2528][2528]  |         사다리          |     구현      | 07/08 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1516][1516]  |        게임 개발        |   위상 정렬   | 07/09 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [6087][6087]  |       레이저 통신       |  다익스트라   | 07/10 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14466][14466] | 소가 길을 건너간 이유 6 |      BFS      | 07/11 |  ✔   |
 
 <!-- new -->
 
@@ -922,6 +923,7 @@
 [2528]: https://www.acmicpc.net/problem/2528
 [1516]: https://www.acmicpc.net/problem/1516
 [6087]: https://www.acmicpc.net/problem/6087
+[14466]: https://www.acmicpc.net/problem/14466
 
 <!-- new-link -->
 
