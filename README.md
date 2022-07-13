@@ -910,6 +910,7 @@
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [6087][6087]  |       레이저 통신       |  다익스트라   | 07/10 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14466][14466] | 소가 길을 건너간 이유 6 |      BFS      | 07/11 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [12896][12896] |      스크루지 민호      |     트리      | 07/12 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [13460][13460] |       구슬 탈출 2       |     구현      | 07/13 |  ✔   |
 
 <!-- new -->
 
@@ -926,6 +927,7 @@
 [6087]: https://www.acmicpc.net/problem/6087
 [14466]: https://www.acmicpc.net/problem/14466
 [12896]: https://www.acmicpc.net/problem/12896
+[13460]: https://www.acmicpc.net/problem/13460
 
 <!-- new-link -->
 
