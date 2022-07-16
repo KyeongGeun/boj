@@ -913,6 +913,7 @@
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [13460][13460] |       구슬 탈출 2       |     구현      | 07/13 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [12100][12100] |       2048 (Easy)       |     구현      | 07/14 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [3190][3190]  |           뱀            |     구현      | 07/15 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2065][2065]  |         나룻배          |     구현      | 07/16 |  ✔   |
 
 <!-- new -->
 
@@ -932,6 +933,7 @@
 [13460]: https://www.acmicpc.net/problem/13460
 [12100]: https://www.acmicpc.net/problem/12100
 [3190]: https://www.acmicpc.net/problem/3190
+[2065]: https://www.acmicpc.net/problem/2065
 
 <!-- new-link -->
 
