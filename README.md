@@ -914,6 +914,7 @@
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [12100][12100] |       2048 (Easy)       |     구현      | 07/14 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [3190][3190]  |           뱀            |     구현      | 07/15 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2065][2065]  |         나룻배          |     구현      | 07/16 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14499][14499] |      주사위 굴리기      |     구현      | 07/17 |  ✔   |
 
 <!-- new -->
 
@@ -934,6 +935,7 @@
 [12100]: https://www.acmicpc.net/problem/12100
 [3190]: https://www.acmicpc.net/problem/3190
 [2065]: https://www.acmicpc.net/problem/2065
+[14499]: https://www.acmicpc.net/problem/14499
 
 <!-- new-link -->
 
