@@ -917,6 +917,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14499][14499] |      주사위 굴리기      |     구현      | 07/17 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [13334][13334] |          철로           |    스위핑     | 07/18 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2836][2836]  |        수상 택시        |    스위핑     | 07/19 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [14428][14428] |     수열과 쿼리 16      | 세그먼트 트리 | 07/20 |  ✔   |
 
 <!-- new -->
 
@@ -940,6 +941,7 @@
 [14499]: https://www.acmicpc.net/problem/14499
 [13334]: https://www.acmicpc.net/problem/13334
 [2836]: https://www.acmicpc.net/problem/2836
+[14428]: https://www.acmicpc.net/problem/14428
 
 <!-- new-link -->
 
