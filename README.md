@@ -919,6 +919,7 @@
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2836][2836]  |        수상 택시        |     스위핑     | 07/19 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [14428][14428] |     수열과 쿼리 16      | 세그먼트 트리  | 07/20 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> |  [1761][1761]  |      정점들의 거리      | 최소 공통 조상 | 07/21 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1865][1865]  |          웜홀           |   벨만 포드    | 07/22 |  ✔   |
 
 <!-- new -->
 
@@ -944,6 +945,7 @@
 [2836]: https://www.acmicpc.net/problem/2836
 [14428]: https://www.acmicpc.net/problem/14428
 [1761]: https://www.acmicpc.net/problem/1761
+[1865]: https://www.acmicpc.net/problem/1865
 
 <!-- new-link -->
 
