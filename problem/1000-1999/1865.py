@@ -3,7 +3,8 @@ input = sys.stdin.readline
 
 
 def belman():
-    min_d = [0] * (n + 1)
+    min_d = [2000000000] * (n + 1)
+    min_d[1] = 0
 
     for i in range(n):
         for j in range(len(graph)):
@@ -11,7 +12,7 @@ def belman():
 
             d = min_d[a] + c
 
-            if min_d[a] != float('inf') and min_d[b] > d:
+            if min_d[b] > d:
                 min_d[b] = d
 
                 if i == n - 1:
