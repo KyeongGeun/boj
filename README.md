@@ -895,31 +895,32 @@
 
 <div align="center">
 
-|                                         난이도                                          |      번호      |          이름           |      분류      | 날짜  | 체크 |
-| :-------------------------------------------------------------------------------------: | :------------: | :---------------------: | :------------: | :---: | :--: |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2170][2170]  |         선 긋기         |     스위핑     | 07/01 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [9997][9997]  |          폰트           |   비트마스크   | 07/02 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [15831][15831] |      준표의 조약돌      |   투 포인터    | 07/02 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1501][1501]  |        영어 읽기        |      해시      | 07/03 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [24391][24391] |      귀찮은 해강이      | 유니온 파인드  | 07/04 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [15553][15553] |          난로           |     그리디     | 07/05 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2251][2251]  |          물통           |      BFS       | 07/06 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [13398][13398] |        연속합 2         |       DP       | 07/07 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2528][2528]  |         사다리          |      구현      | 07/08 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1516][1516]  |        게임 개발        |   위상 정렬    | 07/09 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [6087][6087]  |       레이저 통신       |   다익스트라   | 07/10 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14466][14466] | 소가 길을 건너간 이유 6 |      BFS       | 07/11 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [12896][12896] |      스크루지 민호      |      트리      | 07/12 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [13460][13460] |       구슬 탈출 2       |      구현      | 07/13 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [12100][12100] |       2048 (Easy)       |      구현      | 07/14 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [3190][3190]  |           뱀            |      구현      | 07/15 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2065][2065]  |         나룻배          |      구현      | 07/16 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14499][14499] |      주사위 굴리기      |      구현      | 07/17 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [13334][13334] |          철로           |     스위핑     | 07/18 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2836][2836]  |        수상 택시        |     스위핑     | 07/19 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [14428][14428] |     수열과 쿼리 16      | 세그먼트 트리  | 07/20 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> |  [1761][1761]  |      정점들의 거리      | 최소 공통 조상 | 07/21 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1865][1865]  |          웜홀           |   벨만 포드    | 07/22 |  ✔   |
+|                                         난이도                                          |      번호      |            이름            |      분류      | 날짜  | 체크 |
+| :-------------------------------------------------------------------------------------: | :------------: | :------------------------: | :------------: | :---: | :--: |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2170][2170]  |          선 긋기           |     스위핑     | 07/01 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [9997][9997]  |            폰트            |   비트마스크   | 07/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [15831][15831] |       준표의 조약돌        |   투 포인터    | 07/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1501][1501]  |         영어 읽기          |      해시      | 07/03 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [24391][24391] |       귀찮은 해강이        | 유니온 파인드  | 07/04 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [15553][15553] |            난로            |     그리디     | 07/05 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2251][2251]  |            물통            |      BFS       | 07/06 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [13398][13398] |          연속합 2          |       DP       | 07/07 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2528][2528]  |           사다리           |      구현      | 07/08 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1516][1516]  |         게임 개발          |   위상 정렬    | 07/09 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [6087][6087]  |        레이저 통신         |   다익스트라   | 07/10 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14466][14466] |  소가 길을 건너간 이유 6   |      BFS       | 07/11 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [12896][12896] |       스크루지 민호        |      트리      | 07/12 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [13460][13460] |        구슬 탈출 2         |      구현      | 07/13 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [12100][12100] |        2048 (Easy)         |      구현      | 07/14 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [3190][3190]  |             뱀             |      구현      | 07/15 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2065][2065]  |           나룻배           |      구현      | 07/16 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14499][14499] |       주사위 굴리기        |      구현      | 07/17 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [13334][13334] |            철로            |     스위핑     | 07/18 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2836][2836]  |         수상 택시          |     스위핑     | 07/19 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> | [14428][14428] |       수열과 쿼리 16       | 세그먼트 트리  | 07/20 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> |  [1761][1761]  |       정점들의 거리        | 최소 공통 조상 | 07/21 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1865][1865]  |            웜홀            |   벨만 포드    | 07/22 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [7511][7511]  | 소셜 네트워킹 어플리케이션 | 유니온 파인드  | 07/23 |  ✔   |
 
 <!-- new -->
 
@@ -946,6 +947,7 @@
 [14428]: https://www.acmicpc.net/problem/14428
 [1761]: https://www.acmicpc.net/problem/1761
 [1865]: https://www.acmicpc.net/problem/1865
+[7511]: https://www.acmicpc.net/problem/7511
 
 <!-- new-link -->
 
