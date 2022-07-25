@@ -922,6 +922,7 @@
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1865][1865]  |            웜홀            |   벨만 포드    | 07/22 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [7511][7511]  | 소셜 네트워킹 어플리케이션 | 유니온 파인드  | 07/23 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1245][1245]  |         농장 관리          |      DFS       | 07/24 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1106][1106]  |            호텔            |       DP       | 07/25 |  ✔   |
 
 <!-- new -->
 
@@ -950,6 +951,7 @@
 [1865]: https://www.acmicpc.net/problem/1865
 [7511]: https://www.acmicpc.net/problem/7511
 [1245]: https://www.acmicpc.net/problem/1245
+[1106]: https://www.acmicpc.net/problem/1106
 
 <!-- new-link -->
 
