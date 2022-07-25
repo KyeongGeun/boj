@@ -923,6 +923,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [7511][7511]  | 소셜 네트워킹 어플리케이션 | 유니온 파인드  | 07/23 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1245][1245]  |         농장 관리          |      DFS       | 07/24 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1106][1106]  |            호텔            |       DP       | 07/25 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [18116][18116] |         로봇 조립          | 유니온 파인드  | 07/26 |  ✔   |
 
 <!-- new -->
 
@@ -952,6 +953,7 @@
 [7511]: https://www.acmicpc.net/problem/7511
 [1245]: https://www.acmicpc.net/problem/1245
 [1106]: https://www.acmicpc.net/problem/1106
+[18116]: https://www.acmicpc.net/problem/18116
 
 <!-- new-link -->
 
