@@ -927,6 +927,7 @@
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> |  [3109][3109]  |            빵집            |      DFS       | 07/27 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1043][1043]  |           거짓말           | 유니온 파인드  | 07/28 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [10711][10711] |           모래성           |      BFS       | 07/29 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1744][1744]  |          수 묶기           |     그리디     | 07/30 |  ✔   |
 
 <!-- new -->
 
@@ -960,6 +961,7 @@
 [3109]: https://www.acmicpc.net/problem/3109
 [1043]: https://www.acmicpc.net/problem/1043
 [10711]: https://www.acmicpc.net/problem/10711
+[1744]: https://www.acmicpc.net/problem/1744
 
 <!-- new-link -->
 
