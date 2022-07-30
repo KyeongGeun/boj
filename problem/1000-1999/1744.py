@@ -5,21 +5,15 @@ li = [int(input()) for _ in range(int(input()))]
 
 minus = []
 plus = []
-zero = 0
 
 for v in li:
-    if v < 0:
-        minus.append(v)
-    elif v > 0:
+    if v > 0:
         plus.append(v)
     else:
-        zero += 1
+        minus.append(v)
 
 minus.sort()
 plus.sort()
-
-if len(minus) % 2 == 1 and zero > 0:
-    minus.pop()
 
 ans = 0
 for i in range(1, len(minus), 2):
