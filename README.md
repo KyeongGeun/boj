@@ -928,6 +928,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1043][1043]  |           거짓말           | 유니온 파인드  | 07/28 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [10711][10711] |           모래성           |      BFS       | 07/29 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1744][1744]  |          수 묶기           |     그리디     | 07/30 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14567][14567] |  선수과목 (Prerequisite)   |   위상 정렬    | 07/31 |  ✔   |
 
 <!-- new -->
 
@@ -962,6 +963,7 @@
 [1043]: https://www.acmicpc.net/problem/1043
 [10711]: https://www.acmicpc.net/problem/10711
 [1744]: https://www.acmicpc.net/problem/1744
+[14567]: https://www.acmicpc.net/problem/14567
 
 <!-- new-link -->
 
