@@ -5,19 +5,15 @@ input = sys.stdin.readline
 n, k = map(int, input().split())
 
 li = [0] * n
+cnt = [0] * 21
 
-for i in range(n):
-    li[i] = len(input()) - 1
-
-dqli = [deque() for _ in range(21)]
 ans = 0
 for i in range(n):
-    l = li[i]
-    dqli[l].append(i)
+    li[i] = len(input()) - 1
+    if i > k:
+        cnt[li[i - k - 1]] -= 1
 
-    while dqli[l] and i - dqli[l][0] > k:
-        dqli[l].popleft()
-
-    ans += len(dqli[l]) - 1
+    ans += cnt[li[i]]
+    cnt[li[i]] += 1
 
 print(ans)
