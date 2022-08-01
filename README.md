@@ -888,8 +888,8 @@
 
 </details>
 
-<details open markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/07/01 ~</strong></summary>
+<details markdown="1">
+<summary><strong>꾸준히 한 문제씩<br>2022/07/01 ~ 2022/07/31</strong></summary>
 
 <br>
 
@@ -930,8 +930,6 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1744][1744]  |          수 묶기           |     그리디     | 07/30 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14567][14567] |  선수과목 (Prerequisite)   |   위상 정렬    | 07/31 |  ✔   |
 
-<!-- new -->
-
 [2170]: https://www.acmicpc.net/problem/2170
 [9997]: https://www.acmicpc.net/problem/9997
 [15831]: https://www.acmicpc.net/problem/15831
@@ -964,6 +962,25 @@
 [10711]: https://www.acmicpc.net/problem/10711
 [1744]: https://www.acmicpc.net/problem/1744
 [14567]: https://www.acmicpc.net/problem/14567
+
+</div>
+
+</details>
+
+<details open markdown="1">
+<summary><strong>꾸준히 한 문제씩<br>2022/08/01 ~</strong></summary>
+
+<br>
+
+<div align="center">
+
+|                                         난이도                                          |     번호     |   이름    |      분류       | 날짜  | 체크 |
+| :-------------------------------------------------------------------------------------: | :----------: | :-------: | :-------------: | :---: | :--: |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [3078][3078] | 좋은 친구 | 슬라이딩 윈도우 | 08/01 |  ✔   |
+
+<!-- new -->
+
+[3078]: https://www.acmicpc.net/problem/3078
 
 <!-- new-link -->
 
