@@ -980,6 +980,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [15723][15723] |  n단 논법   |  플로이드 워셜  | 08/02 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [18231][18231] | 파괴된 도시 |     그리디      | 08/03 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14267][14267] | 회사 문화 1 |       DP        | 08/04 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2096][2096]  |  내려가기   | 슬라이딩 윈도우 | 08/05 |  ✔   |
 
 <!-- new -->
 
@@ -987,6 +988,7 @@
 [15723]: https://www.acmicpc.net/problem/15723
 [18231]: https://www.acmicpc.net/problem/18231
 [14267]: https://www.acmicpc.net/problem/14267
+[2096]: https://www.acmicpc.net/problem/2096
 
 <!-- new-link -->
 
