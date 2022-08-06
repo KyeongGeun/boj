@@ -981,6 +981,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [18231][18231] | 파괴된 도시 |     그리디      | 08/03 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14267][14267] | 회사 문화 1 |       DP        | 08/04 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2096][2096]  |  내려가기   | 슬라이딩 윈도우 | 08/05 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [15703][15703] | 주사위 쌓기 |     그리디      | 08/06 |  ✔   |
 
 <!-- new -->
 
@@ -989,6 +990,7 @@
 [18231]: https://www.acmicpc.net/problem/18231
 [14267]: https://www.acmicpc.net/problem/14267
 [2096]: https://www.acmicpc.net/problem/2096
+[15703]: https://www.acmicpc.net/problem/15703
 
 <!-- new-link -->
 
