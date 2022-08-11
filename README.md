@@ -986,6 +986,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1013][1013]  |          Contact          |     정규식      | 08/08 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [11056][11056] |      두 부분 문자열       |       DP        | 08/09 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [23294][23294] |       웹 브라우저 1       |      구현       | 08/10 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [4781][4781]  |         사탕 가게         |       DP        | 08/11 |  ✔   |
 
 <!-- new -->
 
@@ -999,6 +1000,7 @@
 [1013]: https://www.acmicpc.net/problem/1013
 [11056]: https://www.acmicpc.net/problem/11056
 [23294]: https://www.acmicpc.net/problem/23294
+[4781]: https://www.acmicpc.net/problem/4781
 
 <!-- new-link -->
 
