@@ -988,6 +988,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [23294][23294] |       웹 브라우저 1       |      구현       | 08/10 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [4781][4781]  |         사탕 가게         |       DP        | 08/11 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [15573][15573] |           채굴            |       BFS       | 08/12 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [6068][6068]  |       시간 관리하기       |     그리디      | 08/13 |  ✔   |
 
 <!-- new -->
 
@@ -1003,6 +1004,7 @@
 [23294]: https://www.acmicpc.net/problem/23294
 [4781]: https://www.acmicpc.net/problem/4781
 [15573]: https://www.acmicpc.net/problem/15573
+[6068]: https://www.acmicpc.net/problem/6068
 
 <!-- new-link -->
 
