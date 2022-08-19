@@ -994,6 +994,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16120][16120] |           PPAP            |     그리디      | 08/16 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [23793][23793] |    두 단계 최단 경로 1    |   다익스트라    | 08/17 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [17433][17433] |        신비로운 수        |     정수론      | 08/18 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [2327][2327]  |          말아톤           |       DP        | 08/19 |  ✔   |
 
 <!-- new -->
 
@@ -1015,6 +1016,7 @@
 [16120]: https://www.acmicpc.net/problem/16120
 [23793]: https://www.acmicpc.net/problem/23793
 [17433]: https://www.acmicpc.net/problem/17433
+[2327]: https://www.acmicpc.net/problem/2327
 
 <!-- new-link -->
 
