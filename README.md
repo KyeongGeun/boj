@@ -996,6 +996,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [17433][17433] |        신비로운 수        |     정수론      | 08/18 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [2327][2327]  |          말아톤           |       DP        | 08/19 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2143][2143]  |       두 배열의 합        |    이분 탐색    | 08/20 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2467][2467]  |           용액            |    이분 탐색    | 08/21 |  ✔   |
 
 <!-- new -->
 
@@ -1019,6 +1020,7 @@
 [17433]: https://www.acmicpc.net/problem/17433
 [2327]: https://www.acmicpc.net/problem/2327
 [2143]: https://www.acmicpc.net/problem/2143
+[2467]: https://www.acmicpc.net/problem/2467
 
 <!-- new-link -->
 
