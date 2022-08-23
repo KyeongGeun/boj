@@ -998,6 +998,7 @@
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2143][2143]  |       두 배열의 합        |    이분 탐색    | 08/20 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2467][2467]  |           용액            |    이분 탐색    | 08/21 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [14948][14948] |       군대탈출하기        |       BFS       | 08/22 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [9084][9084]  |           동전            |       DP        | 08/23 |  ✔   |
 
 <!-- new -->
 
@@ -1023,6 +1024,7 @@
 [2143]: https://www.acmicpc.net/problem/2143
 [2467]: https://www.acmicpc.net/problem/2467
 [14948]: https://www.acmicpc.net/problem/14948
+[9084]: https://www.acmicpc.net/problem/9084
 
 <!-- new-link -->
 
