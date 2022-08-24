@@ -999,6 +999,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2467][2467]  |           용액            |    이분 탐색    | 08/21 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> | [14948][14948] |       군대탈출하기        |       BFS       | 08/22 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [9084][9084]  |           동전            |       DP        | 08/23 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [5052][5052]  |       전화번호 목록       |     트라이      | 08/24 |  ✔   |
 
 <!-- new -->
 
@@ -1025,6 +1026,7 @@
 [2467]: https://www.acmicpc.net/problem/2467
 [14948]: https://www.acmicpc.net/problem/14948
 [9084]: https://www.acmicpc.net/problem/9084
+[5052]: https://www.acmicpc.net/problem/5052
 
 <!-- new-link -->
 
