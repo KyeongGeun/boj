@@ -1001,6 +1001,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [9084][9084]  |           동전            |       DP        | 08/23 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [5052][5052]  |       전화번호 목록       |     트라이      | 08/24 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1953][1953]  |          팀배분           |       DFS       | 08/25 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2310][2310]  |       어드벤처 게임       |       DFS       | 08/26 |  ✔   |
 
 <!-- new -->
 
@@ -1029,6 +1030,7 @@
 [9084]: https://www.acmicpc.net/problem/9084
 [5052]: https://www.acmicpc.net/problem/5052
 [1953]: https://www.acmicpc.net/problem/1953
+[2310]: https://www.acmicpc.net/problem/2310
 
 <!-- new-link -->
 
