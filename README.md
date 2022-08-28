@@ -1003,6 +1003,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1953][1953]  |          팀배분           |       DFS       | 08/25 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2310][2310]  |       어드벤처 게임       |       DFS       | 08/26 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [9944][9944]  |     NxM 보드 완주하기     |    백트래킹     | 08/27 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [17070][17070] |      파이프 옮기기 1      |       DP        | 08/28 |  ✔   |
 
 <!-- new -->
 
@@ -1033,6 +1034,7 @@
 [1953]: https://www.acmicpc.net/problem/1953
 [2310]: https://www.acmicpc.net/problem/2310
 [9944]: https://www.acmicpc.net/problem/9944
+[17070]: https://www.acmicpc.net/problem/17070
 
 <!-- new-link -->
 
