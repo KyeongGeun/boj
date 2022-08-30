@@ -1005,6 +1005,7 @@
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [9944][9944]  |     NxM 보드 완주하기     |    백트래킹     | 08/27 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [17070][17070] |      파이프 옮기기 1      |       DP        | 08/28 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1584][1584]  |           게임            |     0-1 BFS     | 08/29 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [17396][17396] |          백도어           |   다익스트라    | 08/30 |  ✔   |
 
 <!-- new -->
 
@@ -1037,6 +1038,7 @@
 [9944]: https://www.acmicpc.net/problem/9944
 [17070]: https://www.acmicpc.net/problem/17070
 [1584]: https://www.acmicpc.net/problem/1584
+[17396]: https://www.acmicpc.net/problem/17396
 
 <!-- new-link -->
 
