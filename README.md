@@ -967,8 +967,8 @@
 
 </details>
 
-<details open markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/08/01 ~</strong></summary>
+<details markdown="1">
+<summary><strong>꾸준히 한 문제씩<br>2022/08/01 ~ 2022/08/31</strong></summary>
 
 <br>
 
@@ -1008,8 +1008,6 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [17396][17396] |          백도어           |   다익스트라    | 08/30 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2294][2294]  |          동전 2           |       DP        | 08/31 |  ✔   |
 
-<!-- new -->
-
 [3078]: https://www.acmicpc.net/problem/3078
 [15723]: https://www.acmicpc.net/problem/15723
 [18231]: https://www.acmicpc.net/problem/18231
@@ -1042,8 +1040,23 @@
 [17396]: https://www.acmicpc.net/problem/17396
 [2294]: https://www.acmicpc.net/problem/2294
 
-<!-- new-link -->
-
 </div>
 
 </details>
+
+<details open markdown="1">
+<summary><strong>꾸준히 한 문제씩<br>2022/09/01 ~</strong></summary>
+
+<br>
+
+<div align="center">
+
+|                                         난이도                                          |     번호     |   이름    | 분류 | 날짜  | 체크 |
+| :-------------------------------------------------------------------------------------: | :----------: | :-------: | :--: | :---: | :--: |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [1963][1963] | 소수 경로 | BFS  | 09/01 |  ✔   |
+
+<!-- new -->
+
+[1963]: https://www.acmicpc.net/problem/1963
+
+<!-- new-link -->
