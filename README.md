@@ -1051,14 +1051,16 @@
 
 <div align="center">
 
-|                                         난이도                                          |      번호      |   이름    | 분류 | 날짜  | 체크 |
-| :-------------------------------------------------------------------------------------: | :------------: | :-------: | :--: | :---: | :--: |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1963][1963]  | 소수 경로 | BFS  | 09/01 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [11909][11909] | 배열 탈출 |  DP  | 09/02 |  ✔   |
+|                                         난이도                                          |      번호      |    이름     |   분류   | 날짜  | 체크 |
+| :-------------------------------------------------------------------------------------: | :------------: | :---------: | :------: | :---: | :--: |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1963][1963]  |  소수 경로  |   BFS    | 09/01 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [11909][11909] |  배열 탈출  |    DP    | 09/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2023][2023]  | 신기한 소수 | 백트래킹 | 09/03 |  ✔   |
 
 <!-- new -->
 
 [1963]: https://www.acmicpc.net/problem/1963
 [11909]: https://www.acmicpc.net/problem/11909
+[2023]: https://www.acmicpc.net/problem/2023
 
 <!-- new-link -->
