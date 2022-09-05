@@ -1057,6 +1057,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [11909][11909] |  배열 탈출  |    DP    | 09/02 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2023][2023]  | 신기한 소수 | 백트래킹 | 09/03 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1689][1689]  | 겹치는 선분 |  스위핑  | 09/04 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2011][2011]  |  암호코드   |    DP    | 09/05 |  ✔   |
 
 <!-- new -->
 
@@ -1064,5 +1065,6 @@
 [11909]: https://www.acmicpc.net/problem/11909
 [2023]: https://www.acmicpc.net/problem/2023
 [1689]: https://www.acmicpc.net/problem/1689
+[2011]: https://www.acmicpc.net/problem/2011
 
 <!-- new-link -->
