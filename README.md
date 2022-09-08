@@ -1051,15 +1051,16 @@
 
 <div align="center">
 
-|                                         난이도                                          |      번호      |     이름      |   분류    | 날짜  | 체크 |
-| :-------------------------------------------------------------------------------------: | :------------: | :-----------: | :-------: | :---: | :--: |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1963][1963]  |   소수 경로   |    BFS    | 09/01 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [11909][11909] |   배열 탈출   |    DP     | 09/02 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2023][2023]  |  신기한 소수  | 백트래킹  | 09/03 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1689][1689]  |  겹치는 선분  |  스위핑   | 09/04 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2011][2011]  |   암호코드    |    DP     | 09/05 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [18188][18188] | 다오의 데이트 |    BFS    | 09/06 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [3649][3649]  | 로봇 프로젝트 | 투 포인터 | 09/07 |  ✔   |
+|                                         난이도                                          |      번호      |      이름      |   분류    | 날짜  | 체크 |
+| :-------------------------------------------------------------------------------------: | :------------: | :------------: | :-------: | :---: | :--: |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1963][1963]  |   소수 경로    |    BFS    | 09/01 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [11909][11909] |   배열 탈출    |    DP     | 09/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2023][2023]  |  신기한 소수   | 백트래킹  | 09/03 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1689][1689]  |  겹치는 선분   |  스위핑   | 09/04 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2011][2011]  |    암호코드    |    DP     | 09/05 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [18188][18188] | 다오의 데이트  |    BFS    | 09/06 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [3649][3649]  | 로봇 프로젝트  | 투 포인터 | 09/07 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [12429][12429] | 생존자 (Small) |    DP     | 09/08 |  ✔   |
 
 <!-- new -->
 
@@ -1070,5 +1071,6 @@
 [2011]: https://www.acmicpc.net/problem/2011
 [18188]: https://www.acmicpc.net/problem/18188
 [3649]: https://www.acmicpc.net/problem/3649
+[12429]: https://www.acmicpc.net/problem/12429
 
 <!-- new-link -->
