@@ -1062,6 +1062,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [3649][3649]  | 로봇 프로젝트  | 투 포인터 | 09/07 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [12429][12429] | 생존자 (Small) |    DP     | 09/08 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [22944][22944] |   죽음의 비    |    BFS    | 09/09 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [12430][12430] | 생존자 (Large) |  비트셋   | 09/10 |  ✔   |
 
 <!-- new -->
 
@@ -1074,5 +1075,6 @@
 [3649]: https://www.acmicpc.net/problem/3649
 [12429]: https://www.acmicpc.net/problem/12429
 [22944]: https://www.acmicpc.net/problem/22944
+[12430]: https://www.acmicpc.net/problem/12430
 
 <!-- new-link -->
