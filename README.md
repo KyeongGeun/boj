@@ -1065,6 +1065,7 @@
 | <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [12430][12430] |  생존자 (Large)   |  비트셋   | 09/10 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/21.svg" width="20px" height="25px"></img> | [18185][18185] | 라면 사기 (Small) |  그리디   | 09/11 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/22.svg" width="20px" height="25px"></img> | [18186][18186] | 라면 사기 (Large) |  그리디   | 09/11 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17141][17141] |     연구소 2      |    BFS    | 09/12 |  ✔   |
 
 <!-- new -->
 
@@ -1080,5 +1081,6 @@
 [12430]: https://www.acmicpc.net/problem/12430
 [18185]: https://www.acmicpc.net/problem/18185
 [18186]: https://www.acmicpc.net/problem/18186
+[17141]: https://www.acmicpc.net/problem/17141
 
 <!-- new-link -->
