@@ -1067,6 +1067,7 @@
 | <img src="https://static.solved.ac/tier_small/22.svg" width="20px" height="25px"></img> | [18186][18186] | 라면 사기 (Large) |   그리디   | 09/11 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17141][17141] |     연구소 2      |    BFS     | 09/12 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1916][1916]  |  최소비용 구하기  | 다익스트라 | 09/13 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> |  [2718][2718]  |    타일 채우기    |     DP     | 09/14 |  ✔   |
 
 <!-- new -->
 
@@ -1084,5 +1085,6 @@
 [18186]: https://www.acmicpc.net/problem/18186
 [17141]: https://www.acmicpc.net/problem/17141
 [1916]: https://www.acmicpc.net/problem/1916
+[2718]: https://www.acmicpc.net/problem/2718
 
 <!-- new-link -->
