@@ -1069,6 +1069,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1916][1916]  |  최소비용 구하기  | 다익스트라 | 09/13 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> |  [2718][2718]  |    타일 채우기    |     DP     | 09/14 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2437][2437]  |       저울        |   그리디   | 09/15 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14722][14722] |     우유 도시     |     DP     | 09/16 |  ✔   |
 
 <!-- new -->
 
@@ -1088,5 +1089,6 @@
 [1916]: https://www.acmicpc.net/problem/1916
 [2718]: https://www.acmicpc.net/problem/2718
 [2437]: https://www.acmicpc.net/problem/2437
+[14722]: https://www.acmicpc.net/problem/14722
 
 <!-- new-link -->
