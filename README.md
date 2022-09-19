@@ -1072,6 +1072,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14722][14722] |     우유 도시     |     DP     | 09/16 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1005][1005]  |     ACM Craft     | 위상 정렬  | 09/17 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14502][14502] |      연구소       |    BFS     | 09/18 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16397][16397] |       탈출        |    BFS     | 09/19 |  ✔   |
 
 <!-- new -->
 
@@ -1094,5 +1095,6 @@
 [14722]: https://www.acmicpc.net/problem/14722
 [1005]: https://www.acmicpc.net/problem/1005
 [14502]: https://www.acmicpc.net/problem/14502
+[16397]: https://www.acmicpc.net/problem/16397
 
 <!-- new-link -->
