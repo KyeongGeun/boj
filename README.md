@@ -1051,28 +1051,29 @@
 
 <div align="center">
 
-|                                         난이도                                          |      번호      |       이름        |    분류    | 날짜  | 체크 |
-| :-------------------------------------------------------------------------------------: | :------------: | :---------------: | :--------: | :---: | :--: |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1963][1963]  |     소수 경로     |    BFS     | 09/01 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [11909][11909] |     배열 탈출     |     DP     | 09/02 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2023][2023]  |    신기한 소수    |  백트래킹  | 09/03 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1689][1689]  |    겹치는 선분    |   스위핑   | 09/04 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2011][2011]  |     암호코드      |     DP     | 09/05 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [18188][18188] |   다오의 데이트   |    BFS     | 09/06 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [3649][3649]  |   로봇 프로젝트   | 투 포인터  | 09/07 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [12429][12429] |  생존자 (Small)   |     DP     | 09/08 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [22944][22944] |     죽음의 비     |    BFS     | 09/09 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [12430][12430] |  생존자 (Large)   |   비트셋   | 09/10 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/21.svg" width="20px" height="25px"></img> | [18185][18185] | 라면 사기 (Small) |   그리디   | 09/11 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/22.svg" width="20px" height="25px"></img> | [18186][18186] | 라면 사기 (Large) |   그리디   | 09/11 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17141][17141] |     연구소 2      |    BFS     | 09/12 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1916][1916]  |  최소비용 구하기  | 다익스트라 | 09/13 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> |  [2718][2718]  |    타일 채우기    |     DP     | 09/14 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2437][2437]  |       저울        |   그리디   | 09/15 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14722][14722] |     우유 도시     |     DP     | 09/16 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1005][1005]  |     ACM Craft     | 위상 정렬  | 09/17 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14502][14502] |      연구소       |    BFS     | 09/18 |  ✔   |
-| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16397][16397] |       탈출        |    BFS     | 09/19 |  ✔   |
+|                                         난이도                                          |      번호      |        이름        |    분류    | 날짜  | 체크 |
+| :-------------------------------------------------------------------------------------: | :------------: | :----------------: | :--------: | :---: | :--: |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1963][1963]  |     소수 경로      |    BFS     | 09/01 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [11909][11909] |     배열 탈출      |     DP     | 09/02 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2023][2023]  |    신기한 소수     |  백트래킹  | 09/03 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1689][1689]  |    겹치는 선분     |   스위핑   | 09/04 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2011][2011]  |      암호코드      |     DP     | 09/05 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [18188][18188] |   다오의 데이트    |    BFS     | 09/06 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [3649][3649]  |   로봇 프로젝트    | 투 포인터  | 09/07 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [12429][12429] |   생존자 (Small)   |     DP     | 09/08 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [22944][22944] |     죽음의 비      |    BFS     | 09/09 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/16.svg" width="20px" height="25px"></img> | [12430][12430] |   생존자 (Large)   |   비트셋   | 09/10 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/21.svg" width="20px" height="25px"></img> | [18185][18185] | 라면 사기 (Small)  |   그리디   | 09/11 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/22.svg" width="20px" height="25px"></img> | [18186][18186] | 라면 사기 (Large)  |   그리디   | 09/11 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [17141][17141] |      연구소 2      |    BFS     | 09/12 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [1916][1916]  |  최소비용 구하기   | 다익스트라 | 09/13 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/15.svg" width="20px" height="25px"></img> |  [2718][2718]  |    타일 채우기     |     DP     | 09/14 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [2437][2437]  |        저울        |   그리디   | 09/15 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14722][14722] |     우유 도시      |     DP     | 09/16 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> |  [1005][1005]  |     ACM Craft      | 위상 정렬  | 09/17 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [14502][14502] |       연구소       |    BFS     | 09/18 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16397][16397] |        탈출        |    BFS     | 09/19 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [23740][23740] | 버스 노선 개편하기 |   스위핑   | 09/20 |  ✔   |
 
 <!-- new -->
 
@@ -1096,5 +1097,6 @@
 [1005]: https://www.acmicpc.net/problem/1005
 [14502]: https://www.acmicpc.net/problem/14502
 [16397]: https://www.acmicpc.net/problem/16397
+[23740]: https://www.acmicpc.net/problem/23740
 
 <!-- new-link -->
