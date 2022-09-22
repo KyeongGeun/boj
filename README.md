@@ -1075,6 +1075,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [16397][16397] |           탈출           |    BFS     | 09/19 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [23740][23740] |    버스 노선 개편하기    |   스위핑   | 09/20 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [23254][23254] | 나는 기말고사형 인간이야 |   그리디   | 09/21 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> |  [1720][1720]  |        타일 코드         |     DP     | 09/22 |  ✔   |
 
 <!-- new -->
 
@@ -1100,5 +1101,6 @@
 [16397]: https://www.acmicpc.net/problem/16397
 [23740]: https://www.acmicpc.net/problem/23740
 [23254]: https://www.acmicpc.net/problem/23254
+[1720]: https://www.acmicpc.net/problem/1720
 
 <!-- new-link -->
