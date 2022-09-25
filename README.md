@@ -1079,6 +1079,7 @@
 | <img src="https://static.solved.ac/tier_small/14.svg" width="20px" height="25px"></img> |  [1918][1918]  |       후위 표기식        |    스택    | 09/23 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [20035][20035] |        이동하기 5        |   그리디   | 09/24 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2056][2056]  |           작업           |     DP     | 09/25 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [12851][12851] |        숨바꼭질 2        |    BFS     | 09/26 |  ✔   |
 
 <!-- new -->
 
@@ -1108,5 +1109,6 @@
 [1918]: https://www.acmicpc.net/problem/1918
 [20035]: https://www.acmicpc.net/problem/20035
 [2056]: https://www.acmicpc.net/problem/2056
+[12851]: https://www.acmicpc.net/problem/12851
 
 <!-- new-link -->
