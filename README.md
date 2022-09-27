@@ -1,6 +1,6 @@
 <div align="center">
 
-## 백준(BOJ) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+## Algorithm
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkg0510)](https://solved.ac/profile/kkg0510)
@@ -84,7 +84,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -107,7 +107,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -128,7 +128,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -157,7 +157,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -175,7 +175,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -200,7 +200,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -219,7 +219,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -239,7 +239,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -261,7 +261,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -281,7 +281,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -298,7 +298,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -318,7 +318,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -342,7 +342,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -362,7 +362,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -380,7 +380,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -402,7 +402,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -422,7 +422,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -439,7 +439,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -458,7 +458,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -475,7 +475,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -496,7 +496,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -515,7 +515,7 @@
 
 <div align=right>
  
-[TOP](#백준boj-)
+[TOP](#algorithm)
  
 </div>
 
@@ -535,7 +535,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -551,7 +551,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -569,7 +569,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -590,7 +590,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 
@@ -611,7 +611,7 @@
 
 <div align=right>
 
-[TOP](#백준boj-)
+[TOP](#algorithm)
 
 </div>
 <!-- ### -->
