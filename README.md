@@ -1082,6 +1082,7 @@
 | <img src="https://static.solved.ac/tier_small/12.svg" width="20px" height="25px"></img> | [12851][12851] |        숨바꼭질 2        |    BFS     | 09/26 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14677][14677] |       병약한 윤호        |     DP     | 09/27 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2174][2174]  |     로봇 시뮬레이션      |    구현    | 09/28 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [18235][18235] |    지금 만나러 갑니다    |    BFS     | 09/29 |  ✔   |
 
 <!-- new -->
 
@@ -1114,5 +1115,6 @@
 [12851]: https://www.acmicpc.net/problem/12851
 [14677]: https://www.acmicpc.net/problem/14677
 [2174]: https://www.acmicpc.net/problem/2174
+[18235]: https://www.acmicpc.net/problem/18235
 
 <!-- new-link -->
