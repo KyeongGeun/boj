@@ -1083,6 +1083,7 @@
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> | [14677][14677] |       병약한 윤호        |     DP     | 09/27 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [2174][2174]  |     로봇 시뮬레이션      |    구현    | 09/28 |  ✔   |
 | <img src="https://static.solved.ac/tier_small/13.svg" width="20px" height="25px"></img> | [18235][18235] |    지금 만나러 갑니다    |    BFS     | 09/29 |  ✔   |
+| <img src="https://static.solved.ac/tier_small/11.svg" width="20px" height="25px"></img> |  [5582][5582]  |     공통 부분 문자열     |     DP     | 09/30 |  ✔   |
 
 <!-- new -->
 
@@ -1116,5 +1117,6 @@
 [14677]: https://www.acmicpc.net/problem/14677
 [2174]: https://www.acmicpc.net/problem/2174
 [18235]: https://www.acmicpc.net/problem/18235
+[5582]: https://www.acmicpc.net/problem/5582
 
 <!-- new-link -->
