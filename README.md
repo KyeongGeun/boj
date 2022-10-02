@@ -1132,11 +1132,13 @@
 | :----: | :-------------------: | :---------: | :----: | :---: | :--: |
 | Lv. 3  | [프로그래머스][43105] | 정수 삼각형 |   DP   | 10/01 |  ✔   |
 | Lv. 3  | [프로그래머스][42884] | 단속카메라  | 스위핑 | 10/02 |  ✔   |
+| Lv. 3  | [프로그래머스][43162] |  네트워크   |  BFS   | 10/03 |  ✔   |
 
 <!-- new -->
 
 [43105]: https://school.programmers.co.kr/learn/courses/30/lessons/43105
 [42884]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
+[43162]: https://school.programmers.co.kr/learn/courses/30/lessons/43162
 
 <!-- new-link -->
 
