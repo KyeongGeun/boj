@@ -1134,6 +1134,7 @@
 | Lv. 3  | [프로그래머스][42884] | 단속카메라  |   스위핑   | 10/02 |  ✔   |
 | Lv. 3  | [프로그래머스][43162] |  네트워크   |    BFS     | 10/03 |  ✔   |
 | Lv. 3  | [프로그래머스][64064] | 불량 사용자 | 브루트포스 | 10/04 |  ✔   |
+| Lv. 3  | [프로그래머스][43163] |  단어 변환  |    BFS     | 10/05 |  ✔   |
 
 <!-- new -->
 
@@ -1141,6 +1142,7 @@
 [42884]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
 [43162]: https://school.programmers.co.kr/learn/courses/30/lessons/43162
 [64064]: https://school.programmers.co.kr/learn/courses/30/lessons/64064
+[43163]: https://school.programmers.co.kr/learn/courses/30/lessons/43163
 
 <!-- new-link -->
 
