@@ -1136,6 +1136,7 @@
 | Lv. 3  | [프로그래머스][64064] |  불량 사용자   | 브루트포스 | 10/04 |  ✔   |
 | Lv. 3  | [프로그래머스][43163] |   단어 변환    |    BFS     | 10/05 |  ✔   |
 | Lv. 3  | [프로그래머스][42628] | 이중우선순위큐 |     힙     | 10/06 |  ✔   |
+| Lv. 3  | [프로그래머스][12938] |  최고의 집합   |   그리디   | 10/07 |  ✔   |
 
 <!-- new -->
 
@@ -1145,6 +1146,7 @@
 [64064]: https://school.programmers.co.kr/learn/courses/30/lessons/64064
 [43163]: https://school.programmers.co.kr/learn/courses/30/lessons/43163
 [42628]: https://school.programmers.co.kr/learn/courses/30/lessons/42628
+[12938]: https://school.programmers.co.kr/learn/courses/30/lessons/12938
 
 <!-- new-link -->
 
