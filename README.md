@@ -1128,25 +1128,25 @@
 
 <div align="center">
 
-| 난이도 |         링크          |      이름      |    분류    | 날짜  | 체크 |
-| :----: | :-------------------: | :------------: | :--------: | :---: | :--: |
-| Lv. 3  | [프로그래머스][43105] |  정수 삼각형   |     DP     | 10/01 |  ✔   |
-| Lv. 3  | [프로그래머스][42884] |   단속카메라   |   스위핑   | 10/02 |  ✔   |
-| Lv. 3  | [프로그래머스][43162] |    네트워크    |    BFS     | 10/03 |  ✔   |
-| Lv. 3  | [프로그래머스][64064] |  불량 사용자   | 브루트포스 | 10/04 |  ✔   |
-| Lv. 3  | [프로그래머스][43163] |   단어 변환    |    BFS     | 10/05 |  ✔   |
-| Lv. 3  | [프로그래머스][42628] | 이중우선순위큐 |     힙     | 10/06 |  ✔   |
-| Lv. 3  | [프로그래머스][12938] |  최고의 집합   |   그리디   | 10/07 |  ✔   |
+| 난이도 |          링크          |      이름      |    분류    | 날짜  | 체크 |
+| :----: | :--------------------: | :------------: | :--------: | :---: | :--: |
+| Lv. 3  | [프로그래머스][43105p] |  정수 삼각형   |     DP     | 10/01 |  ✔   |
+| Lv. 3  | [프로그래머스][42884p] |   단속카메라   |   스위핑   | 10/02 |  ✔   |
+| Lv. 3  | [프로그래머스][43162p] |    네트워크    |    BFS     | 10/03 |  ✔   |
+| Lv. 3  | [프로그래머스][64064p] |  불량 사용자   | 브루트포스 | 10/04 |  ✔   |
+| Lv. 3  | [프로그래머스][43163p] |   단어 변환    |    BFS     | 10/05 |  ✔   |
+| Lv. 3  | [프로그래머스][42628p] | 이중우선순위큐 |     힙     | 10/06 |  ✔   |
+| Lv. 3  | [프로그래머스][12938p] |  최고의 집합   |   그리디   | 10/07 |  ✔   |
 
 <!-- new -->
 
-[43105]: https://school.programmers.co.kr/learn/courses/30/lessons/43105
-[42884]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
-[43162]: https://school.programmers.co.kr/learn/courses/30/lessons/43162
-[64064]: https://school.programmers.co.kr/learn/courses/30/lessons/64064
-[43163]: https://school.programmers.co.kr/learn/courses/30/lessons/43163
-[42628]: https://school.programmers.co.kr/learn/courses/30/lessons/42628
-[12938]: https://school.programmers.co.kr/learn/courses/30/lessons/12938
+[43105p]: https://school.programmers.co.kr/learn/courses/30/lessons/43105
+[42884p]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
+[43162p]: https://school.programmers.co.kr/learn/courses/30/lessons/43162
+[64064p]: https://school.programmers.co.kr/learn/courses/30/lessons/64064
+[43163p]: https://school.programmers.co.kr/learn/courses/30/lessons/43163
+[42628p]: https://school.programmers.co.kr/learn/courses/30/lessons/42628
+[12938p]: https://school.programmers.co.kr/learn/courses/30/lessons/12938
 
 <!-- new-link -->
 
