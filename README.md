@@ -1137,6 +1137,7 @@
 | Lv. 3  | [프로그래머스][43163p] |   단어 변환    |    BFS     | 10/05 |  ✔   |
 | Lv. 3  | [프로그래머스][42628p] | 이중우선순위큐 |     힙     | 10/06 |  ✔   |
 | Lv. 3  | [프로그래머스][12938p] |  최고의 집합   |   그리디   | 10/07 |  ✔   |
+| Lv. 3  | [프로그래머스][42898p] |     등굣길     |     DP     | 10/08 |  ✔   |
 
 <!-- new -->
 
@@ -1147,6 +1148,7 @@
 [43163p]: https://school.programmers.co.kr/learn/courses/30/lessons/43163
 [42628p]: https://school.programmers.co.kr/learn/courses/30/lessons/42628
 [12938p]: https://school.programmers.co.kr/learn/courses/30/lessons/12938
+[42898p]: https://school.programmers.co.kr/learn/courses/30/lessons/42898
 
 <!-- new-link -->
 
