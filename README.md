@@ -1139,6 +1139,7 @@
 | Lv. 3  | [프로그래머스][42898p] |     등굣길     |     DP     | 10/08 |  ✔   |
 | Lv. 3  | [프로그래머스][49191p] |      순위      |   그래프   | 10/09 |  ✔   |
 | Lv. 3  | [프로그래머스][12927p] |   야근 지수    |   그리디   | 10/10 |  ✔   |
+| Lv. 3  | [프로그래머스][42579p] |   베스트앨범   |    해시    | 10/11 |  ✔   |
 
 <!-- new -->
 
@@ -1152,6 +1153,7 @@
 [42898p]: https://school.programmers.co.kr/learn/courses/30/lessons/42898
 [49191p]: https://school.programmers.co.kr/learn/courses/30/lessons/49191
 [12927p]: https://school.programmers.co.kr/learn/courses/30/lessons/12927
+[42579p]: https://school.programmers.co.kr/learn/courses/30/lessons/42579
 
 <!-- new-link -->
 
