@@ -1140,6 +1140,7 @@
 | Lv. 3  | [프로그래머스][49191p] |      순위      |   그래프   | 10/09 |  ✔   |
 | Lv. 3  | [프로그래머스][12927p] |   야근 지수    |   그리디   | 10/10 |  ✔   |
 | Lv. 3  | [프로그래머스][42579p] |   베스트앨범   |    해시    | 10/11 |  ✔   |
+| Lv. 3  | [프로그래머스][49189p] |  가장 먼 노드  |    BFS     | 10/12 |  ✔   |
 
 <!-- new -->
 
@@ -1154,6 +1155,7 @@
 [49191p]: https://school.programmers.co.kr/learn/courses/30/lessons/49191
 [12927p]: https://school.programmers.co.kr/learn/courses/30/lessons/12927
 [42579p]: https://school.programmers.co.kr/learn/courses/30/lessons/42579
+[49189p]: https://school.programmers.co.kr/learn/courses/30/lessons/49189
 
 <!-- new-link -->
 
