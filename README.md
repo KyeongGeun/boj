@@ -1142,6 +1142,7 @@
 | Lv. 3  | [프로그래머스][42579p] |   베스트앨범   |    해시    | 10/11 |  ✔   |
 | Lv. 3  | [프로그래머스][49189p] |  가장 먼 노드  |    BFS     | 10/12 |  ✔   |
 | Lv. 3  | [프로그래머스][12987p] |   숫자 게임    |   그리디   | 10/13 |  ✔   |
+| Lv. 3  | [프로그래머스][12907p] |    거스름돈    |     DP     | 10/14 |  ✔   |
 
 <!-- new -->
 
@@ -1158,6 +1159,7 @@
 [42579p]: https://school.programmers.co.kr/learn/courses/30/lessons/42579
 [49189p]: https://school.programmers.co.kr/learn/courses/30/lessons/49189
 [12987p]: https://school.programmers.co.kr/learn/courses/30/lessons/12987
+[12907p]: https://school.programmers.co.kr/learn/courses/30/lessons/12907
 
 <!-- new-link -->
 
