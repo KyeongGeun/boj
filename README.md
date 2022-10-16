@@ -1145,6 +1145,7 @@
 | Lv. 3  | [프로그래머스][12907p]  |     거스름돈     |     DP     | 10/14 |  ✔   |
 | Lv. 3  | [프로그래머스][12904p]  | 가장 긴 팰린드롬 | 브루트포스 | 10/15 |  ✔   |
 | Lv. 3  | [프로그래머스][118669p] | 등산코스 정하기  | 다익스트라 | 10/16 |  ✔   |
+| Lv. 3  | [프로그래머스][12979p]  |   기지국 설치    |   스위핑   | 10/17 |  ✔   |
 
 <!-- new -->
 
@@ -1164,6 +1165,7 @@
 [12907p]: https://school.programmers.co.kr/learn/courses/30/lessons/12907
 [12904p]: https://school.programmers.co.kr/learn/courses/30/lessons/12904
 [118669p]: https://school.programmers.co.kr/learn/courses/30/lessons/118669
+[12979p]: https://school.programmers.co.kr/learn/courses/30/lessons/12979
 
 <!-- new-link -->
 
