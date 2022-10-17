@@ -1146,6 +1146,7 @@
 | Lv. 3  | [프로그래머스][12904p]  | 가장 긴 팰린드롬 | 브루트포스 | 10/15 |  ✔   |
 | Lv. 3  | [프로그래머스][118669p] | 등산코스 정하기  | 다익스트라 | 10/16 |  ✔   |
 | Lv. 3  | [프로그래머스][12979p]  |   기지국 설치    |   스위핑   | 10/17 |  ✔   |
+| Lv. 3  | [프로그래머스][77886p]  |    110 옮기기    |   그리디   | 10/18 |  ✔   |
 
 <!-- new -->
 
@@ -1166,6 +1167,7 @@
 [12904p]: https://school.programmers.co.kr/learn/courses/30/lessons/12904
 [118669p]: https://school.programmers.co.kr/learn/courses/30/lessons/118669
 [12979p]: https://school.programmers.co.kr/learn/courses/30/lessons/12979
+[77886p]: https://school.programmers.co.kr/learn/courses/30/lessons/77886
 
 <!-- new-link -->
 
