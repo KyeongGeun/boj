@@ -1147,6 +1147,7 @@
 | Lv. 3  | [프로그래머스][118669p] | 등산코스 정하기  | 다익스트라 | 10/16 |  ✔   |
 | Lv. 3  | [프로그래머스][12979p]  |   기지국 설치    |   스위핑   | 10/17 |  ✔   |
 | Lv. 3  | [프로그래머스][77886p]  |    110 옮기기    |   그리디   | 10/18 |  ✔   |
+| Lv. 3  | [프로그래머스][42895p]  |    N으로 표현    |     DP     | 10/19 |  ✔   |
 
 <!-- new -->
 
@@ -1168,6 +1169,7 @@
 [118669p]: https://school.programmers.co.kr/learn/courses/30/lessons/118669
 [12979p]: https://school.programmers.co.kr/learn/courses/30/lessons/12979
 [77886p]: https://school.programmers.co.kr/learn/courses/30/lessons/77886
+[42895p]: https://school.programmers.co.kr/learn/courses/30/lessons/42895
 
 <!-- new-link -->
 
