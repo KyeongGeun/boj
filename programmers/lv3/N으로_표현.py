@@ -36,3 +36,31 @@ def solution(N, number):
         se.update(temp)
 
     return -1 if dp[number] > 8 else dp[number]
+
+
+def solution2(N, number):
+    if number == N:
+        return 1
+
+    dp = [0] * 9
+
+    for i in range(1, 9):
+        dp[i] = [int(str(N) * i)]
+
+    for i in range(2, 9):
+        for j in range(1, i // 2 + 1):
+            for k in dp[i - j]:
+                for l in dp[j]:
+                    s = set()
+                    s.add(k + l)
+                    s.add(abs(k - l))
+                    s.add(k * l)
+                    if l != 0:
+                        s.add(k // l)
+                    if k != 0:
+                        s.add(l // k)
+                    dp[i] = list(set(dp[i]) | s)
+        if number in dp[i]:
+            return i
+
+    return -1
