@@ -1150,6 +1150,7 @@
 | Lv. 3  | [프로그래머스][42895p]  |    N으로 표현     |     DP     | 10/19 |  ✔   |
 | Lv. 3  | [프로그래머스][76503p]  | 모두 0으로 만들기 | 위상 정렬  | 10/20 |  ✔   |
 | Lv. 3  | [프로그래머스][70130p]  |     스타 수열     |   그리디   | 10/21 |  ✔   |
+| Lv. 3  | [프로그래머스][77486p]  | 다단계 칫솔 판매  |    DFS     | 10/22 |  ✔   |
 
 <!-- new -->
 
@@ -1174,6 +1175,7 @@
 [42895p]: https://school.programmers.co.kr/learn/courses/30/lessons/42895
 [76503p]: https://school.programmers.co.kr/learn/courses/30/lessons/76503
 [70130p]: https://school.programmers.co.kr/learn/courses/30/lessons/70130
+[77486p]: https://school.programmers.co.kr/learn/courses/30/lessons/77486
 
 <!-- new-link -->
 
