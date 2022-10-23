@@ -1152,6 +1152,7 @@
 | Lv. 3  | [프로그래머스][70130p]  |     스타 수열     |   그리디   | 10/21 |  ✔   |
 | Lv. 3  | [프로그래머스][77486p]  | 다단계 칫솔 판매  |    DFS     | 10/22 |  ✔   |
 | Lv. 3  | [프로그래머스][43164p]  |     여행경로      |    DFS     | 10/23 |  ✔   |
+| Lv. 3  | [프로그래머스][92343p]  |     양과 늑대     |    트리    | 10/24 |  ✔   |
 
 <!-- new -->
 
@@ -1178,6 +1179,7 @@
 [70130p]: https://school.programmers.co.kr/learn/courses/30/lessons/70130
 [77486p]: https://school.programmers.co.kr/learn/courses/30/lessons/77486
 [43164p]: https://school.programmers.co.kr/learn/courses/30/lessons/43164
+[92343p]: https://school.programmers.co.kr/learn/courses/30/lessons/92343
 
 <!-- new-link -->
 
