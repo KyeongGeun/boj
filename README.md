@@ -1154,6 +1154,7 @@
 | Lv. 3  | [프로그래머스][43164p]  |     여행경로      |    DFS     | 10/23 |  ✔   |
 | Lv. 3  | [프로그래머스][92343p]  |     양과 늑대     |    트리    | 10/24 |  ✔   |
 | Lv. 3  | [프로그래머스][132266p] |     부대복귀      |    BFS     | 10/25 |  ✔   |
+| Lv. 4  | [프로그래머스][42897p]  |      도둑질       |     DP     | 10/26 |  ✔   |
 
 <!-- new -->
 
@@ -1182,6 +1183,7 @@
 [43164p]: https://school.programmers.co.kr/learn/courses/30/lessons/43164
 [92343p]: https://school.programmers.co.kr/learn/courses/30/lessons/92343
 [132266p]: https://school.programmers.co.kr/learn/courses/30/lessons/132266
+[42897p]: https://school.programmers.co.kr/learn/courses/30/lessons/42897
 
 <!-- new-link -->
 
