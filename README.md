@@ -1156,6 +1156,7 @@
 | Lv. 3  | [프로그래머스][132266p] |     부대복귀      |       BFS        | 10/25 |  ✔   |
 | Lv. 4  | [프로그래머스][42897p]  |      도둑질       |        DP        | 10/26 |  ✔   |
 | Lv. 3  | [프로그래머스][42861p]  |    섬 연결하기    | 최소 스패닝 트리 | 10/27 |  ✔   |
+| Lv. 3  | [프로그래머스][68646p]  |   풍선 터트리기   |      그리디      | 10/28 |  ✔   |
 
 <!-- new -->
 
@@ -1186,6 +1187,7 @@
 [132266p]: https://school.programmers.co.kr/learn/courses/30/lessons/132266
 [42897p]: https://school.programmers.co.kr/learn/courses/30/lessons/42897
 [42861p]: https://school.programmers.co.kr/learn/courses/30/lessons/42861
+[68646p]: https://school.programmers.co.kr/learn/courses/30/lessons/68646
 
 <!-- new-link -->
 
