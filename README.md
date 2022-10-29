@@ -1158,6 +1158,7 @@
 | Lv. 3  | [프로그래머스][42861p]  |    섬 연결하기    | 최소 스패닝 트리 | 10/27 |  ✔   |
 | Lv. 3  | [프로그래머스][68646p]  |   풍선 터트리기   |      그리디      | 10/28 |  ✔   |
 | Lv. 3  | [프로그래머스][42627p]  |  디스크 컨트롤러  |        힙        | 10/29 |  ✔   |
+| Lv. 3  | [프로그래머스][12971p]  | 스티커 모으기(2)  |        DP        | 10/30 |  ✔   |
 
 <!-- new -->
 
@@ -1190,6 +1191,7 @@
 [42861p]: https://school.programmers.co.kr/learn/courses/30/lessons/42861
 [68646p]: https://school.programmers.co.kr/learn/courses/30/lessons/68646
 [42627p]: https://school.programmers.co.kr/learn/courses/30/lessons/42627
+[12971p]: https://school.programmers.co.kr/learn/courses/30/lessons/12971
 
 <!-- new-link -->
 
