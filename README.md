@@ -1159,6 +1159,7 @@
 | Lv. 3  | [프로그래머스][68646p]  |   풍선 터트리기   |      그리디      | 10/28 |  ✔   |
 | Lv. 3  | [프로그래머스][42627p]  |  디스크 컨트롤러  |        힙        | 10/29 |  ✔   |
 | Lv. 3  | [프로그래머스][12971p]  | 스티커 모으기(2)  |        DP        | 10/30 |  ✔   |
+| Lv. 3  | [프로그래머스][72413p]  |  합승 택시 요금   |  플로이드 워셜   | 10/31 |  ✔   |
 
 <!-- new -->
 
@@ -1192,6 +1193,7 @@
 [68646p]: https://school.programmers.co.kr/learn/courses/30/lessons/68646
 [42627p]: https://school.programmers.co.kr/learn/courses/30/lessons/42627
 [12971p]: https://school.programmers.co.kr/learn/courses/30/lessons/12971
+[72413p]: https://school.programmers.co.kr/learn/courses/30/lessons/72413
 
 <!-- new-link -->
 
