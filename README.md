@@ -1120,8 +1120,8 @@
 
 </details>
 
-<details open markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/10/01 ~</strong></summary>
+<details markdown="1">
+<summary><strong>꾸준히 한 문제씩<br>2022/10/01 ~ 2022/10/31</strong></summary>
 
 <br>
 
@@ -1161,8 +1161,6 @@
 | Lv. 3  | [프로그래머스][12971p]  | 스티커 모으기(2)  |        DP        | 10/30 |  ✔   |
 | Lv. 3  | [프로그래머스][72413p]  |  합승 택시 요금   |  플로이드 워셜   | 10/31 |  ✔   |
 
-<!-- new -->
-
 [43105p]: https://school.programmers.co.kr/learn/courses/30/lessons/43105
 [42884p]: https://school.programmers.co.kr/learn/courses/30/lessons/42884
 [43162p]: https://school.programmers.co.kr/learn/courses/30/lessons/43162
@@ -1194,6 +1192,25 @@
 [42627p]: https://school.programmers.co.kr/learn/courses/30/lessons/42627
 [12971p]: https://school.programmers.co.kr/learn/courses/30/lessons/12971
 [72413p]: https://school.programmers.co.kr/learn/courses/30/lessons/72413
+
+</div>
+
+</details>
+
+<details open markdown="1">
+<summary><strong>꾸준히 한 문제씩<br>2022/11/01 ~</strong></summary>
+
+<br>
+
+<div align="center">
+
+| 난이도 |          링크          |   이름    |  분류  | 날짜  | 체크 |
+| :----: | :--------------------: | :-------: | :----: | :---: | :--: |
+| Lv. 3  | [프로그래머스][67258p] | 보석 쇼핑 | 그리디 | 11/01 |  ✔   |
+
+<!-- new -->
+
+[67258p]: https://school.programmers.co.kr/learn/courses/30/lessons/67258
 
 <!-- new-link -->
 
