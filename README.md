@@ -1208,11 +1208,13 @@
 | :----: | :--------------------: | :-------------: | :-------: | :---: | :--: |
 | Lv. 3  | [프로그래머스][67258p] |    보석 쇼핑    |  그리디   | 11/01 |  ✔   |
 | Lv. 3  | [프로그래머스][64062p] | 징검다리 건너기 | 이분 탐색 | 11/02 |  ✔   |
+| Lv. 3  | [프로그래머스][43238p] |    입국심사     | 이분 탐색 | 11/03 |  ✔   |
 
 <!-- new -->
 
 [67258p]: https://school.programmers.co.kr/learn/courses/30/lessons/67258
 [64062p]: https://school.programmers.co.kr/learn/courses/30/lessons/64062
+[43238p]: https://school.programmers.co.kr/learn/courses/30/lessons/43238
 
 <!-- new-link -->
 
