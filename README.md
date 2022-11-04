@@ -1210,6 +1210,7 @@
 | Lv. 3  | [프로그래머스][64062p] | 징검다리 건너기 | 이분 탐색 | 11/02 |  ✔   |
 | Lv. 3  | [프로그래머스][43238p] |    입국심사     | 이분 탐색 | 11/03 |  ✔   |
 | Lv. 4  | [프로그래머스][43236p] |    징검다리     | 이분 탐색 | 11/04 |  ✔   |
+| Lv. 3  | [프로그래머스][67259p] |   경주로 건설   |    BFS    | 11/05 |  ✔   |
 
 <!-- new -->
 
@@ -1217,6 +1218,7 @@
 [64062p]: https://school.programmers.co.kr/learn/courses/30/lessons/64062
 [43238p]: https://school.programmers.co.kr/learn/courses/30/lessons/43238
 [43236p]: https://school.programmers.co.kr/learn/courses/30/lessons/43236
+[67259p]: https://school.programmers.co.kr/learn/courses/30/lessons/67259
 
 <!-- new-link -->
 
