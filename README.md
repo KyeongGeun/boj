@@ -1213,6 +1213,9 @@
 | Lv. 3  | [프로그래머스][67259p] |   경주로 건설   |    BFS    | 11/05 |  ✔   |
 | Lv. 3  | [프로그래머스][17678p] | [1차] 셔틀버스  |   구현    | 11/06 |  ✔   |
 | Lv. 3  | [프로그래머스][81303p] |     표 편집     |   구현    | 11/07 |  ✔   |
+| Lv. 2  | [프로그래머스][42577p] |  전화번호 목록  |   해시    | 11/08 |  ✔   |
+| Lv. 2  | [프로그래머스][12909p] |   올바른 괄호   |   스택    | 11/08 |  ✔   |
+| Lv. 2  | [프로그래머스][42586p] |    기능개발     |  그리디   | 11/08 |  ✔   |
 
 <!-- new -->
 
@@ -1223,6 +1226,9 @@
 [67259p]: https://school.programmers.co.kr/learn/courses/30/lessons/67259
 [17678p]: https://school.programmers.co.kr/learn/courses/30/lessons/17678
 [81303p]: https://school.programmers.co.kr/learn/courses/30/lessons/81303
+[42577p]: https://school.programmers.co.kr/learn/courses/30/lessons/42577
+[12909p]: https://school.programmers.co.kr/learn/courses/30/lessons/12909
+[42586p]: https://school.programmers.co.kr/learn/courses/30/lessons/42586
 
 <!-- new-link -->
 
