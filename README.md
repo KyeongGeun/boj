@@ -1222,6 +1222,8 @@
 | Lv. 2  | [프로그래머스][42839p] |      소수 찾기       | 브루트포스 | 11/10 |  ✔   |
 | Lv. 2  | [프로그래머스][87946p] |        피로도        | 브루트포스 | 11/10 |  ✔   |
 | Lv. 2  | [프로그래머스][86971p] | 전력망을 둘로 나누기 | 브루트포스 | 11/10 |  ✔   |
+| Lv. 2  | [프로그래머스][84512p] |      모음 사전       | 브루트포스 | 11/11 |  ✔   |
+| Lv. 2  | [프로그래머스][42885p] |       구명보트       |   그리디   | 11/11 |  ✔   |
 
 <!-- new -->
 
@@ -1241,6 +1243,8 @@
 [42839p]: https://school.programmers.co.kr/learn/courses/30/lessons/42839
 [87946p]: https://school.programmers.co.kr/learn/courses/30/lessons/87946
 [86971p]: https://school.programmers.co.kr/learn/courses/30/lessons/86971
+[84512p]: https://school.programmers.co.kr/learn/courses/30/lessons/84512
+[42885p]: https://school.programmers.co.kr/learn/courses/30/lessons/42885
 
 <!-- new-link -->
 
