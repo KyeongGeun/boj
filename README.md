@@ -1226,6 +1226,7 @@
 | Lv. 2  | [프로그래머스][42885p] |       구명보트       |   그리디   | 11/11 |  ✔   |
 | Lv. 2  | [프로그래머스][1844p]  |   게임 맵 최단거리   |    BFS     | 11/12 |  ✔   |
 | Lv. 2  | [프로그래머스][42860p] |       조이스틱       | 브루트포스 | 11/12 |  ✔   |
+| Lv. 3  | [프로그래머스][87694p] |     아이템 줍기      |    BFS     | 11/13 |  ✔   |
 
 <!-- new -->
 
@@ -1249,6 +1250,7 @@
 [42885p]: https://school.programmers.co.kr/learn/courses/30/lessons/42885
 [1844p]: https://school.programmers.co.kr/learn/courses/30/lessons/1844
 [42860p]: https://school.programmers.co.kr/learn/courses/30/lessons/42860
+[87694p]: https://school.programmers.co.kr/learn/courses/30/lessons/87694
 
 <!-- new-link -->
 
