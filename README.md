@@ -1227,6 +1227,7 @@
 | Lv. 2  | [프로그래머스][1844p]  |   게임 맵 최단거리   |    BFS     | 11/12 |  ✔   |
 | Lv. 2  | [프로그래머스][42860p] |       조이스틱       | 브루트포스 | 11/12 |  ✔   |
 | Lv. 3  | [프로그래머스][87694p] |     아이템 줍기      |    BFS     | 11/13 |  ✔   |
+| Lv. 4  | [프로그래머스][1843p]  |       사칙연산       |     DP     | 11/14 |  ✔   |
 
 <!-- new -->
 
@@ -1251,6 +1252,7 @@
 [1844p]: https://school.programmers.co.kr/learn/courses/30/lessons/1844
 [42860p]: https://school.programmers.co.kr/learn/courses/30/lessons/42860
 [87694p]: https://school.programmers.co.kr/learn/courses/30/lessons/87694
+[1843p]: https://school.programmers.co.kr/learn/courses/30/lessons/1843
 
 <!-- new-link -->
 
