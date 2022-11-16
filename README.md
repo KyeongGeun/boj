@@ -1229,6 +1229,7 @@
 | Lv. 3  | [프로그래머스][87694p] |     아이템 줍기      |     BFS     | 11/13 |  ✔   |
 | Lv. 4  | [프로그래머스][1843p]  |       사칙연산       |     DP      | 11/14 |  ✔   |
 | Medium |     [리트코드][2l]     |  2. Add Two Numbers  | Linked List | 11/15 |  ✔   |
+| Medium |    [리트코드][54l]     |  54. Spiral Matrix   | Simulation  | 11/16 |  ✔   |
 
 <!-- new -->
 
@@ -1255,6 +1256,7 @@
 [87694p]: https://school.programmers.co.kr/learn/courses/30/lessons/87694
 [1843p]: https://school.programmers.co.kr/learn/courses/30/lessons/1843
 [2l]: https://leetcode.com/problems/add-two-numbers
+[54l]: https://leetcode.com/problems/spiral-matrix
 
 <!-- new-link -->
 
