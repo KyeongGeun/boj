@@ -1232,6 +1232,7 @@
 | Medium |    [리트코드][54l]     |          54. Spiral Matrix           | Simulation  | 11/16 |  ✔   |
 | Medium |    [리트코드][15l]     |               15. 3Sum               |    Hash     | 11/17 |  ✔   |
 | Medium |    [리트코드][19l]     | 19. Remove Nth Node From End of List | Linked List | 11/18 |  ✔   |
+| Medium |    [리트코드][50l]     |            50. Pow(x, n)             |  Recursion  | 11/19 |  ✔   |
 
 <!-- new -->
 
@@ -1261,6 +1262,7 @@
 [54l]: https://leetcode.com/problems/spiral-matrix
 [15l]: https://leetcode.com/problems/3sum
 [19l]: https://leetcode.com/problems/remove-nth-node-from-end-of-list
+[50l]: https://leetcode.com/problems/powx-n
 
 <!-- new-link -->
 
