@@ -1231,7 +1231,7 @@
 | Medium |     [리트코드][2l]     |          2. Add Two Numbers          | Linked List | 11/15 |  ✔   |
 | Medium |    [리트코드][54l]     |          54. Spiral Matrix           | Simulation  | 11/16 |  ✔   |
 | Medium |    [리트코드][15l]     |               15. 3Sum               |    Hash     | 11/17 |  ✔   |
-| Medium |    [리트코드][19l]     | 19. Remove Nth Node From End of List | Linked List | 11/18 |  ✔   |
+| Medium |    [리트코드][19l]     | 19. Remove Nth Node<br>From End of List | Linked List | 11/18 |  ✔   |
 | Medium |    [리트코드][50l]     |            50. Pow(x, n)             |  Recursion  | 11/19 |  ✔   |
 
 <!-- new -->
