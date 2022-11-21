@@ -1234,6 +1234,7 @@
 | Medium |    [리트코드][19l]     | 19. Remove Nth Node<br>From End of List |  Linked List  | 11/18 |  ✔   |
 | Medium |    [리트코드][50l]     |              50. Pow(x, n)              |   Recursion   | 11/19 |  ✔   |
 | Medium |    [리트코드][74l]     |         74. Search a 2D Matrix          | Binary Search | 11/20 |  ✔   |
+| Medium |    [리트코드][73l]     |          73. Set Matrix Zeroes          |     Array     | 11/21 |  ✔   |
 
 <!-- new -->
 
@@ -1265,6 +1266,7 @@
 [19l]: https://leetcode.com/problems/remove-nth-node-from-end-of-list
 [50l]: https://leetcode.com/problems/powx-n
 [74l]: https://leetcode.com/problems/search-a-2d-matrix
+[73l]: https://leetcode.com/problems/set-matrix-zeroes
 
 <!-- new-link -->
 
