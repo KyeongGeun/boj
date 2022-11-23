@@ -1236,6 +1236,7 @@
 | Medium |    [리트코드][74l]     |         74. Search a 2D Matrix          | Binary Search | 11/20 |  ✔   |
 | Medium |    [리트코드][73l]     |          73. Set Matrix Zeroes          |     Array     | 11/21 |  ✔   |
 | Medium |    [리트코드][49l]     |           49. Group Anagrams            |     Hash      | 11/22 |  ✔   |
+| Medium |    [리트코드][334l]    |   334. Increasing Triplet Subsequence   |    Greedy     | 11/23 |  ✔   |
 
 <!-- new -->
 
@@ -1269,6 +1270,7 @@
 [74l]: https://leetcode.com/problems/search-a-2d-matrix
 [73l]: https://leetcode.com/problems/set-matrix-zeroes
 [49l]: https://leetcode.com/problems/group-anagrams
+[334l]: https://leetcode.com/problems/increasing-triplet-subsequence
 
 <!-- new-link -->
 
