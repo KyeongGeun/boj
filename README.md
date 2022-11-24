@@ -1237,6 +1237,7 @@
 | Medium |    [리트코드][73l]     |          73. Set Matrix Zeroes          |     Array     | 11/21 |  ✔   |
 | Medium |    [리트코드][49l]     |           49. Group Anagrams            |     Hash      | 11/22 |  ✔   |
 | Medium |    [리트코드][334l]    |   334. Increasing Triplet Subsequence   |    Greedy     | 11/23 |  ✔   |
+| Medium |    [리트코드][38l]     |            38. Count and Say            |   Recursion   | 11/24 |  ✔   |
 
 <!-- new -->
 
@@ -1271,6 +1272,7 @@
 [73l]: https://leetcode.com/problems/set-matrix-zeroes
 [49l]: https://leetcode.com/problems/group-anagrams
 [334l]: https://leetcode.com/problems/increasing-triplet-subsequence
+[38l]: https://leetcode.com/problems/count-and-say
 
 <!-- new-link -->
 
