@@ -1238,6 +1238,7 @@
 | Medium |    [리트코드][49l]     |           49. Group Anagrams            |     Hash      | 11/22 |  ✔   |
 | Medium |    [리트코드][334l]    |   334. Increasing Triplet Subsequence   |    Greedy     | 11/23 |  ✔   |
 | Medium |    [리트코드][38l]     |            38. Count and Say            |   Recursion   | 11/24 |  ✔   |
+| Medium |    [리트코드][55l]     |              55. Jump Game              |      DP       | 11/25 |  ✔   |
 
 <!-- new -->
 
@@ -1273,6 +1274,7 @@
 [49l]: https://leetcode.com/problems/group-anagrams
 [334l]: https://leetcode.com/problems/increasing-triplet-subsequence
 [38l]: https://leetcode.com/problems/count-and-say
+[55l]: https://leetcode.com/problems/jump-game
 
 <!-- new-link -->
 
