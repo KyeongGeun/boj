@@ -1239,6 +1239,7 @@
 | Medium |    [리트코드][334l]    |   334. Increasing Triplet Subsequence   |    Greedy     | 11/23 |  ✔   |
 | Medium |    [리트코드][38l]     |            38. Count and Say            |   Recursion   | 11/24 |  ✔   |
 | Medium |    [리트코드][55l]     |              55. Jump Game              |      DP       | 11/25 |  ✔   |
+| Medium |    [리트코드][75l]     |             75. Sort Colors             |    Sorting    | 11/26 |  ✔   |
 
 <!-- new -->
 
@@ -1275,6 +1276,7 @@
 [334l]: https://leetcode.com/problems/increasing-triplet-subsequence
 [38l]: https://leetcode.com/problems/count-and-say
 [55l]: https://leetcode.com/problems/jump-game
+[75l]: https://leetcode.com/problems/sort-colors
 
 <!-- new-link -->
 
