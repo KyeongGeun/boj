@@ -1240,6 +1240,7 @@
 | Medium |    [리트코드][38l]     |            38. Count and Say            |   Recursion   | 11/24 |  ✔   |
 | Medium |    [리트코드][55l]     |              55. Jump Game              |      DP       | 11/25 |  ✔   |
 | Medium |    [리트코드][75l]     |             75. Sort Colors             |    Sorting    | 11/26 |  ✔   |
+| Medium |    [리트코드][75l]     |            62. Unique Paths             |      DP       | 11/27 |  ✔   |
 
 <!-- new -->
 
