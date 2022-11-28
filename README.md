@@ -1242,6 +1242,7 @@
 | Medium |    [리트코드][75l]     |             75. Sort Colors             |    Sorting    | 11/26 |  ✔   |
 | Medium |    [리트코드][75l]     |            62. Unique Paths             |      DP       | 11/27 |  ✔   |
 | Medium |    [리트코드][322l]    |            322. Coin Change             |      DP       | 11/28 |  ✔   |
+| Medium |    [리트코드][347l]    |      347. Top K Frequent Elements       |    Sorting    | 11/29 |  ✔   |
 
 <!-- new -->
 
@@ -1280,6 +1281,7 @@
 [55l]: https://leetcode.com/problems/jump-game
 [75l]: https://leetcode.com/problems/sort-colors
 [322l]: https://leetcode.com/problems/coin-change
+[347l]: https://leetcode.com/problems/top-k-frequent-elements
 
 <!-- new-link -->
 
