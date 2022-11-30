@@ -1243,6 +1243,7 @@
 | Medium |    [리트코드][75l]     |            62. Unique Paths             |      DP       | 11/27 |  ✔   |
 | Medium |    [리트코드][322l]    |            322. Coin Change             |      DP       | 11/28 |  ✔   |
 | Medium |    [리트코드][347l]    |      347. Top K Frequent Elements       |    Sorting    | 11/29 |  ✔   |
+| Medium |    [리트코드][56l]     |           56. Merge Intervals           | Two Pointers  | 11/30 |  ✔   |
 
 <!-- new -->
 
@@ -1282,6 +1283,7 @@
 [75l]: https://leetcode.com/problems/sort-colors
 [322l]: https://leetcode.com/problems/coin-change
 [347l]: https://leetcode.com/problems/top-k-frequent-elements
+[56l]: https://leetcode.com/problems/merge-intervals
 
 <!-- new-link -->
 
