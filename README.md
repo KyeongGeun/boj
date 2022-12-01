@@ -1197,8 +1197,8 @@
 
 </details>
 
-<details open markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/11/01 ~</strong></summary>
+<details markdown="1">
+<summary><strong>꾸준히 한 문제씩<br>2022/11/01 ~ 2022/11/31</strong></summary>
 
 <br>
 
@@ -1245,8 +1245,6 @@
 | Medium |    [리트코드][347l]    |      347. Top K Frequent Elements       |    Sorting    | 11/29 |  ✔   |
 | Medium |    [리트코드][56l]     |           56. Merge Intervals           | Two Pointers  | 11/30 |  ✔   |
 
-<!-- new -->
-
 [67258p]: https://school.programmers.co.kr/learn/courses/30/lessons/67258
 [64062p]: https://school.programmers.co.kr/learn/courses/30/lessons/64062
 [43238p]: https://school.programmers.co.kr/learn/courses/30/lessons/43238
@@ -1285,8 +1283,23 @@
 [347l]: https://leetcode.com/problems/top-k-frequent-elements
 [56l]: https://leetcode.com/problems/merge-intervals
 
-<!-- new-link -->
-
 </div>
 
 </details>
+
+<details open markdown="1">
+<summary><strong>꾸준히 한 문제씩<br>2022/12/01 ~</strong></summary>
+
+<br>
+
+<div align="center">
+
+| 난이도 |      링크       |    이름     |     분류     | 날짜  | 체크 |
+| :----: | :-------------: | :---------: | :----------: | :---: | :--: |
+| Medium | [리트코드][78l] | 78. Subsets | Backtracking | 12/01 |  ✔   |
+
+<!-- new -->
+
+[78l]: https://leetcode.com/problems/subsets
+
+<!-- new-link -->
