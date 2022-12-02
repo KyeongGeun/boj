@@ -1294,12 +1294,14 @@
 
 <div align="center">
 
-| 난이도 |      링크       |    이름     |     분류     | 날짜  | 체크 |
-| :----: | :-------------: | :---------: | :----------: | :---: | :--: |
-| Medium | [리트코드][78l] | 78. Subsets | Backtracking | 12/01 |  ✔   |
+| 난이도 |      링크       |           이름           |     분류     | 날짜  | 체크 |
+| :----: | :-------------: | :----------------------: | :----------: | :---: | :--: |
+| Medium | [리트코드][78l] |       78. Subsets        | Backtracking | 12/01 |  ✔   |
+| Medium | [리트코드][22l] | 22. Generate Parentheses | Backtracking | 12/02 |  ✔   |
 
 <!-- new -->
 
 [78l]: https://leetcode.com/problems/subsets
+[22l]: https://leetcode.com/problems/generate-parentheses
 
 <!-- new-link -->
