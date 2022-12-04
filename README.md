@@ -1299,11 +1299,13 @@
 | Medium | [리트코드][78l]  |       78. Subsets        | Backtracking | 12/01 |  ✔   |
 | Medium | [리트코드][22l]  | 22. Generate Parentheses | Backtracking | 12/02 |  ✔   |
 | Medium | [리트코드][200l] |  200. Number of Islands  |     BFS      | 12/03 |  ✔   |
+| Medium | [리트코드][46l]  |     46. Permutations     |     DFS      | 12/04 |  ✔   |
 
 <!-- new -->
 
 [78l]: https://leetcode.com/problems/subsets
 [22l]: https://leetcode.com/problems/generate-parentheses
 [200l]: https://leetcode.com/problems/number-of-islands
+[46l]: https://leetcode.com/problems/permutations
 
 <!-- new-link -->
