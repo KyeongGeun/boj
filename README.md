@@ -1303,6 +1303,7 @@
 | Medium |  [리트코드][6l]  |     6. Zigzag Conversion      |   Simulate   | 12/05 |  ✔   |
 | Medium | [리트코드][11l]  | 11. Container With Most Water | Two Pointer  | 12/06 |  ✔   |
 | Medium | [리트코드][39l]  |      39. Combination Sum      | Backtracking | 12/07 |  ✔   |
+| Medium | [리트코드][93l]  |   93. Restore IP Addresses    | Backtracking | 12/08 |  ✔   |
 
 <!-- new -->
 
@@ -1313,5 +1314,6 @@
 [6l]: https://leetcode.com/problems/zigzag-conversion
 [11l]: https://leetcode.com/problems/container-with-most-water
 [39l]: https://leetcode.com/problems/combination-sum
+[93l]: https://leetcode.com/problems/combination-sum
 
 <!-- new-link -->
