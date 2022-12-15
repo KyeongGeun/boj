@@ -1312,6 +1312,7 @@
 | Medium |    [리트코드][337l]    |                   337. House Robber III<br>                    |      DFS      | 12/14 |  ✔   |
 | Medium |   [리트코드][1143l]    |              1143. Longest Common Subsequence<br>              |      DP       | 12/15 |  ✔   |
 | Lv. 3  | [프로그래머스][42579p] |                       베스트앨범 (Java)                        |     해시      | 12/15 |  ✔   |
+| Lv. 3  | [프로그래머스][42628p] |                     이중우선순위큐 (Java)                      |      힙       | 12/15 |  ✔   |
 
 <!-- new -->
 
