@@ -1294,23 +1294,24 @@
 
 <div align="center">
 
-| 난이도 |       링크        |                              이름                              |     분류      | 날짜  | 체크 |
-| :----: | :---------------: | :------------------------------------------------------------: | :-----------: | :---: | :--: |
-| Medium |  [리트코드][78l]  |                          78. Subsets                           | Backtracking  | 12/01 |  ✔   |
-| Medium |  [리트코드][22l]  |                    22. Generate Parentheses                    | Backtracking  | 12/02 |  ✔   |
-| Medium | [리트코드][200l]  |                     200. Number of Islands                     |      BFS      | 12/03 |  ✔   |
-| Medium |  [리트코드][46l]  |                        46. Permutations                        |      DFS      | 12/04 |  ✔   |
-| Medium |  [리트코드][6l]   |                      6. Zigzag Conversion                      |   Simulate    | 12/05 |  ✔   |
-| Medium |  [리트코드][11l]  |                 11. Container With Most Water                  |  Two Pointer  | 12/06 |  ✔   |
-| Medium |  [리트코드][39l]  |                      39. Combination Sum                       | Backtracking  | 12/07 |  ✔   |
-| Medium |  [리트코드][93l]  |                    93. Restore IP Addresses                    | Backtracking  | 12/08 |  ✔   |
-| Medium | [리트코드][237l]  |              237. Delete Node<br>in a Linked List              |  Linked List  | 12/09 |  ✔   |
-| Medium | [리트코드][198l]  |                       198. House Robber                        |      DP       | 12/10 |  ✔   |
-| Medium |  [리트코드][91l]  |                        91. Decode Ways                         |      DP       | 12/11 |  ✔   |
-| Medium |  [리트코드][34l]  | 34. Find First and Last Position<br>of Element in Sorted Array | Binary Search | 12/12 |  ✔   |
-| Medium | [리트코드][299l]  |                      299. Bulls and Cows                       |     Hash      | 12/13 |  ✔   |
-| Medium | [리트코드][337l]  |                     337. House Robber III                      |      DFS      | 12/14 |  ✔   |
-| Medium | [리트코드][1143l] |                1143. Longest Common Subsequence                |      DP       | 12/15 |  ✔   |
+| 난이도 |          링크          |                              이름                              |     분류      | 날짜  | 체크 |
+| :----: | :--------------------: | :------------------------------------------------------------: | :-----------: | :---: | :--: |
+| Medium |    [리트코드][78l]     |                          78. Subsets                           | Backtracking  | 12/01 |  ✔   |
+| Medium |    [리트코드][22l]     |                    22. Generate Parentheses                    | Backtracking  | 12/02 |  ✔   |
+| Medium |    [리트코드][200l]    |                     200. Number of Islands                     |      BFS      | 12/03 |  ✔   |
+| Medium |    [리트코드][46l]     |                        46. Permutations                        |      DFS      | 12/04 |  ✔   |
+| Medium |     [리트코드][6l]     |                      6. Zigzag Conversion                      |   Simulate    | 12/05 |  ✔   |
+| Medium |    [리트코드][11l]     |                 11. Container With Most Water                  |  Two Pointer  | 12/06 |  ✔   |
+| Medium |    [리트코드][39l]     |                      39. Combination Sum                       | Backtracking  | 12/07 |  ✔   |
+| Medium |    [리트코드][93l]     |                    93. Restore IP Addresses                    | Backtracking  | 12/08 |  ✔   |
+| Medium |    [리트코드][237l]    |              237. Delete Node<br>in a Linked List              |  Linked List  | 12/09 |  ✔   |
+| Medium |    [리트코드][198l]    |                       198. House Robber                        |      DP       | 12/10 |  ✔   |
+| Medium |    [리트코드][91l]     |                        91. Decode Ways                         |      DP       | 12/11 |  ✔   |
+| Medium |    [리트코드][34l]     | 34. Find First and Last Position<br>of Element in Sorted Array | Binary Search | 12/12 |  ✔   |
+| Medium |    [리트코드][299l]    |                      299. Bulls and Cows                       |     Hash      | 12/13 |  ✔   |
+| Medium |    [리트코드][337l]    |                   337. House Robber III<br>                    |      DFS      | 12/14 |  ✔   |
+| Medium |   [리트코드][1143l]    |              1143. Longest Common Subsequence<br>              |      DP       | 12/15 |  ✔   |
+| Lv. 3  | [프로그래머스][42579p] |                       베스트앨범 (Java)                        |     해시      | 12/15 |  ✔   |
 
 <!-- new -->
 
