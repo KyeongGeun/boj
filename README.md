@@ -1314,6 +1314,7 @@
 | Lv. 3  | [프로그래머스][42579p] |                       베스트앨범 (Java)                        |       해시       | 12/15 |  ✔   |
 | Lv. 3  | [프로그래머스][42628p] |                     이중우선순위큐 (Java)                      |        힙        | 12/15 |  ✔   |
 | Lv. 3  | [프로그래머스][42861p] |                       섬 연결하기 (Java)                       | 최소 스패닝 트리 | 12/16 |  ✔   |
+| Medium |    [리트코드][47l]     |                      47. Permutations II                       |   Backtracking   | 12/17 |  ✔   |
 
 <!-- new -->
 
@@ -1332,5 +1333,6 @@
 [299l]: https://leetcode.com/problems/bulls-and-cows
 [337l]: https://leetcode.com/problems/house-robber-iii
 [1143l]: https://leetcode.com/problems/longest-common-subsequence
+[47l]: https://leetcode.com/problems/
 
 <!-- new-link -->
