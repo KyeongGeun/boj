@@ -1316,6 +1316,7 @@
 | Lv. 3  | [프로그래머스][42861p] |                       섬 연결하기 (Java)                       | 최소 스패닝 트리 | 12/16 |  ✔   |
 | Medium |    [리트코드][47l]     |                      47. Permutations II                       |   Backtracking   | 12/17 |  ✔   |
 | Medium |    [리트코드][343l]    |                       343. Integer Break                       |      Greedy      | 12/18 |  ✔   |
+| Medium |    [리트코드][328l]    |                   328. Odd Even Linked List                    |   Linked List    | 12/19 |  ✔   |
 
 <!-- new -->
 
@@ -1336,5 +1337,6 @@
 [1143l]: https://leetcode.com/problems/longest-common-subsequence
 [47l]: https://leetcode.com/problems/permutations-ii
 [343l]: https://leetcode.com/problems/integer-break
+[328l]: https://leetcode.com/problems/odd-even-linked-list
 
 <!-- new-link -->
