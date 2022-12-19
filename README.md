@@ -1317,6 +1317,7 @@
 | Medium |    [리트코드][47l]     |                      47. Permutations II                       |   Backtracking   | 12/17 |  ✔   |
 | Medium |    [리트코드][343l]    |                       343. Integer Break                       |      Greedy      | 12/18 |  ✔   |
 | Medium |    [리트코드][328l]    |                   328. Odd Even Linked List                    |   Linked List    | 12/19 |  ✔   |
+| Medium |    [리트코드][848l]    |                     848. Shifting Letters                      |    Prefix Sum    | 12/20 |  ✔   |
 
 <!-- new -->
 
@@ -1338,5 +1339,6 @@
 [47l]: https://leetcode.com/problems/permutations-ii
 [343l]: https://leetcode.com/problems/integer-break
 [328l]: https://leetcode.com/problems/odd-even-linked-list
+[848l]: https://leetcode.com/problems/shifting-letters
 
 <!-- new-link -->
