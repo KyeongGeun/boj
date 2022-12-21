@@ -1318,6 +1318,7 @@
 | Medium |    [리트코드][343l]    |                       343. Integer Break                       |      Greedy      | 12/18 |  ✔   |
 | Medium |    [리트코드][328l]    |                   328. Odd Even Linked List                    |   Linked List    | 12/19 |  ✔   |
 | Medium |    [리트코드][848l]    |                     848. Shifting Letters                      |    Prefix Sum    | 12/20 |  ✔   |
+| Medium |    [리트코드][238l]    |               238. Product of Array Except Self                |    Prefix Sum    | 12/21 |  ✔   |
 
 <!-- new -->
 
@@ -1340,5 +1341,6 @@
 [343l]: https://leetcode.com/problems/integer-break
 [328l]: https://leetcode.com/problems/odd-even-linked-list
 [848l]: https://leetcode.com/problems/shifting-letters
+[238l]: https://leetcode.com/problems/product-of-array-except-self
 
 <!-- new-link -->
