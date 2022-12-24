@@ -1321,6 +1321,7 @@
 | Medium |    [리트코드][238l]    |               238. Product of Array Except Self                |    Prefix Sum    | 12/21 |  ✔   |
 | Medium |    [리트코드][648l]    |                       648. Replace Words                       |       Hash       | 12/22 |  ✔   |
 | Medium |    [리트코드][442l]    |            442. Find All Duplicates<br>in an Array             |       Hash       | 12/23 |  ✔   |
+| Medium |    [리트코드][994l]    |                      994. Rotting Oranges                      |       BFS        | 12/24 |  ✔   |
 
 <!-- new -->
 
@@ -1346,5 +1347,6 @@
 [238l]: https://leetcode.com/problems/product-of-array-except-self
 [648l]: https://leetcode.com/problems/replace-words
 [442l]: https://leetcode.com/problems/find-all-duplicates-in-an-array
+[994l]: https://leetcode.com/problems/rotting-oranges
 
 <!-- new-link -->
