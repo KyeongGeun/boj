@@ -1322,6 +1322,7 @@
 | Medium |    [리트코드][648l]    |                       648. Replace Words                       |       Hash       | 12/22 |  ✔   |
 | Medium |    [리트코드][442l]    |            442. Find All Duplicates<br>in an Array             |       Hash       | 12/23 |  ✔   |
 | Medium |    [리트코드][994l]    |                      994. Rotting Oranges                      |       BFS        | 12/24 |  ✔   |
+| Medium |    [리트코드][89l]     |                         89. Gray Code                          | Bit Manipulation | 12/25 |  ✔   |
 
 <!-- new -->
 
@@ -1348,5 +1349,6 @@
 [648l]: https://leetcode.com/problems/replace-words
 [442l]: https://leetcode.com/problems/find-all-duplicates-in-an-array
 [994l]: https://leetcode.com/problems/rotting-oranges
+[89l]: https://leetcode.com/problems/gray-code
 
 <!-- new-link -->
