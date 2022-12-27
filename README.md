@@ -1324,6 +1324,7 @@
 | Medium |    [리트코드][994l]    |                      994. Rotting Oranges                      |       BFS        | 12/24 |  ✔   |
 | Medium |    [리트코드][89l]     |                         89. Gray Code                          | Bit Manipulation | 12/25 |  ✔   |
 | Medium |    [리트코드][16l]     |                        16. 3Sum Closest                        |   Two Pointers   | 12/26 |  ✔   |
+| Medium |   [리트코드][2279l]    |       2279. Maximum Bags<br>With Full Capacity of Rocks        |      Greedy      | 12/27 |  ✔   |
 
 <!-- new -->
 
@@ -1352,5 +1353,6 @@
 [994l]: https://leetcode.com/problems/rotting-oranges
 [89l]: https://leetcode.com/problems/gray-code
 [16l]: https://leetcode.com/problems/3sum-closest
+[2279l]: https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks
 
 <!-- new-link -->
