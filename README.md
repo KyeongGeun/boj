@@ -1327,7 +1327,8 @@
 | Medium |   [리트코드][2279l]    |       2279. Maximum Bags<br>With Full Capacity of Rocks        |      Greedy      | 12/27 |  ✔   |
 | Medium |   [리트코드][1962l]    |           1962. Remove Stones to Minimize the Total            |  Priority Queue  | 12/28 |  ✔   |
 | Medium |   [리트코드][1834l]    |                   1834. Single-Threaded CPU                    |  Priority Queue  | 12/29 |  ✔   |
-| Medium |    [리트코드][797l]    |              797. All Paths From Source to Target              |   backtracking   | 12/30 |  ✔   |
+| Medium |    [리트코드][797l]    |              797. All Paths From Source to Target              |   Backtracking   | 12/30 |  ✔   |
+| Medium |    [리트코드][886l]    |                   886. Possible Bipartition                    |       DFS        | 12/31 |  ✔   |
 
 <!-- new -->
 
@@ -1360,5 +1361,6 @@
 [1962l]: https://leetcode.com/problems/remove-stones-to-minimize-the-total
 [1834l]: https://leetcode.com/problems/single-threaded-cpu
 [797l]: https://leetcode.com/problems/all-paths-from-source-to-target
+[886l]: https://leetcode.com/problems/possible-bipartition
 
 <!-- new-link -->
