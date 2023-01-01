@@ -1372,13 +1372,15 @@
 
 <div align="center">
 
-| 난이도 |       링크       |       이름        | 분류 | 날짜  | 체크 |
-| :----: | :--------------: | :---------------: | :--: | :---: | :--: |
-| Medium | [리트코드][204l] | 204. Count Primes |  DP  | 01/01 |  ✔   |
+| 난이도 |       링크        |                              이름                               |       분류       | 날짜  | 체크 |
+| :----: | :---------------: | :-------------------------------------------------------------: | :--------------: | :---: | :--: |
+| Medium | [리트코드][204l]  |                        204. Count Primes                        |        DP        | 01/01 |  ✔   |
+| Medium | [리트코드][2275l] | 2275. Largest Combination<br>With Bitwise AND Greater Than Zero | Bit Manipulation | 01/02 |  ✔   |
 
 <!-- new -->
 
 [204l]: https://leetcode.com/problems/count-primes
+[2275l]: https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero
 
 <!-- new-link -->
 
