@@ -1287,8 +1287,8 @@
 
 </details>
 
-<details open markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/12/01 ~</strong></summary>
+<details markdown="1">
+<summary><strong>꾸준히 한 문제씩<br>2022/12/01 ~ 2022/12/31</strong></summary>
 
 <br>
 
@@ -1330,8 +1330,6 @@
 | Medium |    [리트코드][797l]    |              797. All Paths From Source to Target              |   Backtracking   | 12/30 |  ✔   |
 | Medium |    [리트코드][886l]    |                   886. Possible Bipartition                    |       DFS        | 12/31 |  ✔   |
 
-<!-- new -->
-
 [78l]: https://leetcode.com/problems/subsets
 [22l]: https://leetcode.com/problems/generate-parentheses
 [200l]: https://leetcode.com/problems/number-of-islands
@@ -1363,4 +1361,27 @@
 [797l]: https://leetcode.com/problems/all-paths-from-source-to-target
 [886l]: https://leetcode.com/problems/possible-bipartition
 
+</div>
+
+</details>
+
+<details open markdown="1">
+<summary><strong>꾸준히 한 문제씩<br>2023/01/01 ~</strong></summary>
+
+<br>
+
+<div align="center">
+
+| 난이도 |       링크       |       이름        | 분류 | 날짜  | 체크 |
+| :----: | :--------------: | :---------------: | :--: | :---: | :--: |
+| Medium | [리트코드][204l] | 204. Count Primes |  DP  | 01/01 |  ✔   |
+
+<!-- new -->
+
+[204l]: https://leetcode.com/problems/count-primes
+
 <!-- new-link -->
+
+</div>
+
+</details>
