@@ -1377,12 +1377,14 @@
 | Medium | [리트코드][204l]  |                        204. Count Primes                        |        DP        | 01/01 |  ✔   |
 | Medium | [리트코드][2275l] | 2275. Largest Combination<br>With Bitwise AND Greater Than Zero | Bit Manipulation | 01/02 |  ✔   |
 | Medium | [리트코드][518l]  |                       518. Coin Change II                       |        DP        | 01/03 |  ✔   |
+| Medium | [리트코드][1472l] |                  1472. Design Browser History                   |   Linked List    | 01/04 |  ✔   |
 
 <!-- new -->
 
 [204l]: https://leetcode.com/problems/count-primes
 [2275l]: https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero
 [518l]: https://leetcode.com/problems/coin-change-ii
+[1472l]: https://leetcode.com/problems/design-browser-history
 
 <!-- new-link -->
 
