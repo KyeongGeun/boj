@@ -1378,6 +1378,7 @@
 | Medium | [리트코드][2275l] | 2275. Largest Combination<br>With Bitwise AND Greater Than Zero | Bit Manipulation | 01/02 |  ✔   |
 | Medium | [리트코드][518l]  |                       518. Coin Change II                       |        DP        | 01/03 |  ✔   |
 | Medium | [리트코드][1472l] |                  1472. Design Browser History                   |   Linked List    | 01/04 |  ✔   |
+| Medium | [리트코드][452l]  |       452. Minimum Number<br>of Arrows to Burst Balloons        |      Greedy      | 01/05 |  ✔   |
 
 <!-- new -->
 
@@ -1385,6 +1386,7 @@
 [2275l]: https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero
 [518l]: https://leetcode.com/problems/coin-change-ii
 [1472l]: https://leetcode.com/problems/design-browser-history
+[452l]: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
 
 <!-- new-link -->
 
