@@ -1381,6 +1381,8 @@
 | Medium | [리트코드][452l]  |       452. Minimum Number<br>of Arrows to Burst Balloons        |      Greedy      | 01/05 |  ✔   |
 | Medium | [리트코드][396l]  |                      396. Rotate Function                       |        DP        | 01/06 |  ✔   |
 | Medium | [리트코드][134l]  |                        134. Gas Station                         |      Greedy      | 01/07 |  ✔   |
+| Medium | [리트코드][1833l] |                  1833. Maximum Ice Cream Bars                   |      Greedy      | 01/08 |  ✔   |
+| Medium | [리트코드][2244l] |          2244. Minimum Rounds<br>to Complete All Tasks          |       Hash       | 01/08 |  ✔   |
 
 <!-- new -->
 
@@ -1391,6 +1393,8 @@
 [452l]: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
 [396l]: https://leetcode.com/problems/rotate-function
 [134l]: https://leetcode.com/problems/gas-station
+[1833l]: https://leetcode.com/problems/maximum-ice-cream-bars
+[2244l]: https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks
 
 <!-- new-link -->
 
