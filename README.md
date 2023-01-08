@@ -1383,6 +1383,7 @@
 | Medium | [리트코드][134l]  |                        134. Gas Station                         |      Greedy      | 01/07 |  ✔   |
 | Medium | [리트코드][1833l] |                  1833. Maximum Ice Cream Bars                   |      Greedy      | 01/08 |  ✔   |
 | Medium | [리트코드][2244l] |          2244. Minimum Rounds<br>to Complete All Tasks          |       Hash       | 01/08 |  ✔   |
+| Medium | [리트코드][172l]  |                 172. Factorial Trailing Zeroes                  |       Math       | 01/09 |  ✔   |
 
 <!-- new -->
 
@@ -1395,6 +1396,7 @@
 [134l]: https://leetcode.com/problems/gas-station
 [1833l]: https://leetcode.com/problems/maximum-ice-cream-bars
 [2244l]: https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks
+[172l]: https://leetcode.com/problems/factorial-trailing-zeroes
 
 <!-- new-link -->
 
