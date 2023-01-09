@@ -1384,6 +1384,7 @@
 | Medium | [리트코드][1833l] |                  1833. Maximum Ice Cream Bars                   |      Greedy      | 01/08 |  ✔   |
 | Medium | [리트코드][2244l] |          2244. Minimum Rounds<br>to Complete All Tasks          |       Hash       | 01/08 |  ✔   |
 | Medium | [리트코드][172l]  |                 172. Factorial Trailing Zeroes                  |       Math       | 01/09 |  ✔   |
+| Medium | [리트코드][2091l] |        2091. Removing Minimum<br>and Maximum From Array         |      Greedy      | 01/10 |  ✔   |
 
 <!-- new -->
 
@@ -1397,6 +1398,7 @@
 [1833l]: https://leetcode.com/problems/maximum-ice-cream-bars
 [2244l]: https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks
 [172l]: https://leetcode.com/problems/factorial-trailing-zeroes
+[2091l]: https://leetcode.com/problems/removing-minimum-and-maximum-from-array
 
 <!-- new-link -->
 
