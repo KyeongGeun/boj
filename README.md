@@ -1387,6 +1387,7 @@
 | Medium | [리트코드][2091l] |        2091. Removing Minimum<br>and Maximum From Array         |      Greedy      | 01/10 |  ✔   |
 | Medium | [리트코드][526l]  |                   526. Beautiful Arrangement                    |   Backtracking   | 01/11 |  ✔   |
 | Medium | [리트코드][1855l] |       1855. Maximum Distance<br>Between a Pair of Values        |   Two Pointer    | 01/12 |  ✔   |
+| Medium | [리트코드][436l]  |                    436. Find Right Interval                     |  Binary Search   | 01/13 |  ✔   |
 
 <!-- new -->
 
@@ -1403,6 +1404,7 @@
 [2091l]: https://leetcode.com/problems/removing-minimum-and-maximum-from-array
 [526l]: https://leetcode.com/problems/beautiful-arrangement
 [1855l]: https://leetcode.com/problems/maximum-distance-between-a-pair-of-values
+[436l]: https://leetcode.com/problems/find-right-interval
 
 <!-- new-link -->
 
