@@ -1388,6 +1388,7 @@
 | Medium | [리트코드][526l]  |                   526. Beautiful Arrangement                    |   Backtracking   | 01/11 |  ✔   |
 | Medium | [리트코드][1855l] |       1855. Maximum Distance<br>Between a Pair of Values        |   Two Pointer    | 01/12 |  ✔   |
 | Medium | [리트코드][436l]  |                    436. Find Right Interval                     |  Binary Search   | 01/13 |  ✔   |
+| Medium | [리트코드][1963l] |  1963. Minimum Number of Swaps<br>to Make the String Balanced   |      Greedy      | 01/14 |  ✔   |
 
 <!-- new -->
 
@@ -1405,6 +1406,7 @@
 [526l]: https://leetcode.com/problems/beautiful-arrangement
 [1855l]: https://leetcode.com/problems/maximum-distance-between-a-pair-of-values
 [436l]: https://leetcode.com/problems/find-right-interval
+[1963l]: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
 
 <!-- new-link -->
 
