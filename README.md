@@ -1389,6 +1389,7 @@
 | Medium | [리트코드][1855l] |       1855. Maximum Distance<br>Between a Pair of Values        |   Two Pointer    | 01/12 |  ✔   |
 | Medium | [리트코드][436l]  |                    436. Find Right Interval                     |  Binary Search   | 01/13 |  ✔   |
 | Medium | [리트코드][1963l] |  1963. Minimum Number of Swaps<br>to Make the String Balanced   |      Greedy      | 01/14 |  ✔   |
+| Medium | [리트코드][1887l] | 1887. Reduction Operations<br>to Make the Array Elements Equal  |     Sorting      | 01/15 |  ✔   |
 
 <!-- new -->
 
@@ -1407,6 +1408,7 @@
 [1855l]: https://leetcode.com/problems/maximum-distance-between-a-pair-of-values
 [436l]: https://leetcode.com/problems/find-right-interval
 [1963l]: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
+[1887l]: https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal
 
 <!-- new-link -->
 
