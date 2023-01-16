@@ -1390,6 +1390,7 @@
 | Medium | [리트코드][436l]  |                    436. Find Right Interval                     |  Binary Search   | 01/13 |  ✔   |
 | Medium | [리트코드][1963l] |  1963. Minimum Number of Swaps<br>to Make the String Balanced   |      Greedy      | 01/14 |  ✔   |
 | Medium | [리트코드][1887l] | 1887. Reduction Operations<br>to Make the Array Elements Equal  |     Sorting      | 01/15 |  ✔   |
+| Medium | [리트코드][735l]  |                     735. Asteroid Collision                     |      Stack       | 01/16 |  ✔   |
 
 <!-- new -->
 
@@ -1409,6 +1410,7 @@
 [436l]: https://leetcode.com/problems/find-right-interval
 [1963l]: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
 [1887l]: https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal
+[735l]: https://leetcode.com/problems/asteroid-collision
 
 <!-- new-link -->
 
