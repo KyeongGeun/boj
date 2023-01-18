@@ -1392,6 +1392,7 @@
 | Medium | [리트코드][1887l] | 1887. Reduction Operations<br>to Make the Array Elements Equal  |     Sorting      | 01/15 |  ✔   |
 | Medium | [리트코드][735l]  |                     735. Asteroid Collision                     |      Stack       | 01/16 |  ✔   |
 | Medium |  [리트코드][57l]  |                       57. Insert Interval                       |      Array       | 01/17 |  ✔   |
+| Medium | [리트코드][486l]  |                     486. Predict the Winner                     |       분류       | 01/18 |  ✔   |
 
 <!-- new -->
 
@@ -1413,6 +1414,7 @@
 [1887l]: https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal
 [735l]: https://leetcode.com/problems/asteroid-collision
 [57l]: https://leetcode.com/problems/insert-interval
+[486l]: https://leetcode.com/problems/predict-the-winner
 
 <!-- new-link -->
 
