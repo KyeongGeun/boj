@@ -1392,7 +1392,8 @@
 | Medium | [리트코드][1887l] | 1887. Reduction Operations<br>to Make the Array Elements Equal  |     Sorting      | 01/15 |  ✔   |
 | Medium | [리트코드][735l]  |                     735. Asteroid Collision                     |      Stack       | 01/16 |  ✔   |
 | Medium |  [리트코드][57l]  |                       57. Insert Interval                       |      Array       | 01/17 |  ✔   |
-| Medium | [리트코드][486l]  |                     486. Predict the Winner                     |       분류       | 01/18 |  ✔   |
+| Medium | [리트코드][486l]  |                     486. Predict the Winner                     |        DP        | 01/18 |  ✔   |
+| Medium | [리트코드][1016l] |   1016. Binary String<br>With Substrings Representing 1 To N    |       분류       | 01/19 |  ✔   |
 
 <!-- new -->
 
@@ -1415,6 +1416,7 @@
 [735l]: https://leetcode.com/problems/asteroid-collision
 [57l]: https://leetcode.com/problems/insert-interval
 [486l]: https://leetcode.com/problems/predict-the-winner
+[1016l]: https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n
 
 <!-- new-link -->
 
