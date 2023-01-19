@@ -1393,7 +1393,8 @@
 | Medium | [리트코드][735l]  |                     735. Asteroid Collision                     |      Stack       | 01/16 |  ✔   |
 | Medium |  [리트코드][57l]  |                       57. Insert Interval                       |      Array       | 01/17 |  ✔   |
 | Medium | [리트코드][486l]  |                     486. Predict the Winner                     |        DP        | 01/18 |  ✔   |
-| Medium | [리트코드][1016l] |   1016. Binary String<br>With Substrings Representing 1 To N    |       분류       | 01/19 |  ✔   |
+| Medium | [리트코드][1016l] |   1016. Binary String<br>With Substrings Representing 1 To N    |       Hash       | 01/19 |  ✔   |
+| Medium | [리트코드][2530l] |       2530. Maximal Score<br>After Applying K Operations        |  Priority Queue  | 01/20 |  ✔   |
 
 <!-- new -->
 
@@ -1417,6 +1418,7 @@
 [57l]: https://leetcode.com/problems/insert-interval
 [486l]: https://leetcode.com/problems/predict-the-winner
 [1016l]: https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n
+[2530l]: https://leetcode.com/problems/maximal-score-after-applying-k-operations
 
 <!-- new-link -->
 
