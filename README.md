@@ -10,7 +10,7 @@
 ---
 
 <details markdown="1">
-<summary><strong>백준 단계별로 풀어보기<br>2022/01/27 ~ 2022/06/01</strong></summary>
+<summary><strong>하루 한 문제 / 백준 - 단계별로 풀어보기<br>2022/01/27 ~ 2022/06/01</strong></summary>
 
 <br>
 
@@ -815,7 +815,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/06/02 ~ 2022/06/30</strong></summary>
+<summary><strong>하루 한 문제<br>2022/06/02 ~ 2022/06/30</strong></summary>
 
 <br>
 
@@ -888,7 +888,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/07/01 ~ 2022/07/31</strong></summary>
+<summary><strong>하루 한 문제<br>2022/07/01 ~ 2022/07/31</strong></summary>
 
 <br>
 
@@ -967,7 +967,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/08/01 ~ 2022/08/31</strong></summary>
+<summary><strong>하루 한 문제<br>2022/08/01 ~ 2022/08/31</strong></summary>
 
 <br>
 
@@ -1044,7 +1044,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/09/01 ~ 2022/09/30</strong></summary>
+<summary><strong>하루 한 문제<br>2022/09/01 ~ 2022/09/30</strong></summary>
 
 <br>
 
@@ -1121,7 +1121,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/10/01 ~ 2022/10/31</strong></summary>
+<summary><strong>하루 한 문제<br>2022/10/01 ~ 2022/10/31</strong></summary>
 
 <br>
 
@@ -1198,7 +1198,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/11/01 ~ 2022/11/31</strong></summary>
+<summary><strong>하루 한 문제<br>2022/11/01 ~ 2022/11/31</strong></summary>
 
 <br>
 
@@ -1288,7 +1288,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2022/12/01 ~ 2022/12/31</strong></summary>
+<summary><strong>하루 한 문제<br>2022/12/01 ~ 2022/12/31</strong></summary>
 
 <br>
 
@@ -1366,7 +1366,7 @@
 </details>
 
 <details open markdown="1">
-<summary><strong>꾸준히 한 문제씩<br>2023/01/01 ~</strong></summary>
+<summary><strong>하루 한 문제<br>2023/01/01 ~</strong></summary>
 
 <br>
 
