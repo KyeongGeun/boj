@@ -1396,6 +1396,7 @@
 | Medium | [리트코드][1016l] |   1016. Binary String<br>With Substrings Representing 1 To N    |       Hash       | 01/19 |  ✔   |
 | Medium | [리트코드][2530l] |       2530. Maximal Score<br>After Applying K Operations        |  Priority Queue  | 01/20 |  ✔   |
 | Medium | [리트코드][2012l] |                2012. Sum of Beauty in the Array                 |      Array       | 01/21 |  ✔   |
+| Medium | [리트코드][457l]  |                    457. Circular Array Loop                     |       DFS        | 01/22 |  ✔   |
 
 <!-- new -->
 
@@ -1421,6 +1422,7 @@
 [1016l]: https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n
 [2530l]: https://leetcode.com/problems/maximal-score-after-applying-k-operations
 [2012l]: https://leetcode.com/problems/sum-of-beauty-in-the-array
+[457l]: https://leetcode.com/problems/circular-array-loop
 
 <!-- new-link -->
 
