@@ -1400,6 +1400,7 @@
 | Medium | [리트코드][665l]  |                    665. Non-decreasing Array                    |      Array       | 01/23 |  ✔   |
 | Medium | [리트코드][1358l] |  1358. Number of Substrings<br>Containing All Three Characters  |  Sliding Window  | 01/24 |  ✔   |
 | Medium | [리트코드][451l]  |                451. Sort Characters By Frequency                |       Hash       | 01/25 |  ✔   |
+| Medium | [리트코드][1288l] |                 1288. Remove Covered Intervals                  |      Greedy      | 01/26 |  ✔   |
 
 <!-- new -->
 
@@ -1429,6 +1430,7 @@
 [665l]: https://leetcode.com/problems/non-decreasing-array
 [1358l]: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters
 [451l]: https://leetcode.com/problems/sort-characters-by-frequency
+[1288l]: https://leetcode.com/problems/remove-covered-intervals
 
 <!-- new-link -->
 
