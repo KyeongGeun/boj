@@ -1401,6 +1401,7 @@
 | Medium | [리트코드][1358l] |  1358. Number of Substrings<br>Containing All Three Characters  |  Sliding Window  | 01/24 |  ✔   |
 | Medium | [리트코드][451l]  |                451. Sort Characters By Frequency                |       Hash       | 01/25 |  ✔   |
 | Medium | [리트코드][1288l] |                 1288. Remove Covered Intervals                  |      Greedy      | 01/26 |  ✔   |
+| Medium |  [리트코드][45l]  |                        45. Jump Game II                         |        DP        | 01/27 |  ✔   |
 
 <!-- new -->
 
@@ -1431,6 +1432,7 @@
 [1358l]: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters
 [451l]: https://leetcode.com/problems/sort-characters-by-frequency
 [1288l]: https://leetcode.com/problems/remove-covered-intervals
+[45l]: https://leetcode.com/problems/jump-game-ii
 
 <!-- new-link -->
 
