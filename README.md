@@ -1365,8 +1365,8 @@
 
 </details>
 
-<details open markdown="1">
-<summary><strong>하루 한 문제<br>2023/01/01 ~</strong></summary>
+<details markdown="1">
+<summary><strong>하루 한 문제<br>2023/01/01 ~ 2023/01/27</strong></summary>
 
 <br>
 
