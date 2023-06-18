@@ -9,6 +9,8 @@
 
 ---
 
+[365일 동안의 알고리즘 하루 한 문제 후기 링크](https://kkg0.tistory.com/87)
+
 <details markdown="1">
 <summary><strong>하루 한 문제 / 백준 - 단계별로 풀어보기<br>2022/01/27 ~ 2022/06/01</strong></summary>
 
